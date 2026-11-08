@@ -3,6 +3,10 @@
 Scrapes the monthly traffic-rules test that the Spanish DGT publishes in its magazine at
 [revista.dgt.es](https://revista.dgt.es/) and turns it into static JSON plus local images.
 
+> [!NOTE]
+> This project has been partially vibecoded.
+> All the code has been reviewed by myself.
+
 ## Output
 
 Everything lands in `dist/`:
