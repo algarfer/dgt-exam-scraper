@@ -1,0 +1,155 @@
+{
+  "number": 226,
+  "title": "Mayo-junio 2014",
+  "url": "https://revista.dgt.es/es/test/Test-num-226.shtml",
+  "scraped_at": "2026-11-08T17:16:40Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "¿Está permitido estacionar en doble fila?",
+      "image": "image-1.jpg",
+      "image_alt": "En doble fila",
+      "image_source": "https://revista.dgt.es/Galerias/test/201406/Test226-Preg-01-Doble-fila.jpg",
+      "answers": [
+        {
+          "text": "Sí, cuando no haya espacio libre en las proximidades.",
+          "correct": false
+        },
+        {
+          "text": "Sí, en las vías urbanas, por un tiempo inferior a dos minutos.",
+          "correct": false
+        },
+        {
+          "text": "No está permitido en ningún caso.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "En una travesía sin limitación específica, ¿cuál es la velocidad máxima permitida para adelantar?",
+      "image": "image-2.jpg",
+      "image_alt": "Velocidad en travesía",
+      "image_source": "https://revista.dgt.es/Galerias/test/201406/Test226-Preg-02-Trasvesia.jpg",
+      "answers": [
+        {
+          "text": "70 km/h.",
+          "correct": false
+        },
+        {
+          "text": "90 km/h.",
+          "correct": false
+        },
+        {
+          "text": "50 km/h.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Esta señal recomienda mantener la velocidad entre los valores indicados...",
+      "image": "image-3.jpg",
+      "image_alt": "Recomendacion de velocidad",
+      "image_source": "https://revista.dgt.es/Galerias/test/201406/Test226-preg03-S9.jpg",
+      "answers": [
+        {
+          "text": "Siempre que las condiciones meteorológicas o ambientales sean favorables.",
+          "correct": true
+        },
+        {
+          "text": "Cuando las condiciones meteorológicas o ambientales sean desfavorables.",
+          "correct": false
+        },
+        {
+          "text": "En cualquier caso.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Bajo los efectos de la depresión...",
+      "image": "image-4.jpg",
+      "image_alt": "Depresión",
+      "image_source": "https://revista.dgt.es/Galerias/test/201406/Test226-preg04-Depresion.jpg",
+      "answers": [
+        {
+          "text": "Disminuyen las distracciones.",
+          "correct": false
+        },
+        {
+          "text": "Se pierde información del entorno.",
+          "correct": true
+        },
+        {
+          "text": "Se tiene más seguridad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "El conductor, ¿está obligado a hacer que los pasajeros mantengan la posición adecuada?",
+      "image": "image-5.jpg",
+      "image_alt": "Posturas",
+      "image_source": "https://revista.dgt.es/Galerias/test/201406/Test226-preg05-Postura.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "No, solo está obligado a cuidar la colocación de los objetos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Cuando una señal vertical contradice a una señal de balizamiento fijo prevalece la señal...",
+      "image": "image-6.jpg",
+      "image_alt": "Contradicción de señales",
+      "image_source": "https://revista.dgt.es/Galerias/test/201406/Test226-preg06-senales.jpg",
+      "answers": [
+        {
+          "text": "Vertical.",
+          "correct": false
+        },
+        {
+          "text": "Más restrictivia.",
+          "correct": false
+        },
+        {
+          "text": "De balizamiento fijo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Los reflejos del sol directo sobre el conductor, ¿pueden tener un efecto negativo en la conducción?",
+      "image": "image-7.jpg",
+      "image_alt": "Deslumbramiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/201406/Test226-preg07-ampliada-sol.jpg",
+      "answers": [
+        {
+          "text": "Sí, por lo que debe encender la luz de largo alcance para facilitar la visibilidad.",
+          "correct": false
+        },
+        {
+          "text": "No, ninguno.",
+          "correct": false
+        },
+        {
+          "text": "Sí, afectan a la visión haciendo difícil distinguir los vehículos sobre el pavimento.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

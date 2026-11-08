@@ -1,0 +1,239 @@
+{
+  "number": 224,
+  "title": "Febrero 2014",
+  "url": "https://revista.dgt.es/es/test/Test-num-224.shtml",
+  "scraped_at": "2026-11-08T17:17:32Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "¿Es recomendable la utilización de cojines en los asientos?",
+      "image": "image-1.jpg",
+      "image_alt": "Cojines en los asientos",
+      "image_source": "https://revista.dgt.es/Galerias/test/201402/Test-224-preg-1.jpg",
+      "answers": [
+        {
+          "text": "Sí, para evitar la fatiga.",
+          "correct": false
+        },
+        {
+          "text": "Sí, mejora la visibilidad y la seguridad cuando se conduce.",
+          "correct": false
+        },
+        {
+          "text": "No, puede afectar a la eficacia del cinturón.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Qué sistema reduce el riesgo de bloqueo de las ruedas en caso de frenazo brusco?",
+      "image": "image-2.jpg",
+      "image_alt": "Riesgo bloqueo de ruedas",
+      "image_source": "https://revista.dgt.es/Galerias/test/201402/Test-224-preg-2.jpg",
+      "answers": [
+        {
+          "text": "El servofreno.",
+          "correct": false
+        },
+        {
+          "text": "La tracción total.",
+          "correct": false
+        },
+        {
+          "text": "El ABS",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Si por circunstancias del tráfico prevé que va a tener que reducir considerablemente la velocidad, ¿qué debe hacer?",
+      "image": "image-3.jpg",
+      "image_alt": "Reducir la velocidad",
+      "image_source": "https://revista.dgt.es/Galerias/test/201402/Test-224-preg-3.jpg",
+      "answers": [
+        {
+          "text": "Circular con la marcha más corta posible.",
+          "correct": false
+        },
+        {
+          "text": "Deberá advertirlo mediante el empleo reiterado de las luces de frenado.",
+          "correct": true
+        },
+        {
+          "text": "Advertirlo mediante señales acústicas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "En la maniobra de marcha atrás, ¿está exento el conductor del uso del cinturón de seguridad?",
+      "image": "image-4.jpg",
+      "image_alt": "Marcha atrás y cinturón",
+      "image_source": "https://revista.dgt.es/Galerias/test/201402/Test-224-preg-4.jpg",
+      "answers": [
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero solo en vías urbanas.",
+          "correct": false
+        },
+        {
+          "text": "No, debe llevarlo abrochado siempre.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Para evitar ruidos excesivos e innecesarios en la conducción, se debe...",
+      "image": "image-5.jpg",
+      "image_alt": "Ruido de la circulación",
+      "image_source": "https://revista.dgt.es/Galerias/test/201402/Test-224-preg-5.jpg",
+      "answers": [
+        {
+          "text": "Circular con el tubo de escape libre.",
+          "correct": false
+        },
+        {
+          "text": "Utilizar el claxon frecuentemente pero sin producir ruidos estridentes o notas musicales.",
+          "correct": false
+        },
+        {
+          "text": "Cuidar de que el tubo de escape y el silenciador del vehículo estén siempre en buen estado.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Si existe gravilla en la calzada, ¿qué se debe hacer para evitar la rotura del parabrisas?",
+      "image": "image-6.jpg",
+      "image_alt": "Gravilla en el parabrisas",
+      "image_source": "https://revista.dgt.es/Galerias/test/201402/Test-224-preg-6.jpg",
+      "answers": [
+        {
+          "text": "Aumentar la separación con los vehículos que nos preceden.",
+          "correct": true
+        },
+        {
+          "text": "Aumentar la velocidad para disminuir los efectos del impacto.",
+          "correct": false
+        },
+        {
+          "text": "Nada, porque si el parabrisas está limpio se reduce el riesgo de rotura por gravilla.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Si mientras circula con su vehículo comienza a nevar, ¿debe extremar la precaución y reducir la velocidad?",
+      "image": "image-7.jpg",
+      "image_alt": "Conducir sobre nieve",
+      "image_source": "https://revista.dgt.es/Galerias/test/201402/Test-224-preg-7.jpg",
+      "answers": [
+        {
+          "text": "No, solamente cuando nieve de forma copiosa.",
+          "correct": false
+        },
+        {
+          "text": "Sí, y en el caso de realizar frenadas y aceleraciones lo haré de forma suave y progresiva.",
+          "correct": true
+        },
+        {
+          "text": "Sí, y, obligatoriamente, pondré las cadenas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Una correcta suspensión del vehículo sirve para:",
+      "image": "image-8.jpg",
+      "image_alt": "Suspensión vehículos",
+      "image_source": "https://revista.dgt.es/Galerias/test/201402/Test-224-preg-8.jpg",
+      "answers": [
+        {
+          "text": "Mantener el vehículo siempre en contacto con el suelo.",
+          "correct": true
+        },
+        {
+          "text": "Transmitir el giro del motor a las ruedas.",
+          "correct": false
+        },
+        {
+          "text": "Mantener inmovilizado el vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Si la separación entre los trazos de una línea longitudinal discontinua es sensiblemente más corta que en el caso general, anuncia...",
+      "image": "image-9.jpg",
+      "image_alt": "Líneas de la carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/201402/Test-224-preg-9.jpg",
+      "answers": [
+        {
+          "text": "La proximidad de un tramo de vía que presenta un riesgo especial.",
+          "correct": true
+        },
+        {
+          "text": "La proximidad de un tramo con una pendiente mayor al cinco por ciento.",
+          "correct": false
+        },
+        {
+          "text": "La proximidad de una travesía.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "El viento por la derecha en los adelantamientos a vehículos grandes, ¿por qué es peligroso?",
+      "image": "image-10.jpg",
+      "image_alt": "Viento lateral",
+      "image_source": "https://revista.dgt.es/Galerias/test/201402/Test-224-preg-10.jpg",
+      "answers": [
+        {
+          "text": "Porque frena mi vehículo y no me deja adelantar.",
+          "correct": false
+        },
+        {
+          "text": "Porque puedo perder el control del vehículo y salirme de la calzada.",
+          "correct": true
+        },
+        {
+          "text": "Porque no me deja ver la calzada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "En el carril de entrada, ¿cómo debe circular?",
+      "image": "image-11.jpg",
+      "image_alt": "Carril de entrada a autovía",
+      "image_source": "https://revista.dgt.es/Galerias/test/201402/Test-224-preg-11.jpg",
+      "answers": [
+        {
+          "text": "Deteniéndome antes de la señal.",
+          "correct": false
+        },
+        {
+          "text": "Cediendo el paso a los vehículos que circulan por la autovía.",
+          "correct": true
+        },
+        {
+          "text": "Acelerando porque no estoy obligado a ceder el paso.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "number": 246,
+  "title": "Mayo 2018",
+  "url": "https://revista.dgt.es/es/test/Test-num-246.shtml",
+  "scraped_at": "2026-11-08T17:18:23Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Al cargar combustible es obligatorio...",
+      "image": "image-1.jpg",
+      "image_alt": "Cargando combustible",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P1-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "parar el motor y apagar las luces del vehículo.",
+          "correct": true
+        },
+        {
+          "text": "parar el motor y encender la señal de emergencia.",
+          "correct": false
+        },
+        {
+          "text": "parar el motor y subir las ventanillas del vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Una motocicleta, ¿puede utilizar normalmente un carril VAO?",
+      "image": "image-2.jpg",
+      "image_alt": "Circulando por el carril VAO",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P2-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "No, solo pueden utilizarlo turismos.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero siempre que en dicho carril no exista tráfico.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "¿Cuál es la edad mínima para viajar como acompañante en una motocicleta conducida por alguien distinto a los padres o al tutor del menor, o por una persona mayor de edad autorizada?",
+      "image": "image-3.jpg",
+      "image_alt": "Menor circulando en moto",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P3-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "7 años.",
+          "correct": false
+        },
+        {
+          "text": "12 años.",
+          "correct": true
+        },
+        {
+          "text": "14 años.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Si mientras conducimos tenemos una fuerte discusión y nos alteramos, es recomendable...",
+      "image": "image-4.jpg",
+      "image_alt": "Conducción con alteraciones",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P4-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "Acelerar y procurar llegar lo antes posible a nuestro destino.",
+          "correct": false
+        },
+        {
+          "text": "Parar en lugar permitido y no continuar la marcha hasta sentirnos más tranquilos.",
+          "correct": true
+        },
+        {
+          "text": "Tomar un medicamento relajante.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "¿Cuándo está prohibido adelantar en los túneles?",
+      "image": "image-5.jpg",
+      "image_alt": "Entrada a un túnel de carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P5-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "Cuando solo existe un carril para cada sentido.",
+          "correct": true
+        },
+        {
+          "text": "Cuando existe más de un carril para cada sentido.",
+          "correct": false
+        },
+        {
+          "text": "Cuando el túnel no está iluminado.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Al cruzar un arcén por el que circulan peatones en una zona en la que no existe zona peatonal, ¿qué debe hacer?",
+      "image": "image-6.jpg",
+      "image_alt": "Peatones por el arcén",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P6-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "Ceder el paso a los peatones, pues tienen preferencia.",
+          "correct": true
+        },
+        {
+          "text": "Avisar a los peatones de su presencia con señales acústicas.",
+          "correct": false
+        },
+        {
+          "text": "Continuar circulando, ya que tiene preferencia de paso.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "En esta zona con línea amarilla en zig-zag, ¿qué está prohibido?",
+      "image": "image-7.jpg",
+      "image_alt": "Señalización horizontal zig-zag amarillo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/-P-7-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "Estacionar.",
+          "correct": true
+        },
+        {
+          "text": "Parar.",
+          "correct": false
+        },
+        {
+          "text": "Parar y estacionar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Este vehículo está inmovilizado por avería. Su conductor, ¿debe advertir de su presencia a los demás usuarios de la vía?",
+      "image": "image-8.jpg",
+      "image_alt": "Inmovilización por avería",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P8-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "No; solo están obligados los conductores de camiones y autobuses.",
+          "correct": false
+        },
+        {
+          "text": "Fuera de poblado sí es obligatorio, siendo opcional en vías urbanas.",
+          "correct": false
+        },
+        {
+          "text": "Sí, y se emplearán los triángulos de preseñalización de peligro.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Cuál es la sanción por no tener el seguro obligatorio del vehículo?",
+      "image": "image-9.jpg",
+      "image_alt": "Seguro obligatorio",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P9-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "Una multa, pero sin inmovilización del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Una multa, y además se podrá inmovilizar el vehículo.",
+          "correct": true
+        },
+        {
+          "text": "La inmovilización del vehículo, pero no supone sanción económica.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "¿Qué debe tener especialmente en cuenta para dejar con el vehículo de delante una distancia que le permita, en caso de frenada brusca, detenerse con seguridad?",
+      "image": "image-10.jpg",
+      "image_alt": "Frenada brusca",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P10-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "La velocidad de circulación, únicamente.",
+          "correct": false
+        },
+        {
+          "text": "La velocidad y las condiciones de adherencia y frenado.",
+          "correct": true
+        },
+        {
+          "text": "Las condiciones climatológicas y el tipo de vehículo que nos sigue.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Todo peatón que circule por el arcén de una vía fuera de poblado, entre el ocaso y la salida del sol, ¿debe ir provisto de un elemento luminoso o retrorreflectante?",
+      "image": "image-11.jpg",
+      "image_alt": "Peatones circulando al atardecer",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P-11-n246-250x226-2.jpg",
+      "answers": [
+        {
+          "text": "No, si circula lo más próximo posible al borde de la calzada.",
+          "correct": false
+        },
+        {
+          "text": "Sí, para hacerse visible a una distancia mínima de 150 metros por los conductores que se le aproximen.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero solamente debe llevarlo puesto cuando existan condiciones meteorológicas que disminuyan sensiblemente la visibilidad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "En un semáforo se apaga la luz verde y se enciende la luz amarilla fija; ¿puede pasar?",
+      "image": "image-12.jpg",
+      "image_alt": "Semáforo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P11-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, en todo caso.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque todavía no ha cambiado la luz a rojo.",
+          "correct": false
+        },
+        {
+          "text": "No, excepto si no puede detenerse en condiciones de seguridad suficiente.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Para girar a la izquierda en una vía en la que no hay marca que separe los dos sentidos de circulación, ¿dónde debe situarse?",
+      "image": "image-13.jpg",
+      "image_alt": "Carretera sin señalización horizontal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P-13-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "Obligatoriamente en el arcén, para realizar la maniobra desde allí.",
+          "correct": false
+        },
+        {
+          "text": "En el centro de la calzada, invadiendo parte del sentido contrario si es preciso.",
+          "correct": false
+        },
+        {
+          "text": "Junto al eje de la calzada, sin invadir el sentido contrario.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "En un carril bus, ¿puede un turismo realizar una parada?",
+      "image": "image-14.jpg",
+      "image_alt": "Carril-bus",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P-14-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "Solo cuando no obstaculice la circulación de autobuses.",
+          "correct": false
+        },
+        {
+          "text": "Sí, en todo caso.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "El uso adecuado del casco implica que la correa de sujeción...",
+      "image": "image-15.jpg",
+      "image_alt": "Abrochándose un casco",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-246/P14-n246-250x226.jpg",
+      "answers": [
+        {
+          "text": "no debe abrocharse.",
+          "correct": false
+        },
+        {
+          "text": "debe llevarse correctamente abrochada, para que el casco cumpla eficazmente su función.",
+          "correct": true
+        },
+        {
+          "text": "puede llevarse desabrochada en vía urbana.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "number": 279,
+  "title": "Octubre 2026",
+  "url": "https://revista.dgt.es/es/test/Test-num-279.shtml",
+  "scraped_at": "2026-11-08T17:18:20Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Cuando no se pueda posicionar el vehículo paralelo al borde de la calzada, ¿se podrá permitir la parada o el estacionamiento dejando el vehículo en otra posición?",
+      "image": "image-1.jpg",
+      "image_alt": "Aparcamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P01-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, cuando las características de la vía u otras circunstancias así lo aconsejen.",
+          "correct": true
+        },
+        {
+          "text": "Sólo si existe alguna señal que permita el estacionamiento en batería.",
+          "correct": false
+        },
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Cómo debe realizarse un cambio de carril en una vía saturada?",
+      "image": "image-2.jpg",
+      "image_alt": "Carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P02-250x226.jpg",
+      "answers": [
+        {
+          "text": "Utilizando el arcén.",
+          "correct": false
+        },
+        {
+          "text": "Advirtiéndolo con suficiente antelación.",
+          "correct": true
+        },
+        {
+          "text": "Realizando la maniobra rápidamente para no estorbar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "¿De qué próximo peligro advierte esta señal?",
+      "image": "image-3.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "Un estrechamiento de la calzada.",
+          "correct": false
+        },
+        {
+          "text": "Un tramo con circulación en ambos sentidos.",
+          "correct": true
+        },
+        {
+          "text": "Un tramo con prioridad respecto a los vehículos que circulan en sentido contrario.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Para reducir el riesgo de accidente, un conductor que esté tomando medicamentos debe...",
+      "image": "image-4.jpg",
+      "image_alt": "Medicamentos",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P04-250x226.jpg",
+      "answers": [
+        {
+          "text": "conocer sus posibles efectos secundarios y seguir las indicaciones del médico.",
+          "correct": true
+        },
+        {
+          "text": "evitar la conducción de vehículos mientras dure el tratamiento.",
+          "correct": false
+        },
+        {
+          "text": "tomar café para combatir sus posibles efectos secundarios.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "La mayor parte de las distracciones del conductor se relacionan con...",
+      "image": "image-5.jpg",
+      "image_alt": "Móvil",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P05-250x226.jpg",
+      "answers": [
+        {
+          "text": "su estado psicofísico y su comportamiento.",
+          "correct": true
+        },
+        {
+          "text": "la disposición de los mandos en el vehículo.",
+          "correct": false
+        },
+        {
+          "text": "factores externos, como la vía y su entorno.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Este conjunto de vehículos con remolque de 750 kg de M.M.A., ¿a qué velocidad puede circular como máximo por una autovía?",
+      "image": "image-6.jpg",
+      "image_alt": "Remolque",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P06-250x226.jpg",
+      "answers": [
+        {
+          "text": "A 100 km/h.",
+          "correct": false
+        },
+        {
+          "text": "A 120 km/h.",
+          "correct": false
+        },
+        {
+          "text": "A 90 km/h.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "A una ambulancia que use únicamente la señal especial luminosa, ¿se le debe ceder el paso?",
+      "image": "image-7.jpg",
+      "image_alt": "Ambulancia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P07-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, debe emplear de forma conjunta la señal luminosa y la acústica.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero sólo en vías urbanas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Tomando las debidas precauciones, ¿por dónde podrá circular una persona que empuje con las manos una bicicleta cuando su tránsito por la acera sea un estorbo para los demás peatones?",
+      "image": "image-8.jpg",
+      "image_alt": "Bicicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P08-250x226.jpg",
+      "answers": [
+        {
+          "text": "Por la calzada, pero en ningún caso por el arcén.",
+          "correct": false
+        },
+        {
+          "text": "Por el arcén, pero en ningún caso por la calzada.",
+          "correct": false
+        },
+        {
+          "text": "Por el arcén o por la calzada.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Circular a velocidad inferior a la mínima permitida sin causa justificada, ¿es peligroso?",
+      "image": "image-9.jpg",
+      "image_alt": "Velocidad",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, y además está prohibido.",
+          "correct": true
+        },
+        {
+          "text": "No, porque circular más despacio es siempre más seguro.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque lo más seguro es circular a la velocidad máxima permitida.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Este turismo circula por una autovía a 100 km/h; ¿circula a velocidad adecuada?",
+      "image": "image-10.jpg",
+      "image_alt": "Coche",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, porque lo aconsejado es circular a 120 km/h.",
+          "correct": false
+        },
+        {
+          "text": "Sí, siempre que lo permitan las circunstancias del tráfico y de la vía.",
+          "correct": true
+        },
+        {
+          "text": "Sí, siempre que no entorpezca la circulación.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Una vez abrochado el cinturón de seguridad, es aconsejable...",
+      "image": "image-11.jpg",
+      "image_alt": "Cinturón",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P11-250x226.jpg",
+      "answers": [
+        {
+          "text": "colocar una pinza para que quede holgado.",
+          "correct": false
+        },
+        {
+          "text": "comprobar que está bien colocado y ajustado al cuerpo.",
+          "correct": true
+        },
+        {
+          "text": "aflojar la zona abdominal para estar más cómodo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "El conductor de la motocicleta está realizando un adelantamiento fuera de poblado; ¿qué separación lateral debe dejar con el vehículo adelantado?",
+      "image": "image-12.jpg",
+      "image_alt": "Motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "Superior a 1,50 metros.",
+          "correct": true
+        },
+        {
+          "text": "Superior a 1,20 metros e inferior a 1,50 metros.",
+          "correct": false
+        },
+        {
+          "text": "La proporcional a la anchura de la vía.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Puede circular un turismo por una vía regulada con esta señal?",
+      "image": "image-13.jpg",
+      "image_alt": "Caballo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, porque es un camino reservado para animales de montura.",
+          "correct": true
+        },
+        {
+          "text": "Sí, con precaución, porque también podrían circular animales de montura.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque esta señal prohíbe el paso a animales de montura.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Entre otras precauciones, ¿qué debemos hacer para compensar el riesgo que supone conducir bajo la lluvia?",
+      "image": "image-14.jpg",
+      "image_alt": "Lluvia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "Aumentar la distancia de seguridad para evitar los alcances por pérdida de adherencia.",
+          "correct": true
+        },
+        {
+          "text": "Reducir la distancia de seguridad y encender la luz de cruce para hacerse ver.",
+          "correct": false
+        },
+        {
+          "text": "Reducir la presión de los neumáticos para mejorar la adherencia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "¿Cuántas plazas, como máximo, podrá tener un vehículo de movilidad personal?",
+      "image": "image-15.jpg",
+      "image_alt": "VMP",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-279/Test-279-P15-250x226.jpg",
+      "answers": [
+        {
+          "text": "Una plaza.",
+          "correct": true
+        },
+        {
+          "text": "Dos plazas.",
+          "correct": false
+        },
+        {
+          "text": "Una o dos plazas, depende del tipo de vehículo de movilidad personal.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

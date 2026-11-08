@@ -1,0 +1,260 @@
+{
+  "number": 228,
+  "title": "Septiembre-octubre 2014",
+  "url": "https://revista.dgt.es/es/test/Test-num-228.shtml",
+  "scraped_at": "2026-11-08T17:17:46Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "El inflado correcto de los neumáticos es el...",
+      "image": "image-1.jpg",
+      "image_alt": "Infando de neumáticos",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228preg-1.jpg",
+      "answers": [
+        {
+          "text": "Recomendado por el fabricante en cada caso.",
+          "correct": true
+        },
+        {
+          "text": "Superior al recomendado por el fabricante en un 20%.",
+          "correct": false
+        },
+        {
+          "text": "Adecuado a la forma de conducir de cada persona.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿A qué altura debe quedar la parte central del reposacabezas?",
+      "image": "image-2.jpg",
+      "image_alt": "Conductor y reposacabezas",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228-preg-2.jpg",
+      "answers": [
+        {
+          "text": "A la altura de los ojos.",
+          "correct": true
+        },
+        {
+          "text": "A la altura del cuello.",
+          "correct": false
+        },
+        {
+          "text": "Es indiferente la altura del reposacabezas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Es obligatorio el uso del alumbrado para los turismos...",
+      "image": "image-3.jpg",
+      "image_alt": "Alumbrado de turismos",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228-preg-3.jpg",
+      "answers": [
+        {
+          "text": "Entre la puesta y la salida del sol.",
+          "correct": true
+        },
+        {
+          "text": "Durante el día al cruzar un paso a nivel.",
+          "correct": false
+        },
+        {
+          "text": "Durante el día en travesías de poblaciones.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Un vehículo que circula por un carril adicional, ¿está obligado a llevar algún tipo de alumbrado?",
+      "image": "image-4.jpg",
+      "image_alt": "Por un carril adicional",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228-preg-4.jpg",
+      "answers": [
+        {
+          "text": "Sí, la luz de corto alcance.",
+          "correct": true
+        },
+        {
+          "text": "Sí, la luz de corto alcance, pero no está obligado cuando circula de día.",
+          "correct": false
+        },
+        {
+          "text": "Sí, luces de posición.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "¿Qué indica la señal?",
+      "image": "image-5.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228-preg-5.jpg",
+      "answers": [
+        {
+          "text": "Prohibido el paso a vehículos con altura (incluida la carga) mayor a 3,5 metros.",
+          "correct": true
+        },
+        {
+          "text": "Obliga a circular por el arcén a los vehículos con altura superior a 3,5 metros.",
+          "correct": false
+        },
+        {
+          "text": "Vía obligatoria para vehículos con altura igual o mayor a 3,5 metros.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Un turismo de nueva matriculación de uso privado, ¿cuándo deberá pasar la próxima inspección técnica del vehículo?",
+      "image": "image-6.jpg",
+      "image_alt": "Pegatina ITV",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228-preg-6.jpg",
+      "answers": [
+        {
+          "text": "A los 3 años desde la fecha de expedición de la Tarjeta de Inspección Técnica.",
+          "correct": false
+        },
+        {
+          "text": "A los 5 años.",
+          "correct": false
+        },
+        {
+          "text": "A los 4 años desde la fecha de matriculación.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "La señal indica que el carril derecho ...",
+      "image": "image-7.jpg",
+      "image_alt": "Señal utilización carril derecho",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228-preg-7.jpg",
+      "answers": [
+        {
+          "text": "Sólo pueden utilizarlo los ciclos.",
+          "correct": true
+        },
+        {
+          "text": "Es obligatorio para los vehículos de dos ruedas.",
+          "correct": false
+        },
+        {
+          "text": "Es obligatorio para bicicletas, pudiendo ser utilizado por otros usuarios.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "¿Es recomendable hacer una puesta a punto del vehículo después de las vacaciones estivales?",
+      "image": "image-8.jpg",
+      "image_alt": "Vehículo en un taller",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228-preg-8-ampliada.jpg",
+      "answers": [
+        {
+          "text": "No, si se ha hecho antes del periodo vacacional.",
+          "correct": false
+        },
+        {
+          "text": "Sí, sobre todo si ha estado en zona de playa porque la arena y la sal pueden acelerar la aparición de puntos de corrosión en la carrocería.",
+          "correct": true
+        },
+        {
+          "text": "Solo es recomendable revisar la presión de los neumáticos si ha realizado muchos kilómetros.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿De qué peligro nos advierte esta señal?",
+      "image": "image-9.jpg",
+      "image_alt": "Señal de tráfico",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228-preg-9.jpg",
+      "answers": [
+        {
+          "text": "Obstrucción en la calzada.",
+          "correct": true
+        },
+        {
+          "text": "Escalón lateral",
+          "correct": false
+        },
+        {
+          "text": "Pavimento deslizante",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Para ahorrar carburante debo...",
+      "image": "image-10.jpg",
+      "image_alt": "Cuentakilómetros",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228-preg-10.jpg",
+      "answers": [
+        {
+          "text": "Circular más cerca del vehículo que va delante para disminuir la resistencia del aire.",
+          "correct": false
+        },
+        {
+          "text": "Conducir con suavidad, sin frenazos ni acelerones.",
+          "correct": true
+        },
+        {
+          "text": "Mantener la velocidad lo más elevada y constante posible.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Marcas blancas y rojas de la calzada, ¿qué indican?",
+      "image": "image-11.jpg",
+      "image_alt": "Marca calzada",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228-preg-11.jpg",
+      "answers": [
+        {
+          "text": "Una zona reservada para la salida de competiciones de coches.",
+          "correct": false
+        },
+        {
+          "text": "Una zona reservada para el estacionamiento de camiones.",
+          "correct": false
+        },
+        {
+          "text": "Una zona reservada para frenado de emergencia, donde no puedo parar ni estacionar.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Con la lluvia se forma una capa de agua que crea un mayor peligro por...",
+      "image": "image-12.jpg",
+      "image_alt": "Lloviendo a través del parabrisas",
+      "image_source": "https://revista.dgt.es/Galerias/test/201409/Test-228-preg-12.jpg",
+      "answers": [
+        {
+          "text": "La posible falta de adherencia de los neumáticos al pavimento.",
+          "correct": true
+        },
+        {
+          "text": "El calentamiento de los frenos al mojarse.",
+          "correct": false
+        },
+        {
+          "text": "No se crea ningún peligro por que el agua refrigera los neumáticos y frenan mejor.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "number": 255,
+  "title": "Octubre 2020",
+  "url": "https://revista.dgt.es/es/test/Test-num-255.shtml",
+  "scraped_at": "2026-11-08T17:18:23Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "La luz antiniebla trasera se utilizará siempre que...",
+      "image": "image-1.jpg",
+      "image_alt": "Luces anti-niebla",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-1.jpg",
+      "answers": [
+        {
+          "text": "se circule a velocidad anormalmente reducida.",
+          "correct": false
+        },
+        {
+          "text": "se circule por carreteras de alta montaña.",
+          "correct": false
+        },
+        {
+          "text": "las condiciones meteorológicas sean especialmente desfavorables.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Qué medidas deberá adoptar ante esta señal?",
+      "image": "image-2.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P2.jpg",
+      "answers": [
+        {
+          "text": "Aumentaré la atención por posibles desprendimientos y obstáculos en la calzada.",
+          "correct": true
+        },
+        {
+          "text": "Aceleraré, pasando la zona lo más rápidamente posible para dejar paso libre.",
+          "correct": false
+        },
+        {
+          "text": "Me autoriza a circular en sentido contrario, extremando la precaución, en caso de desprendimientos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "A partir de la señal, el conductor de un camión de menos de 3.500 kilos de M.M.A., ¿puede adelantar a otros vehículos?",
+      "image": "image-3.jpg",
+      "image_alt": "Señal de tráfico",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-3.jpg",
+      "answers": [
+        {
+          "text": "No; la señal le prohíbe adelantar a todo tipo de vehículos a motor.",
+          "correct": false
+        },
+        {
+          "text": "Sí; la señal afecta a camiones cuya M.M.A. supere los 3.500 kilos.",
+          "correct": true
+        },
+        {
+          "text": "Solo puede adelantar a vehículos de dos ruedas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Este conjunto de marcas blancas pintadas en la calzada...",
+      "image": "image-4.jpg",
+      "image_alt": "Marcas viales",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-4.jpg",
+      "answers": [
+        {
+          "text": "obliga al vehículo a detenerse siempre.",
+          "correct": false
+        },
+        {
+          "text": "indica un paso para peatones.",
+          "correct": true
+        },
+        {
+          "text": "indica que ningún conductor puede entrar con su vehículo o animal en esta zona.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Para incorporarse a la vía principal, un turismo tiene que atravesar un carril bici debidamente señalizado; ¿deberá ceder el paso a los ciclistas que circulan por el mismo?",
+      "image": "image-5.jpg",
+      "image_alt": "Circulacion ciclistas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-5.jpg",
+      "answers": [
+        {
+          "text": "Sí; los ciclistas tienen prioridad de paso.",
+          "correct": true
+        },
+        {
+          "text": "No; el turismo tiene prioridad de paso.",
+          "correct": false
+        },
+        {
+          "text": "Solo cuando los ciclistas circulen en grupo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "El nivel del depósito de líquido lavaparabrisas, ¿se debe revisar con cierta frecuencia?",
+      "image": "image-6.jpg",
+      "image_alt": "Depósito lavaparabrisas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-6.jpg",
+      "answers": [
+        {
+          "text": "Sí, es conveniente para no quedarnos sin él cuando lo necesitemos.",
+          "correct": true
+        },
+        {
+          "text": "Solo hay que revisarlo en verano porque con el calor el líquido se evapora.",
+          "correct": false
+        },
+        {
+          "text": "No es necesario, basta con revisarlo antes de pasar la inspección técnica.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "En calzadas con doble sentido de circulación y dos carriles sin delimitar por marcas viales, ¿por dónde se debe de circular?",
+      "image": "image-7.jpg",
+      "image_alt": "Calzadas doble sentido",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-7.jpg",
+      "answers": [
+        {
+          "text": "Por el centro de la calzada.",
+          "correct": false
+        },
+        {
+          "text": "Por el carril derecho.",
+          "correct": true
+        },
+        {
+          "text": "Por cualquiera de los dos carriles si no vienen vehículos en sentido contrario.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "En caso de lluvia, ¿es aconsejable aumentar la distancia de seguridad con el vehículo que circula delante?",
+      "image": "image-8.jpg",
+      "image_alt": "Lluvia y distancia de seguridad",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-8.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque la distancia de frenado aumenta.",
+          "correct": true
+        },
+        {
+          "text": "No, porque la distancia de frenado disminuye.",
+          "correct": false
+        },
+        {
+          "text": "Solo en vías rápidas, pero no en vías urbanas ni en carreteras convencionales",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "El conductor de un vehículo podrá adelantar en un túnel cuando...",
+      "image": "image-9.jpg",
+      "image_alt": "Adelantamiento en túnel",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-9.jpg",
+      "answers": [
+        {
+          "text": "exista más de un carril en el sentido contrario de su marcha.",
+          "correct": false
+        },
+        {
+          "text": "exista más de un carril en su sentido de circulación.",
+          "correct": true
+        },
+        {
+          "text": "exista un carril para cada sentido, siempre que el túnel esté bien iluminado.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "La flecha izquierda de la señal, ¿qué indica?",
+      "image": "image-10.jpg",
+      "image_alt": "Placa de señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-10.jpg",
+      "answers": [
+        {
+          "text": "Obliga a seguir la dirección de la flecha en la próxima intersección.",
+          "correct": false
+        },
+        {
+          "text": "Que en el próximo tramo se desvía el carril de la izquierda.",
+          "correct": true
+        },
+        {
+          "text": "Que es obligatorio circular por el arcén izquierdo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "A la entrada y salida del colegio, para evitar riesgos, ¿qué precauciones deberá tomar cuando los niños desciendan del vehículo, además de la previa vigilancia del entorno?",
+      "image": "image-11.jpg",
+      "image_alt": "Salida del colegio",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-11.jpg",
+      "answers": [
+        {
+          "text": "No deberán abrir las puertas ni apearse antes de la completa inmovilización del vehículo.",
+          "correct": true
+        },
+        {
+          "text": "Para mayor seguridad lo harán siempre por la puerta del conductor.",
+          "correct": false
+        },
+        {
+          "text": "Deberán bajar del vehículo por la puerta más alejada del borde de la vía.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "En esta vía, para adelantar al camión, ¿a qué velocidad puede circular como máximo el turismo?",
+      "image": "image-12.jpg",
+      "image_alt": "Adelantar al camión",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-12.jpg",
+      "answers": [
+        {
+          "text": "A 140 km/h.",
+          "correct": false
+        },
+        {
+          "text": "A 110 km/h.",
+          "correct": false
+        },
+        {
+          "text": "A 120 km/h.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Si conduce el turismo amarillo y quiere girar a la derecha, ¿qué debe hacer?",
+      "image": "image-13.jpg",
+      "image_alt": "Giro y semáforo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-13.jpg",
+      "answers": [
+        {
+          "text": "Continuar de frente.",
+          "correct": false
+        },
+        {
+          "text": "Esperar a que el semáforo de la izquierda se ponga verde.",
+          "correct": false
+        },
+        {
+          "text": "Girar a la derecha porque lo permite el semáforo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Está adelantando y ve que hay peligro; ¿qué debe hacer?",
+      "image": "image-14.jpg",
+      "image_alt": "Maniobra de adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-14.jpg",
+      "answers": [
+        {
+          "text": "Aumentar la velocidad y adelantar rápidamente.",
+          "correct": false
+        },
+        {
+          "text": "Reducir la velocidad, señalizar y volver a mi carril.",
+          "correct": true
+        },
+        {
+          "text": "Pedir ayuda al vehículo que estoy adelantando.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "En esta calle de sentido único en la que no hay señalización que prohíba estacionar ni marcas viales en la calzada, ¿en qué lado está permitido el estacionamiento?",
+      "image": "image-15.jpg",
+      "image_alt": "Estacionamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-255/Test-255-P-15.jpg",
+      "answers": [
+        {
+          "text": "En el lado derecho solamente.",
+          "correct": false
+        },
+        {
+          "text": "En ambos lados, tanto en el derecho como en el izquierdo.",
+          "correct": true
+        },
+        {
+          "text": "En el lado izquierdo solamente.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

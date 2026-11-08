@@ -1,0 +1,323 @@
+{
+  "number": 250,
+  "title": "Julio 2019",
+  "url": "https://revista.dgt.es/es/test/Test-num-250.shtml",
+  "scraped_at": "2026-11-08T17:18:24Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Si a través del espejo retrovisor observa al vehículo policial que se ve en la fotografía, ¿qué debe hacer?",
+      "image": "image-1.jpg",
+      "image_alt": "Vehículo policial",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-1-250x226.jpg",
+      "answers": [
+        {
+          "text": "Aumentar la velocidad, ya que me está indicando que voy despacio.",
+          "correct": false
+        },
+        {
+          "text": "Detener el vehículo inmediatamente.",
+          "correct": false
+        },
+        {
+          "text": "Detener el vehículo en el lado derecho, delante del coche policial, sin provocar riesgos a los demás usuarios.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Se puede mejorar la adherencia del vehículo en una zona en la que exista hielo en la calzada?",
+      "image": "image-2.jpg",
+      "image_alt": "Vehículo sobre nieve",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-2-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, usando cadenas o neumáticos de clavos.",
+          "correct": true
+        },
+        {
+          "text": "Solo usando cadenas pero nunca neumáticos de clavos, ya que está prohibidos.",
+          "correct": false
+        },
+        {
+          "text": "No, está prohibido circular cuando existe hielo en la calzada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Los vehículos destinados a obras y servicios, ¿cómo advertirán de su presencia cuando estén realizando obras de reparación en la calzada?",
+      "image": "image-3.jpg",
+      "image_alt": "Vehículo de obras",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-3-250x226.jpg",
+      "answers": [
+        {
+          "text": "Mediante un dispositivo luminoso con una luz rotativa de color azul o rojo.",
+          "correct": false
+        },
+        {
+          "text": "Mediante un dispositivo luminoso con una o varias luces de color amarillo auto.",
+          "correct": true
+        },
+        {
+          "text": "Mediante un dispositivo luminoso con una o varias luces de color azul.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "No pueden circular por autopista…",
+      "image": "image-4.jpg",
+      "image_alt": "Autopista",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-4-250x226.jpg",
+      "answers": [
+        {
+          "text": "Las motocicletas.",
+          "correct": false
+        },
+        {
+          "text": "Los ciclomotores.",
+          "correct": true
+        },
+        {
+          "text": "Los camiones de más de 3.500 kg de MMA.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Como norma general, ¿quién tiene la preferencia en un estrechamiento sin señalizar?",
+      "image": "image-5.jpg",
+      "image_alt": "Estrechamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-5-250x226.jpg",
+      "answers": [
+        {
+          "text": "El vehículo que entre primero.",
+          "correct": true
+        },
+        {
+          "text": "El vehículo más pesado.",
+          "correct": false
+        },
+        {
+          "text": "Los vehículos de tracción animal.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Esta señal indica que empieza…",
+      "image": "image-6.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-6-250x226.jpg",
+      "answers": [
+        {
+          "text": "Una autovía.",
+          "correct": false
+        },
+        {
+          "text": "Una autopista.",
+          "correct": true
+        },
+        {
+          "text": "Una carretera con un paso elevado.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "En este cambio de rasante de reducida visibilidad, ¿puede adelantar el vehículo blanco al amarillo?",
+      "image": "image-7.jpg",
+      "image_alt": "Visibilidad reducida",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-7-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque no hay señalización expresa que lo prohíba.",
+          "correct": false
+        },
+        {
+          "text": "No, porque para ello debe ocupar parte de la calzada que corresponde al sentido contrario.",
+          "correct": true
+        },
+        {
+          "text": "Sí, porque lo ha señalizado convenientemente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Cuando se toman bebidas alcohólicas…",
+      "image": "image-8.jpg",
+      "image_alt": "Alcohol",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-8-250x226.jpg",
+      "answers": [
+        {
+          "text": "Aumenta el campo visual.",
+          "correct": false
+        },
+        {
+          "text": "Disminuye el campo visual.",
+          "correct": true
+        },
+        {
+          "text": "Disminuye el tiempo de reacción.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Si en una vía existe una línea longitudinal continua adosada a otra discontinua…",
+      "image": "image-9.jpg",
+      "image_alt": "Líneas en la carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-9-250x226.jpg",
+      "answers": [
+        {
+          "text": "Ningún vehículo que circule por la vía podrá atravesar ninguna de las dos líneas.",
+          "correct": false
+        },
+        {
+          "text": "El carril que tiene más cercana la línea discontinua es reversible.",
+          "correct": false
+        },
+        {
+          "text": "Debemos tener en cuenta solo la línea más cercana al carril por el que circulamos.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "En un túnel, ¿qué distancia de seguridad mínima debe mantener el conductor de un turismo con el vehículo de delante si no pretende adelantar?",
+      "image": "image-10.jpg",
+      "image_alt": "Túnel",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-10-250x226.jpg",
+      "answers": [
+        {
+          "text": "100 metros o un intervalo de 4 segundos.",
+          "correct": true
+        },
+        {
+          "text": "50 metros o un intervalo de 3 segundos.",
+          "correct": false
+        },
+        {
+          "text": "200 metros o un intervalo de 10 segundos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "La mayoría de los vehículos disponen de un filtro en el habitáculo. ¿Debe sustituirse?",
+      "image": "image-11.jpg",
+      "image_alt": "Filtro habitáculo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-11-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, sobre todo al inicio de la primavera, ya que su capacidad de retención es limitada.",
+          "correct": true
+        },
+        {
+          "text": "Sí, cada seis meses porque es un elemento sujeto a inspección técnica periódica.",
+          "correct": false
+        },
+        {
+          "text": "No, ya que es un filtro que se limpia automáticamente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "En una carretera cuya velocidad genérica es de 90 km/h, ¿qué velocidad se considera anormalmente reducida para un turismo?",
+      "image": "image-12.jpg",
+      "image_alt": "Carretera convencional",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-12-250x226.jpg",
+      "answers": [
+        {
+          "text": "La inferior a 55 km/h",
+          "correct": false
+        },
+        {
+          "text": "La inferior a 60 km/h",
+          "correct": false
+        },
+        {
+          "text": "La inferior a 45 km/h",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Esta señal, ¿permite realizar la maniobra de adelantamiento?",
+      "image": "image-13.jpg",
+      "image_alt": "Señal vertical",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-13-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        },
+        {
+          "text": "No, salvo que se adelante a un turismo.",
+          "correct": false
+        },
+        {
+          "text": "No, salvo que se adelante a motocicletas de dos ruedas y no se invada el sentido contrario.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Los agentes de tráfico inmovilizan un vehículo cuando su conductor tiene un tasa de alcohol mayor de la permitida. ¿Cuándo se dejará sin efecto dicha inmovilización?",
+      "image": "image-14.jpg",
+      "image_alt": "Alcoholemia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-14-250x226.jpg",
+      "answers": [
+        {
+          "text": "Cuando desparezca la causa que la motivó.",
+          "correct": true
+        },
+        {
+          "text": "Cuando el conductor viaje con menores de edad.",
+          "correct": false
+        },
+        {
+          "text": "Cuando el agente entregue al conductor el boletín de denuncia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "¿Qué indica la luz de posición de un vehículo?",
+      "image": "image-15.jpg",
+      "image_alt": "Vehículo con luces",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-250/N-250-Preg-15-250x226.jpg",
+      "answers": [
+        {
+          "text": "Que el vehículo está circulando.",
+          "correct": false
+        },
+        {
+          "text": "El lugar que ocupa el vehículo en la calzada y su anchura.",
+          "correct": true
+        },
+        {
+          "text": "Que el vehículo está parado.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

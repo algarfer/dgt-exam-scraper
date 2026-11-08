@@ -1,0 +1,302 @@
+{
+  "number": 266,
+  "title": "Junio 2023",
+  "url": "https://revista.dgt.es/es/test/Test-num-266.shtml",
+  "scraped_at": "2026-11-08T17:18:17Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Los conductores de turismos, ¿están obligados a llevar en su vehículo una rueda de uso temporal y las herramientas indispensables para su cambio?",
+      "image": "image-1.jpg",
+      "image_alt": "Rueda temporal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P01-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, ya que puede sustituirse por un sistema alternativo que permita la movilidad.",
+          "correct": true
+        },
+        {
+          "text": "Es obligatorio llevar una rueda de uso temporal, pero no las herramientas para su cambio.",
+          "correct": false
+        },
+        {
+          "text": "Sí, es un repuesto obligatorio e insustituible que deben llevar todos los turismos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Los conductores, ¿pueden llevar en los oídos cascos o auriculares conectados a un teléfono móvil mientras conducen?",
+      "image": "image-2.jpg",
+      "image_alt": "Distracciones al volante",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P02-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, excepto los conductores de bicicletas y los de vehículos de movilidad personal.",
+          "correct": false
+        },
+        {
+          "text": "Sí, siempre que los auriculares sean inalámbricos.",
+          "correct": false
+        },
+        {
+          "text": "No, está prohibido como norma general.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Los accidentes de tráfico en los que el sueño es el principal factor de riesgo, ¿pueden suceder durante las horas diurnas?",
+      "image": "image-3.jpg",
+      "image_alt": "Somnolencia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, especialmente entre las dos y las cuatro de la tarde.",
+          "correct": true
+        },
+        {
+          "text": "Sí, aunque es un tipo de accidente que solo sufren los conductores profesionales.",
+          "correct": false
+        },
+        {
+          "text": "No, solo suceden durante las horas nocturnas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "La obligación de dejar espacio suficiente para permitir el adelantamiento no será aplicable...",
+      "image": "image-4.jpg",
+      "image_alt": "Distancia adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P04-250x226.jpg",
+      "answers": [
+        {
+          "text": "donde esté prohibido el adelantamiento.",
+          "correct": true
+        },
+        {
+          "text": "en carreteras convencionales.",
+          "correct": false
+        },
+        {
+          "text": "en vías con un único carril para cada sentido.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Los conductores de bicicletas tienen prioridad de paso respecto a los vehículos de motor...",
+      "image": "image-5.jpg",
+      "image_alt": "Prioridad ciclista",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P05-250x226.jpg",
+      "answers": [
+        {
+          "text": "en las zonas peatonales debidamente señalizadas.",
+          "correct": false
+        },
+        {
+          "text": "en todas las intersecciones.",
+          "correct": false
+        },
+        {
+          "text": "cuando circulen por un paso para ciclistas.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "¿Qué debe llevar todo peatón que transite de noche por el arcén de una vía fuera de poblado?",
+      "image": "image-6.jpg",
+      "image_alt": "Reflectantes",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P06-250x226_.jpg",
+      "answers": [
+        {
+          "text": "Un catadióptrico amarillo que pueda verse a una distancia mínima de 50 metros.",
+          "correct": false
+        },
+        {
+          "text": "Un teléfono móvil.",
+          "correct": false
+        },
+        {
+          "text": "Un elemento luminoso o reflectante que sea visible a una distancia mínima de 150 metros.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Consumir alcohol con el estómago lleno, ¿influye en la tasa de alcoholemia?",
+      "image": "image-7.jpg",
+      "image_alt": "Alcohol al volante",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P07-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí; el alcohol se absorbe más lentamente, pero esto no evita el riesgo de accidente.",
+          "correct": true
+        },
+        {
+          "text": "Sí; el alcohol se absorbe más rápidamente, por lo que la tasa de alcoholemia es mayor.",
+          "correct": false
+        },
+        {
+          "text": "No; es un factor que no influye en la tasa de alcoholemia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Además de estar regulado a la altura idónea, ¿qué separación debe existir entre el reposacabezas y la cabeza para que sea eficaz?",
+      "image": "image-8.jpg",
+      "image_alt": "Uso del reposacabezas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P08-250x226.jpg",
+      "answers": [
+        {
+          "text": "La mínima posible y nunca superior a 4 centímetros.",
+          "correct": true
+        },
+        {
+          "text": "La máxima posible y nunca inferior a 5 centímetros.",
+          "correct": false
+        },
+        {
+          "text": "Superior a 10 centímetros.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Como norma general, en una vía interurbana de doble sentido de la circulación está permitido parar fuera de la calzada...",
+      "image": "image-9.jpg",
+      "image_alt": "Parada en vía interurbana",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "en el lado izquierdo y dejando libre la parte transitable del arcén.",
+          "correct": false
+        },
+        {
+          "text": "en el lado derecho y dejando libre la parte transitable del arcén.",
+          "correct": true
+        },
+        {
+          "text": "en el lado derecho y sobre la parte transitable del arcén.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Si un conductor novel presenta una tasa del alcohol en aire espirado de 0,20 miligramos por litro, el agente de tráfico, ¿le realizará una segunda prueba de alcoholemia?",
+      "image": "image-10.jpg",
+      "image_alt": "Prueba alcoholemia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "No; para ello debe tener una tasa superior a 0,25 miligramos por litro.",
+          "correct": false
+        },
+        {
+          "text": "Solo si está implicado directamente en un accidente de circulación.",
+          "correct": false
+        },
+        {
+          "text": "Sí, para una mayor garantía y a efectos de contraste.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Circula con un turismo que arrastra un remolque de menos de 750 kg. de M.M.A. en el que transporta mercancías. En cuanto a la distribución de la carga, ¿debe tomar precauciones especiales?",
+      "image": "image-11.jpg",
+      "image_alt": "Remolque",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P11-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, la carga debe estar bien distribuida e ir bien sujeta para evitar que se desplace y pueda llegar a desestabilizar al vehículo.",
+          "correct": true
+        },
+        {
+          "text": "No, salvo que supere la masa máxima autorizada del remolque.",
+          "correct": false
+        },
+        {
+          "text": "Sí, debe situarse en la parte trasera del remolque para bajar el centro de gravedad y asegurar la estabilidad del vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Si padece una alergia respiratoria, ¿es conveniente circular con las ventanas del vehículo abiertas?",
+      "image": "image-12.jpg",
+      "image_alt": "Conducción y alergia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, para llevar bien ventilado el interior del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Solo en primavera.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Es necesario revisar el funcionamiento del sistema de alumbrado de un vehículo?",
+      "image": "image-13.jpg",
+      "image_alt": "Revisión luces",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "Solo si el vehículo no lleva instaladas luces de xenón.",
+          "correct": false
+        },
+        {
+          "text": "No, no es necesario.",
+          "correct": false
+        },
+        {
+          "text": "Sí; forma parte del mantenimiento preventivo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "En vías interurbanas, ¿cuál es la infracción más habitual que cometen los peatones víctimas de atropello?",
+      "image": "image-14.jpg",
+      "image_alt": "Riesgo peatones",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-266/Test-266-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "No respetar los semáforos.",
+          "correct": false
+        },
+        {
+          "text": "Estar o marchar por la calzada de forma antirreglamentaria.",
+          "correct": true
+        },
+        {
+          "text": "No obedecer las señales de los agentes.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

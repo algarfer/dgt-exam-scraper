@@ -1,0 +1,260 @@
+{
+  "number": 227,
+  "title": "Julio-agosto 2014",
+  "url": "https://revista.dgt.es/es/test/Test-num-227.shtml",
+  "scraped_at": "2026-11-08T17:17:46Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "¿Qué sistemas de seguridad pueden perder eficacia si no se lleva abrochado el cinturón de seguridad?",
+      "image": "image-1.jpg",
+      "image_alt": "Test227pregunta1",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg01.jpg",
+      "answers": [
+        {
+          "text": "Los frenos y el ABS.",
+          "correct": false
+        },
+        {
+          "text": "La suspensión y los amortiguadores.",
+          "correct": false
+        },
+        {
+          "text": "Los airbag y los reposacabezas.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Una marca longitudinal formada por dos líneas continuas adosadas...",
+      "image": "image-2.jpg",
+      "image_alt": "test227pregunta02",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg02.jpg",
+      "answers": [
+        {
+          "text": "Tiene el mismo significado que una marca longitudinal continua.",
+          "correct": true
+        },
+        {
+          "text": "Indica que circulamos por un carril reversible.",
+          "correct": false
+        },
+        {
+          "text": "Indica que circulamos por un carril adicional circunstancial.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Si por emergencia se queda inmovilizado con su vehículo dentro de un túnel, deberá...",
+      "image": "image-3.jpg",
+      "image_alt": "test227pregunta03",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg03.jpg",
+      "answers": [
+        {
+          "text": "Conectar la señal de emergencia y mantener encendidas las luces de cruce.",
+          "correct": false
+        },
+        {
+          "text": "Apagar el motor, conectar la señal de emergencia y mantener encendidas las luces de posición.",
+          "correct": true
+        },
+        {
+          "text": "Conectar la señal de emergencia, y hacer sonar el claxon.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "El calor excesivo en el interior del vehículo, ¿puede aumentar el riesgo en la conducción?",
+      "image": "image-4.jpg",
+      "image_alt": "test227pregunta04",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg04-Ampliada.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque favorece la aparición de fatiga al volante.",
+          "correct": true
+        },
+        {
+          "text": "No, siempre que el conductor lleve ropas ligeras.",
+          "correct": false
+        },
+        {
+          "text": "No, solamente si se conduce con las ventanillas abiertas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Para repostar carburante, ¿cómo debe actuar?",
+      "image": "image-5.jpg",
+      "image_alt": "test227pregunta05",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg05.jpg",
+      "answers": [
+        {
+          "text": "Solo apagar las luces.",
+          "correct": false
+        },
+        {
+          "text": "Parar el motor, apagar las luces, los equipos eléctricos y el móvil.",
+          "correct": true
+        },
+        {
+          "text": "Solo parar el motor y poner la primera relación de marchas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "En una intersección que no tiene señal de preferencia, ¿cuándo debe ceder el paso a un vehículo de tracción animal?",
+      "image": "image-6.jpg",
+      "image_alt": "test227pregunta06",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg06.jpg",
+      "answers": [
+        {
+          "text": "Cuando entra por mi derecha.",
+          "correct": true
+        },
+        {
+          "text": "Nunca, porque no es un vehículo de motor.",
+          "correct": false
+        },
+        {
+          "text": "Siempre, porque tienen preferencia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "¿Cuál es la misión principal del líquido refrigerante?",
+      "image": "image-7.jpg",
+      "image_alt": "testpregunta07",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg07.jpg",
+      "answers": [
+        {
+          "text": "Que el vehículo tenga calefacción.",
+          "correct": false
+        },
+        {
+          "text": "Que el vehículo tenga aire acondicionado.",
+          "correct": false
+        },
+        {
+          "text": "Enfriar el motor del vehículo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "La flecha verde está iluminada. Si quiere girar a la derecha, ¿tiene preferencia de paso?",
+      "image": "image-8.jpg",
+      "image_alt": "test227pregunta08",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg08.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque la flecha verde me obliga a girar.",
+          "correct": false
+        },
+        {
+          "text": "No, porque la flecha verde me permite pasar pero debo ceder el paso al vehículo que se aproxima.",
+          "correct": true
+        },
+        {
+          "text": "No, porque la luz roja me prohíbe girar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "El carril que se observa a la izquierda está abierto para circular en sentido contrario. ¿Cuál es la velocidad máxima permitida en ese carril?",
+      "image": "image-9.jpg",
+      "image_alt": "test227pregunta09",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg09.jpg",
+      "answers": [
+        {
+          "text": "100 kilómetros por hora",
+          "correct": false
+        },
+        {
+          "text": "90 kilómetros por hora",
+          "correct": false
+        },
+        {
+          "text": "80 kilómetros por hora",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Por el \"carril BUS\", ¿se puede circular para adelantar?",
+      "image": "image-10.jpg",
+      "image_alt": "test227pregunta10",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg10.jpg",
+      "answers": [
+        {
+          "text": "No, porque está prohibido.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero debo adelantar rápidamente.",
+          "correct": false
+        },
+        {
+          "text": "Sí, cuando no circulan autobuses cerca.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Circular demasiado cerca del vehículo de delante, ¿puede ser peligroso?",
+      "image": "image-11.jpg",
+      "image_alt": "test227pregunta11",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg11.jpg",
+      "answers": [
+        {
+          "text": "Sí, por el riesgo de alcance en caso de frenada.",
+          "correct": true
+        },
+        {
+          "text": "No, cuando los frenos de mi vehículo estén en buen estado.",
+          "correct": false
+        },
+        {
+          "text": "No, cuando circule a la misma velocidad que el vehículo de delante.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "La influencia del factor de riesgo del vehículo, ¿cómo se puede disminuir?",
+      "image": "image-12.jpg",
+      "image_alt": "test227pregunta12",
+      "image_source": "https://revista.dgt.es/Galerias/test/201407/Test227preg12.jpg",
+      "answers": [
+        {
+          "text": "Revisando y manteniendo el vehículo.",
+          "correct": true
+        },
+        {
+          "text": "Manteniendo limpio el motor.",
+          "correct": false
+        },
+        {
+          "text": "Regulando bien la posición del asiento del conductor.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

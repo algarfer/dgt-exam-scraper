@@ -1,0 +1,323 @@
+{
+  "number": 273,
+  "title": "Abril 2025",
+  "url": "https://revista.dgt.es/es/test/Test-num-273.shtml",
+  "scraped_at": "2026-11-08T17:18:28Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "¿Está permitido circular con un vehículo cuyas placas de matrícula presentan obstáculos que impiden o dificultan su lectura e identificación?",
+      "image": "image-1.jpg",
+      "image_alt": "Matrícula tapada",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P01-250x226.jpg",
+      "answers": [
+        {
+          "text": "No; el conductor debe verificar que las placas de matrícula se pueden leer correctamente.",
+          "correct": true
+        },
+        {
+          "text": "Sí, siempre que la placa de matrícula delantera se pueda leer correctamente.",
+          "correct": false
+        },
+        {
+          "text": "Sí, siempre que el vehículo solo circule por vías urbanas y travesías.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Respecto al uso del cinturón de seguridad, como norma general, el ocupante de un turismo distinto del conductor está obligado a...",
+      "image": "image-2.jpg",
+      "image_alt": "Uso del cinturón",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P02-250x226.jpg",
+      "answers": [
+        {
+          "text": "llevarlo puesto y sin abrochar, excepto si viaja en la plaza delantera.",
+          "correct": false
+        },
+        {
+          "text": "llevarlo puesto y abrochado solo en vías interurbanas.",
+          "correct": false
+        },
+        {
+          "text": "llevarlo puesto y correctamente abrochado.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "En vías interurbanas con tres carriles para el mismo sentido, ¿le está permitido circular por el carril izquierdo a un turismo con remolque?",
+      "image": "image-3.jpg",
+      "image_alt": "Remolque en interurbanas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, cuando la longitud del conjunto no supere los 7 metros.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero solo para adelantar a otros vehículos.",
+          "correct": false
+        },
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "El conductor de este vehículo está indicando que va a...",
+      "image": "image-4.jpg",
+      "image_alt": "Indicar giro con la mano",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P04-250x226.jpg",
+      "answers": [
+        {
+          "text": "desplazarse a la derecha.",
+          "correct": true
+        },
+        {
+          "text": "desplazarse a la izquierda.",
+          "correct": false
+        },
+        {
+          "text": "frenar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Cuando se adelante a vehículos de tracción animal, fuera de poblado, la separación lateral...",
+      "image": "image-5.jpg",
+      "image_alt": "Adelantar vehículos de tracción animal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P05-250x226.jpg",
+      "answers": [
+        {
+          "text": "no debe ser inferior a 1,5 metros.",
+          "correct": true
+        },
+        {
+          "text": "debe ser inferior a 1,5 metros, en todos los casos.",
+          "correct": false
+        },
+        {
+          "text": "debe ser siempre proporcional a la anchura y características de la vía.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "¿Qué alumbrado deberá dejar encendido, como norma general, el conductor de un vehículo inmovilizado entre la puesta y la salida del sol en el arcén de una travesía insuficientemente iluminada?",
+      "image": "image-6.jpg",
+      "image_alt": "Iluminación en detención en travesía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P06-250x226.jpg",
+      "answers": [
+        {
+          "text": "Ninguno.",
+          "correct": false
+        },
+        {
+          "text": "Las luces de emergencia.",
+          "correct": false
+        },
+        {
+          "text": "Las luces de posición.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "¿De qué peligro advierte esta señal?",
+      "image": "image-7.jpg",
+      "image_alt": "Señal deslizante",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P07-250x226.jpg",
+      "answers": [
+        {
+          "text": "Proximidad de un escalón lateral o desnivel a lo largo de un tramo de vía.",
+          "correct": false
+        },
+        {
+          "text": "Proximidad de pavimento deslizante por hielo o nieve.",
+          "correct": false
+        },
+        {
+          "text": "Proximidad de una zona de la calzada cuyo pavimento puede resultar muy deslizante.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Esta señal, ¿prohíbe proseguir la marcha si no dispone de cadenas para nieve?",
+      "image": "image-8.jpg",
+      "image_alt": "Señal cadenas neumáticos",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P08-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, en cualquier caso.",
+          "correct": false
+        },
+        {
+          "text": "No, ya que esta señal solo recomienda la utilización de cadenas.",
+          "correct": false
+        },
+        {
+          "text": "Sí, a no ser que disponga de otros dispositivos autorizados, igual de eficaces.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Qué alteración provoca con mayor frecuencia el consumo de alcohol en el comportamiento del conductor?",
+      "image": "image-9.jpg",
+      "image_alt": "Efectos del alcohol",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "Respuestas impulsivas y agresivas ante los demás conductores.",
+          "correct": true
+        },
+        {
+          "text": "Disminución del tiempo de reacción.",
+          "correct": false
+        },
+        {
+          "text": "Mayor facilidad para percibir los semáforos y las señales luminosas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "¿Qué indica esta señal situada en la parte posterior de un vehículo?",
+      "image": "image-10.jpg",
+      "image_alt": "Vehículo lento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "Que transporta mercancías peligrosas.",
+          "correct": false
+        },
+        {
+          "text": "Que es un vehículo especial y está realizando trabajos en la vía.",
+          "correct": false
+        },
+        {
+          "text": "Que es un vehículo lento y no puede superar la velocidad de 40 km/h.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Si ha dormido mal o no ha dormido lo suficiente debe tener en cuenta que...",
+      "image": "image-11.jpg",
+      "image_alt": "Sueño y conducción",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P11-250x226.jpg",
+      "answers": [
+        {
+          "text": "conducir por una autovía durante horas impide la aparición del sueño.",
+          "correct": false
+        },
+        {
+          "text": "no se encuentra en perfectas condiciones para conducir.",
+          "correct": true
+        },
+        {
+          "text": "una taza de café elimina la fatiga y le ayuda a concentrarse.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "¿Con qué dos factores suelen relacionarse muchos de los accidentes más graves que sufren los jóvenes conductores?",
+      "image": "image-12.jpg",
+      "image_alt": "Factores concurrentes en siniestralidad de jóvenes",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "Con el consumo de alcohol y drogas y una actitud prudente al volante.",
+          "correct": false
+        },
+        {
+          "text": "Con la falta de experiencia al volante y el consumo de alcohol y drogas.",
+          "correct": true
+        },
+        {
+          "text": "Con la velocidad excesiva y una adecuada percepción del riesgo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Cuál de las siguientes circunstancias hace que aumente el consumo de combustible?",
+      "image": "image-13.jpg",
+      "image_alt": "Más gasto de combustible",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "Circular con las ventanillas del vehículo subidas.",
+          "correct": false
+        },
+        {
+          "text": "Circular con el vehículo muy cargado.",
+          "correct": true
+        },
+        {
+          "text": "Circular con unos neumáticos que carezcan de dibujo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "¿Cuál de las siguientes razones puede explicar que el vehículo sea el factor de riesgo que aparece en un grado menor como causa principal de los accidentes de tráfico?",
+      "image": "image-14.jpg",
+      "image_alt": "Conducir con lluvia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "A las importantes mejoras técnicas introducidas en su diseño y construcción.",
+          "correct": true
+        },
+        {
+          "text": "A que la edad media de los vehículos es cada vez mayor.",
+          "correct": false
+        },
+        {
+          "text": "A que en los últimos 20 años, los kilómetros recorridos han disminuido año tras año.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Para mantener la seguridad, ¿qué elementos se deben revisar periódicamente y con mayor frecuencia que el resto de componentes del vehículo?",
+      "image": "image-15.jpg",
+      "image_alt": "Factores en accidente",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-273/Test-273-P15-250x226.jpg",
+      "answers": [
+        {
+          "text": "Los neumáticos, el sistema de frenado y los amortiguadores.",
+          "correct": true
+        },
+        {
+          "text": "Las luces, la batería y las llantas.",
+          "correct": false
+        },
+        {
+          "text": "El filtro del aire, la dirección y los retrovisores.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

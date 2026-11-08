@@ -1,0 +1,323 @@
+{
+  "number": 238,
+  "title": "Diciembre 2016",
+  "url": "https://revista.dgt.es/es/test/Test-num-238.shtml",
+  "scraped_at": "2026-11-08T17:18:21Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Cuando las cintas no quedan bien estiradas, el cinturón de seguridad...",
+      "image": "image-1.jpg",
+      "image_alt": "Conductora con cinturón de seguridad",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test-238-P01-160x145.jpg",
+      "answers": [
+        {
+          "text": "pierde eficacia y puede provocar lesiones durante el accidente.",
+          "correct": true
+        },
+        {
+          "text": "protege más en caso de accidente.",
+          "correct": false
+        },
+        {
+          "text": "no reduce su eficacia en caso de accidente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Qué indica la señal?",
+      "image": "image-2.jpg",
+      "image_alt": "Señal de carril para ciclos",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test-238-P02-160x145.jpg",
+      "answers": [
+        {
+          "text": "Que el carril derecho sólo puede ser utilizado por ciclos.",
+          "correct": true
+        },
+        {
+          "text": "Que el carril derecho sólo puede ser utilizado por ciclos y ciclomotores.",
+          "correct": false
+        },
+        {
+          "text": "Que por el carril derecho se llega a una senda ciclable.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "En caso de lluvia intensa, ¿es recomendable aumentar la distancia de seguridad y reducir la velocidad?",
+      "image": "image-3.jpg",
+      "image_alt": "Lluvia intensa",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-p03-160x145.jpg",
+      "answers": [
+        {
+          "text": "Sí; mejora el agarre de los neumáticos, pero no es recomendable reducir la velocidad.",
+          "correct": false
+        },
+        {
+          "text": "No; al reducir la velocidad mayor es la proporción de agua en el asfalto.",
+          "correct": false
+        },
+        {
+          "text": "Sí; ya que la adherencia es menor y, por consiguiente, la distancia de frenado aumenta.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Es obligatorio finalizar un adelantamiento...",
+      "image": "image-4.jpg",
+      "image_alt": "Maniobra de adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-P04-160x145.jpg",
+      "answers": [
+        {
+          "text": "Incorporándose al carril derecho a la mayor velocidad posible.",
+          "correct": false
+        },
+        {
+          "text": "Únicamente señalizando el desplazamiento lateral.",
+          "correct": false
+        },
+        {
+          "text": "Incorporándose al carril de forma gradual sin obstaculizar.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "¿Qué relación existe entre la velocidad y el campo de visión del conductor?",
+      "image": "image-5.jpg",
+      "image_alt": "Infografía de reducción del campo de visión con la velocidad",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-P05-160x145.jpg",
+      "answers": [
+        {
+          "text": "A mayor velocidad, menor campo visual.",
+          "correct": true
+        },
+        {
+          "text": "A menor velocidad, menor campo visual.",
+          "correct": false
+        },
+        {
+          "text": "A mayor velocidad, mayor campo visual.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "En una autopista o autovía, ¿se puede utilizar la mediana en algún caso?",
+      "image": "image-6.jpg",
+      "image_alt": "Mediana de autopista",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-P06-160x145.jpg",
+      "answers": [
+        {
+          "text": "No, nunca.",
+          "correct": false
+        },
+        {
+          "text": "Sí, para inmovilizar el vehículo por emergencia cuando no es posible hacerlo en el arcén de la derecha.",
+          "correct": true
+        },
+        {
+          "text": "Sí, para adelantar cuando los carriles estén ocupados.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Un agente, con toques de silbato cortos y frecuentes, ordena...",
+      "image": "image-7.jpg",
+      "image_alt": "Agente",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-P07-160x145.jpg",
+      "answers": [
+        {
+          "text": "Que se reanude la marcha.",
+          "correct": false
+        },
+        {
+          "text": "Que se detengan los vehículos a quienes se dirija.",
+          "correct": true
+        },
+        {
+          "text": "Que se inmovilice el vehículo fuera de la calzada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "¿Qué efectos puede producir un resfriado en la conducción?",
+      "image": "image-8.jpg",
+      "image_alt": "Conductora resfriada",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-P08-160x145.jpg",
+      "answers": [
+        {
+          "text": "Desorientación.",
+          "correct": false
+        },
+        {
+          "text": "Somnolencia y pérdida de concentración.",
+          "correct": true
+        },
+        {
+          "text": "Impulsividad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Cuando tenga que bajar del vehículo para descargar el equipaje, ¿debe apagar el motor?",
+      "image": "image-9.jpg",
+      "image_alt": "Equipaje y parada de vehículos",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-P09-160x145.jpg",
+      "answers": [
+        {
+          "text": "No, no es necesario si se trata de una parada breve.",
+          "correct": false
+        },
+        {
+          "text": "Sí, y además debe desconectar el sistema de arranque o contacto.",
+          "correct": true
+        },
+        {
+          "text": "No, sólo debe dejar accionado el freno de mano.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "¿Qué factor se relaciona con los accidentes juveniles?",
+      "image": "image-10.jpg",
+      "image_alt": "Joven conductora",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-P10-160x145.jpg",
+      "answers": [
+        {
+          "text": "La falta de reflejos.",
+          "correct": false
+        },
+        {
+          "text": "La falta de mantenimiento del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "La menor percepción del riesgo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Cuando para realizar un cambio de sentido obstaculiza la marcha de los vehículos que circulan detrás, deberá...",
+      "image": "image-11.jpg",
+      "image_alt": "Cambio de sentido",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-P11-160x145.jpg",
+      "answers": [
+        {
+          "text": "Hacer señales con la luz de freno para advertir su maniobra.",
+          "correct": false
+        },
+        {
+          "text": "Esperar hasta que pueda realizar la maniobra.",
+          "correct": false
+        },
+        {
+          "text": "Salir de la calzada por la derecha, si fuera posible, y esperar hasta que las condiciones de la circulación le permitan hacer la maniobra.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "¿Es obligatorio apagar el motor cuando está cargando combustible?",
+      "image": "image-12.jpg",
+      "image_alt": "Repostando combustible",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-P12-160x145.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero no es necesario si es el empleado de la gasolinera quien llena el depósito.",
+          "correct": false
+        },
+        {
+          "text": "Sí, siempre.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Un traje adecuado para conducir una motocicleta, debe...",
+      "image": "image-13.jpg",
+      "image_alt": "Motoristas",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-p13-160x145.jpg",
+      "answers": [
+        {
+          "text": "Estar muy ajustado al cuerpo para mejorar la estética.",
+          "correct": false
+        },
+        {
+          "text": "Tener colores oscuros.",
+          "correct": false
+        },
+        {
+          "text": "Ser resistente a los golpes y a la abrasión en caso de caída.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Fumar al volante...",
+      "image": "image-14.jpg",
+      "image_alt": "Fumando al volante",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test238-P14-160x145.jpg",
+      "answers": [
+        {
+          "text": "Es una conducta que puede interferir en la conducción y provocar un accidente.",
+          "correct": true
+        },
+        {
+          "text": "Relaja y proporciona serenidad al fumador, lo que repercute positivamente en la conducción.",
+          "correct": false
+        },
+        {
+          "text": "Es la principal causa de distracción durante la conducción.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Fuera de poblado, como norma general , ¿por qué lado de la vía deberán circular los peatones?",
+      "image": "image-15.jpg",
+      "image_alt": "Peatones al borde de una carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/201612/Test-238-P15-160x145.jpg",
+      "answers": [
+        {
+          "text": "Por la derecha en casos de poca visibilidad.",
+          "correct": false
+        },
+        {
+          "text": "Por la izquierda.",
+          "correct": true
+        },
+        {
+          "text": "Indistintamente, por la derecha o por la izquierda siempre que haya un arcén.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

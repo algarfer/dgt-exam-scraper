@@ -1,0 +1,323 @@
+{
+  "number": 275,
+  "title": "Octubre 2025",
+  "url": "https://revista.dgt.es/es/test/Test-num-275.shtml",
+  "scraped_at": "2026-11-08T17:18:28Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Si existen semáforos con indicaciones distintas a la derecha y a la izquierda, ¿a cuál obedecerán los que pretendan seguir de frente?",
+      "image": "image-1.jpg",
+      "image_alt": "Señalización vertical",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P01-250x226.jpg",
+      "answers": [
+        {
+          "text": "Al situado a su derecha.",
+          "correct": false
+        },
+        {
+          "text": "Al que se encuentre más cerca del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Al situado inmediatamente a su izquierda.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "En el centro de la calzada hay doble línea continua; ¿qué indica?",
+      "image": "image-2.jpg",
+      "image_alt": "Señalización horiental",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P02-250x226.jpg",
+      "answers": [
+        {
+          "text": "Que la calzada es peligrosa.",
+          "correct": false
+        },
+        {
+          "text": "Que hay un carril especial.",
+          "correct": false
+        },
+        {
+          "text": "Que no se puede atravesar, ni pisar la línea.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Al cruzar un arcén por el que transitan peatones, ¿qué debe hacer?",
+      "image": "image-3.jpg",
+      "image_alt": "Cruzar un arcén",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "Avisarles mediante señales acústicas para que se aparten.",
+          "correct": false
+        },
+        {
+          "text": "Cederles el paso, pero solamente si forman un grupo.",
+          "correct": false
+        },
+        {
+          "text": "Cederles el paso si no disponen de zona peatonal.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Esta señal, ¿prohíbe cambiar de dirección a la izquierda?",
+      "image": "image-4.jpg",
+      "image_alt": "Giros",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P04-250x226.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero no prohíbe girar a la derecha.",
+          "correct": false
+        },
+        {
+          "text": "Sí; prohíbe realizar cualquier giro.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Un furgón, ¿puede utilizar un carril reversible?",
+      "image": "image-5.jpg",
+      "image_alt": "Carril reversible",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P05-250x226.jpg",
+      "answers": [
+        {
+          "text": "Solo si su M.M.A. no es superior a 3.500 kilogramos.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Como norma general, en la parte transitable del arcén de una vía interurbana, ¿está permitida la parada o el estacionamiento?",
+      "image": "image-6.jpg",
+      "image_alt": "Transitar por arcén",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P06-250x226.jpg",
+      "answers": [
+        {
+          "text": "Está permitida la parada, pero no el estacionamiento.",
+          "correct": false
+        },
+        {
+          "text": "Está prohibida tanto la parada como el estacionamiento.",
+          "correct": true
+        },
+        {
+          "text": "Está permitida tanto la parada como el estacionamiento.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Circulando por una autopista observa que se ha pasado una salida, ¿puede volver a ella circulando marcha atrás?",
+      "image": "image-7.jpg",
+      "image_alt": "Marcha atrás autovía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P07-250x226.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, cuando el recorrido no supere los 15 metros.",
+          "correct": false
+        },
+        {
+          "text": "Sí, comprobando que no existe peligro para otros usuarios.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "¿Puede circular con su turismo si el equipaje no permite una visión adecuada de la vía por el espejo retrovisor interior?",
+      "image": "image-8.jpg",
+      "image_alt": "Equipaje que tapa retrovisor",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P08-250x226.jpg",
+      "answers": [
+        {
+          "text": "No; en ningún caso la carga puede disminuir la visibilidad a través del espejo retrovisor.",
+          "correct": false
+        },
+        {
+          "text": "Sí, si el vehículo lleva dos espejos retrovisores exteriores, uno a cada lado.",
+          "correct": true
+        },
+        {
+          "text": "Solo si el retrovisor derecho es gran angular y el interior es panorámico.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Qué significado tiene esta señal?",
+      "image": "image-9.jpg",
+      "image_alt": "Señal barrera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "Peligro por la proximidad de un paso a nivel provisto de barreras o semibarreras.",
+          "correct": true
+        },
+        {
+          "text": "Peligro por la proximidad de un paso a nivel sin barreras de más de una vía férrea.",
+          "correct": false
+        },
+        {
+          "text": "Peligro por la proximidad de un cruce con una línea de tranvía.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "En general, un conductor con sueño...",
+      "image": "image-10.jpg",
+      "image_alt": "Somnolencia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "acepta un mayor nivel de riesgo en la conducción.",
+          "correct": true
+        },
+        {
+          "text": "acepta un menor nivel de riesgo en la conducción.",
+          "correct": false
+        },
+        {
+          "text": "tarda menos en reaccionar ante un suceso imprevisto.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "¿Cómo se conocen a los colectivos de personas que tienen una mayor probabilidad de verse implicados en un accidente de tráfico o de fallecer a consecuencia del mismo?",
+      "image": "image-11.jpg",
+      "image_alt": "Colectivos con más probabilidad de ser víctima",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P11-250x226.jpg",
+      "answers": [
+        {
+          "text": "Grupos de riesgo o vulnerables en el tráfico.",
+          "correct": true
+        },
+        {
+          "text": "Víctimas de accidentes de tráfico.",
+          "correct": false
+        },
+        {
+          "text": "Grupos en riesgo de exclusión social.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "¿Puede sobresalir por la parte trasera del vehículo la carga indivisible que transporta un turismo?",
+      "image": "image-12.jpg",
+      "image_alt": "Transportar escalera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, un máximo de hasta el 10% de la longitud del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "No, la carga no puede sobresalir por la parte trasera de un turismo.",
+          "correct": false
+        },
+        {
+          "text": "Sí, un máximo de hasta el 15% de la longitud del vehículo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Qué indican estas marcas viales?",
+      "image": "image-13.jpg",
+      "image_alt": "Marcas viales estacionamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "Prohibición de estacionar.",
+          "correct": false
+        },
+        {
+          "text": "Zona de estacionamiento exclusiva para residentes.",
+          "correct": false
+        },
+        {
+          "text": "Zona de estacionamiento de duración limitada.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Si queda detenido en un atasco, ¿qué distancia es aconsejable mantener con el vehículo de delante?",
+      "image": "image-14.jpg",
+      "image_alt": "Distancia atasco",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "Un metro como máximo.",
+          "correct": false
+        },
+        {
+          "text": "Un espacio mínimo para ocupar menos espacio.",
+          "correct": false
+        },
+        {
+          "text": "Dos o tres metros para no golpear al vehículo de delante en caso de alcance trasero.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "¿Qué condiciones deben tener los neumáticos de una motocicleta?",
+      "image": "image-15.jpg",
+      "image_alt": "Neumáticos motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-275/Test-275-P15-250x226.jpg",
+      "answers": [
+        {
+          "text": "Las dos ruedas tienen que ser del mismo tamaño y características.",
+          "correct": false
+        },
+        {
+          "text": "Las ranuras de la banda de rodadura deben tener una profundidad mínima de 1,6 milímetros.",
+          "correct": false
+        },
+        {
+          "text": "No deben presentar ampollas, deformaciones anormales o roturas.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

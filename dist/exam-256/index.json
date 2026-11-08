@@ -1,0 +1,323 @@
+{
+  "number": 256,
+  "title": "Diciembre 2020",
+  "url": "https://revista.dgt.es/es/test/Test-num-256.shtml",
+  "scraped_at": "2026-11-08T17:18:25Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Los ciclistas, ¿están obligados a encender el alumbrado cuando circulan de noche?",
+      "image": "image-1.jpg",
+      "image_alt": "Bicicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-01-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "No, si llevan puestas prendas reflectantes.",
+          "correct": false
+        },
+        {
+          "text": "Solo cuando circulan por vías interurbanas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "La carga transportada en un turismo no deberá...",
+      "image": "image-2.jpg",
+      "image_alt": "Carga vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-02-250x226.jpg",
+      "answers": [
+        {
+          "text": "Descargarse por el lado del vehículo más próximo al borde de la calzada.",
+          "correct": false
+        },
+        {
+          "text": "Sobresalir por la parte posterior más de un 5% de su longitud.",
+          "correct": false
+        },
+        {
+          "text": "Comprometer su estabilidad.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "¿Cómo puede reducir la velocidad de su vehículo?",
+      "image": "image-3.jpg",
+      "image_alt": "Frenado de vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-03-250x226.jpg",
+      "answers": [
+        {
+          "text": "Solo con el sistema de frenado.",
+          "correct": false
+        },
+        {
+          "text": "Solo con el motor.",
+          "correct": false
+        },
+        {
+          "text": "Tanto con el sistema de frenado como con el motor.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "En esta vía de doble sentido, el conductor del turismo blanco, ¿dónde situará su vehículo para girar a la izquierda?",
+      "image": "image-4.jpg",
+      "image_alt": "Situación para Giro",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-04-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sobre la línea discontinua, invadiendo ligeramente el sentido contrario.",
+          "correct": false
+        },
+        {
+          "text": "Junto a la línea discontinua, sin invadir el sentido contrario.",
+          "correct": true
+        },
+        {
+          "text": "A la derecha, fuera de la calzada siempre que sea posible.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "La marca indica un paso...",
+      "image": "image-5.jpg",
+      "image_alt": "Marca vial de paso",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-05-250x226.jpg",
+      "answers": [
+        {
+          "text": "para peatones.",
+          "correct": false
+        },
+        {
+          "text": "para ciclistas.",
+          "correct": true
+        },
+        {
+          "text": "para ciclistas y ciclomotores.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "La falta de experiencia al volante, ¿puede ser una de las causas que expliquen los accidentes de tráfico que sufren los conductores noveles?",
+      "image": "image-6.jpg",
+      "image_alt": "Conductor novel",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-06-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí; es una de las causas de los accidentes protagonizados por jóvenes.",
+          "correct": true
+        },
+        {
+          "text": "No; el estado de la vía y del vehículo son los únicos factores que explican los accidentes.",
+          "correct": false
+        },
+        {
+          "text": "Solo si el conductor novel ha consumido alcohol o drogas ilegales.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Hay nieve y solo tiene cadenas para dos ruedas. ¿Dónde debe ponerlas?",
+      "image": "image-7.jpg",
+      "image_alt": "Cadenas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-07-250x226.jpg",
+      "answers": [
+        {
+          "text": "En las ruedas delanteras siempre.",
+          "correct": false
+        },
+        {
+          "text": "En las ruedas motrices siempre.",
+          "correct": true
+        },
+        {
+          "text": "En las ruedas traseras siempre.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Esta carretera no tiene arcén; ¿puede estacionar a la derecha, fuera de la vía?",
+      "image": "image-8.jpg",
+      "image_alt": "Vehículo estacionado",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-08-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque estoy fuera de la calzada.",
+          "correct": true
+        },
+        {
+          "text": "No, porque es una vía interurbana.",
+          "correct": false
+        },
+        {
+          "text": "Solo si hay una señal que permita expresamente el estacionamiento.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Si un vehículo queda detenido por avería en un paso a nivel, el conductor debe adoptar en primer lugar las medidas necesarias para...",
+      "image": "image-9.jpg",
+      "image_alt": "Paso a nivel",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-09-250x226.jpg",
+      "answers": [
+        {
+          "text": "que todos los ocupantes abandonen el vehículo.",
+          "correct": true
+        },
+        {
+          "text": "desconectar los bornes de la batería del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "colocar el triángulo de preseñalización de peligro en la vía.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Circular en motocicleta bajo una lluvia intensa obliga a...",
+      "image": "image-10.jpg",
+      "image_alt": "En moto bajo la lluvia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-10-250x226.jpg",
+      "answers": [
+        {
+          "text": "circular lo más cerca posible del vehículo que va por delante.",
+          "correct": false
+        },
+        {
+          "text": "moderar la velocidad, e incluso detenerse si fuera preciso.",
+          "correct": true
+        },
+        {
+          "text": "encender la luz de largo alcance, incluso dentro de poblado.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "uera de poblado, una autocaravana va a adelantar a un vehículo pesado. ¿Puede producirse una situación de riesgo cuando circulen en paralelo si sopla fuerte viento lateral por la izquierda?",
+      "image": "image-11.jpg",
+      "image_alt": "Autocaravana fuera de poblado",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-11-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, si ambos vehículos tienen el mismo volumen y peso.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque se produciría un empuje brusco de los dos vehículos hacia la izquierda.",
+          "correct": false
+        },
+        {
+          "text": "Sí, puede producirse el efecto pantalla y aproximarse de forma brusca al vehículo pesado.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "El consumo de alcohol, ¿afecta al tiempo que tarda en reaccionar el conductor ante una situación de emergencia?",
+      "image": "image-12.jpg",
+      "image_alt": "Alcohol y conducción",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-12-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí; el tiempo de reacción aumenta.",
+          "correct": true
+        },
+        {
+          "text": "Sí; el tiempo de reacción disminuye.",
+          "correct": false
+        },
+        {
+          "text": "No; el consumo de alcohol no afecta al tiempo de reacción.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Si arrastra con su turismo un remolque ligero, ¿está obligado a llevar entre sus accesorios un equipo homologado de extinción de incendios en condiciones de uso?",
+      "image": "image-13.jpg",
+      "image_alt": "Equipo de extinción de incendios",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-13-250x226.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "Solo cuando circule por vías interurbanas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "El estilo de conducción de una motocicleta, ¿puede influir en el consumo de combustible?",
+      "image": "image-14.jpg",
+      "image_alt": "Piloto de motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-14-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, solo depende de la cilindrada de la motocicleta.",
+          "correct": false
+        },
+        {
+          "text": "No, si se adopta una postura aerodinámica.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "¿Qué indica esta señal?",
+      "image": "image-15.jpg",
+      "image_alt": "Señal vertical",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-256/Test-256-p-15-250x226.jpg",
+      "answers": [
+        {
+          "text": "La prohibición de detenerse en el peaje.",
+          "correct": false
+        },
+        {
+          "text": "La prohibición de pasar sin detenerse en el peaje.",
+          "correct": true
+        },
+        {
+          "text": "La prohibición de acceder al peaje.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

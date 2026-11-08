@@ -1,0 +1,323 @@
+{
+  "number": 263,
+  "title": "Octubre 2022",
+  "url": "https://revista.dgt.es/es/test/Test-num-263.shtml",
+  "scraped_at": "2026-11-08T17:18:27Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "¿Qué alumbrado deberá mantener encendido un vehículo estacionado durante la noche en el arcén de una travesía insuficientemente iluminada?",
+      "image": "image-1.jpg",
+      "image_alt": "Alumbrado en un vehículo estacionado",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-1.jpg",
+      "answers": [
+        {
+          "text": "Ninguno, ya que es un estacionamiento dentro de poblado.",
+          "correct": false
+        },
+        {
+          "text": "Las luces de largo alcance y las luces de emergencia.",
+          "correct": false
+        },
+        {
+          "text": "Las luces de posición, que podrá sustituir por las de estacionamiento.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Qué usuarios deben obedecer el semáforo de la fotografía?",
+      "image": "image-2.jpg",
+      "image_alt": "Obediencia a un semáforo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-2.jpg",
+      "answers": [
+        {
+          "text": "Los conductores de todos los vehículos de dos ruedas.",
+          "correct": false
+        },
+        {
+          "text": "Los conductores de bicicletas y de ciclomotores.",
+          "correct": true
+        },
+        {
+          "text": "Los peatones y los conductores de bicicletas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Cuando está lloviendo, ¿qué presión deben tener los neumáticos?",
+      "image": "image-3.jpg",
+      "image_alt": "Presión de los neumáticos con lluvia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-3.jpg",
+      "answers": [
+        {
+          "text": "Mayor que la aconsejada por el fabricante.",
+          "correct": false
+        },
+        {
+          "text": "Menor que la aconsejada por el fabricante.",
+          "correct": false
+        },
+        {
+          "text": "La presión aconsejada por el fabricante.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "¿Existe relación entre consumo de drogas de abuso o ilegales y accidentes de tráfico?",
+      "image": "image-4.jpg",
+      "image_alt": "Drogas de abuso y siniestros de tráfico",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-4.jpg",
+      "answers": [
+        {
+          "text": "Sí; las drogas alteran gravemente las capacidades necesarias para conducir.",
+          "correct": true
+        },
+        {
+          "text": "Solo cuando el conductor mezcla el consumo de drogas con el de alcohol.",
+          "correct": false
+        },
+        {
+          "text": "No; la conducción es más segura cuando se consumen drogas de abuso.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "En un carril VAO, ¿puede circular un turismo que arrastra un remolque de menos de 750 kg de M.M.A.?",
+      "image": "image-5.jpg",
+      "image_alt": "Circulación de un turismo por carril VAO",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-5.jpg",
+      "answers": [
+        {
+          "text": "Sí, pero solo de día.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, siempre.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Una embarazada, ¿debe llevar puesto el cinturón de seguridad?",
+      "image": "image-6.jpg",
+      "image_alt": "Cinturón de seguridad en embarazada",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-6.jpg",
+      "answers": [
+        {
+          "text": "Sí, pero solo en vías interurbanas.",
+          "correct": false
+        },
+        {
+          "text": "Sí, es obligatorio.",
+          "correct": true
+        },
+        {
+          "text": "No, no es obligatorio.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Con esta señalización, ¿a qué velocidad debe circular?",
+      "image": "image-7.jpg",
+      "image_alt": "Velocidad de circulación",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-7.jpg",
+      "answers": [
+        {
+          "text": "Al menos a 30 km/h.",
+          "correct": false
+        },
+        {
+          "text": "Obligatoriamente a 30 km/h.",
+          "correct": false
+        },
+        {
+          "text": "A 30 km/h, como recomendación, durante el tramo que dure el peligro.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Debido al deterioro psicofísico consecuencia del envejecimiento, ¿qué situaciones de tráfico ofrecen más dificultades a las personas mayores?",
+      "image": "image-8.jpg",
+      "image_alt": "Envejecimiento y conducción",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-8.jpg",
+      "answers": [
+        {
+          "text": "Los giros a la izquierda, especialmente en vías urbanas.",
+          "correct": false
+        },
+        {
+          "text": "Los estacionamientos, sobre todo cuando se realizan a la derecha de la calzada.",
+          "correct": false
+        },
+        {
+          "text": "Las situaciones complejas, como incorporarse a una vía en la que se circula a alta velocidad.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "De las siguientes, ¿cuál es una obligación que corresponde al titular del vehículo?",
+      "image": "image-9.jpg",
+      "image_alt": "Obligaciones del titular de un vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-9.jpg",
+      "answers": [
+        {
+          "text": "Verificar que las placas de matrícula del vehículo no presentan obstáculos que impidan su lectura.",
+          "correct": false
+        },
+        {
+          "text": "Identificar ante la Administración al conductor del vehículo en el momento de cometerse una infracción.",
+          "correct": true
+        },
+        {
+          "text": "Comprobar que todos los ocupantes del vehículo hacen uso del cinturón de seguridad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "El conductor de un turismo, ¿qué debe hacer para incorporarse a la circulación?",
+      "image": "image-10.jpg",
+      "image_alt": "Incorporación a la circulación",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-10.jpg",
+      "answers": [
+        {
+          "text": "Solo señalizar la maniobra, porque los demás tienen que ceder el paso.",
+          "correct": false
+        },
+        {
+          "text": "Seguir siempre las indicaciones de otra persona.",
+          "correct": false
+        },
+        {
+          "text": "Asegurarse de que puede hacerlo sin peligro para los demás usuarios.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Como mantenimiento preventivo, ¿es conveniente realizar una revisión periódica del sistema de alumbrado del vehículo?",
+      "image": "image-11.jpg",
+      "image_alt": "Alumbrado del vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-11.jpg",
+      "answers": [
+        {
+          "text": "Sí, para comprobar su correcto reglado y funcionamiento.",
+          "correct": true
+        },
+        {
+          "text": "No, salvo en los vehículos que disponen de un sistema regulador automático.",
+          "correct": false
+        },
+        {
+          "text": "No, solamente, cuando lleve sobrecarga porque podrían producirse cambios de inclinación del alcance luminoso.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Siempre que exista espacio suficiente y adoptando las máximas precauciones, está permitido adelantar por la derecha...",
+      "image": "image-12.jpg",
+      "image_alt": "Adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-12.jpg",
+      "answers": [
+        {
+          "text": "en vías interurbanas, en las intersecciones y sus proximidades.",
+          "correct": false
+        },
+        {
+          "text": "en autopistas y autovías que discurran exclusivamente dentro de poblado.",
+          "correct": false
+        },
+        {
+          "text": "en vías urbanas con dos o más carriles delimitados por líneas longitudinales.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "En caso de estar implicado en un accidente, ¿debe detenerse para ayudar a restablecer la seguridad de la circulación?",
+      "image": "image-13.jpg",
+      "image_alt": "Colaboración para restablecer la circulación",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-13.jpg",
+      "answers": [
+        {
+          "text": "No, esa tarea corresponde a la policía de tráfico.",
+          "correct": false
+        },
+        {
+          "text": "Sí, en la medida de lo posible.",
+          "correct": true
+        },
+        {
+          "text": "Solo si hay fallecidos o heridos graves.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Si conduce una motocicleta por una autovía con tres o más carriles, ¿le está permitido circular por el carril situado más a la izquierda?",
+      "image": "image-14.jpg",
+      "image_alt": "Carril de circulación en autovía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-14.jpg",
+      "answers": [
+        {
+          "text": "Sí, cuando las circunstancias del tráfico o la vía lo aconsejen.",
+          "correct": true
+        },
+        {
+          "text": "Solo cuando la circulación se encuentre saturada.",
+          "correct": false
+        },
+        {
+          "text": "No, solo puede utilizar los carriles derecho y central.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Si conduce una motocicleta, ¿es aconsejable utilizar guantes?",
+      "image": "image-15.jpg",
+      "image_alt": "Equipación en motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-263/Test-n-263-preg-15.jpg",
+      "answers": [
+        {
+          "text": "Sí; su uso es obligatorio en todo tipo de vías.",
+          "correct": false
+        },
+        {
+          "text": "Sí, incluso en verano, para proteger las manos en caso de caída.",
+          "correct": true
+        },
+        {
+          "text": "No, porque pueden dificultar la conducción.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

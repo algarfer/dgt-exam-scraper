@@ -1,0 +1,323 @@
+{
+  "number": 258,
+  "title": "Junio 2021",
+  "url": "https://revista.dgt.es/es/test/Test-num-258.shtml",
+  "scraped_at": "2026-11-08T17:18:28Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "A un turismo, ¿le está permitido circular con láminas adhesivas o cortinillas contra el sol en las ventanillas traseras?",
+      "image": "image-1.jpg",
+      "image_alt": "Láminas adhesivas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-250-p01.jpg",
+      "answers": [
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        },
+        {
+          "text": "Sí, en todo caso.",
+          "correct": false
+        },
+        {
+          "text": "Solo si el vehículo lleva dos espejos retrovisores exteriores.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Cuándo está permitido estacionar en un túnel?",
+      "image": "image-2.jpg",
+      "image_alt": "Entrada a un túnel de carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p02.jpg",
+      "answers": [
+        {
+          "text": "Cuando el túnel está suficientemente iluminado.",
+          "correct": false
+        },
+        {
+          "text": "Cuando la calzada tiene dos carriles de circulación para cada sentido.",
+          "correct": false
+        },
+        {
+          "text": "Nunca.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "En esta intersección con señal de STOP y buena visibilidad, ¿qué debe hacer?",
+      "image": "image-3.jpg",
+      "image_alt": "Intersección con señal de Stop",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p03.jpg",
+      "answers": [
+        {
+          "text": "Detenerse siempre una vez superada la línea transversal.",
+          "correct": false
+        },
+        {
+          "text": "Seguir circulando sin detenerse, porque no viene ningún vehículo de frente.",
+          "correct": false
+        },
+        {
+          "text": "Detenerse siempre ante la línea transversal.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "En una calzada de doble sentido de circulación en la que no 4 están delimitados los carriles, está obligado a circular por...",
+      "image": "image-4.jpg",
+      "image_alt": "Carretera sin carriles delimitados",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p04.jpg",
+      "answers": [
+        {
+          "text": "el lugar de la calzada que crea más seguro.",
+          "correct": false
+        },
+        {
+          "text": "la derecha, lo más cerca posible del borde de la calzada.",
+          "correct": true
+        },
+        {
+          "text": "el eje imaginario de la calzada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "En defecto de señalización, ¿cuál es la velocidad máxima que no deberán rebasar los vehículos en una autopista dentro de poblado?",
+      "image": "image-5.jpg",
+      "image_alt": "Velocidad en autopista",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p05.jpg",
+      "answers": [
+        {
+          "text": "50 km/h, pudiéndola superar en 20 km/h. para adelantar.",
+          "correct": false
+        },
+        {
+          "text": "80 km/h.",
+          "correct": true
+        },
+        {
+          "text": "50 km/h.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Con lluvia intensa, una motocicleta, ¿puede sufrir “aquaplaning”?",
+      "image": "image-6.jpg",
+      "image_alt": "Motocicleta y acquaplanning",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p06.jpg",
+      "answers": [
+        {
+          "text": "No; solo los turismos pueden sufrir “aquaplaning”.",
+          "correct": false
+        },
+        {
+          "text": "Solo si la motocicleta lleva sidecar",
+          "correct": false
+        },
+        {
+          "text": "Sí, especialmente si circula a velocidad elevada.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Cuando el fondo de las señales de orientación es amarillo, indica que se circula por...",
+      "image": "image-7.jpg",
+      "image_alt": "Señalización",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p07.jpg",
+      "answers": [
+        {
+          "text": "un tramo de vía en obras.",
+          "correct": true
+        },
+        {
+          "text": "una vía para automóviles.",
+          "correct": false
+        },
+        {
+          "text": "un tramo de vía especialmente peligroso.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Los paneles de mensaje variable, ¿pueden utilizarse para dar instrucciones de obligado cumplimiento?",
+      "image": "image-8.jpg",
+      "image_alt": "Carretera con paneles de señalización variable",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p08.jpg",
+      "answers": [
+        {
+          "text": "No, son meramente informativos.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "No, solo pueden usarse para advertir de posibles peligros.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Qué indica esta señal?",
+      "image": "image-9.jpg",
+      "image_alt": "Señalización vertical",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p09.jpg",
+      "answers": [
+        {
+          "text": "Calzada en la que se debe ceder el paso a los vehículos que se aproximen por la derecha.",
+          "correct": false
+        },
+        {
+          "text": "Vía pública de atención preferente.",
+          "correct": false
+        },
+        {
+          "text": "Calzada con prioridad de paso en las intersecciones sobre los vehículos que circulen por otra calzada.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "En una vía urbana, las operaciones de carga y descarga se realizarán...",
+      "image": "image-10.jpg",
+      "image_alt": "Operario realizando carga y descarga",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p10.jpg",
+      "answers": [
+        {
+          "text": "depositando la mercancía en la calzada o en zonas peatonales.",
+          "correct": false
+        },
+        {
+          "text": "respetando las disposiciones que dicten las autoridades municipales.",
+          "correct": true
+        },
+        {
+          "text": "por el lado del vehículo más alejado del borde de la calzada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Conducir bajo los síntomas de una alergia respiratoria, ¿aumenta el riesgo de sufrir un accidente?",
+      "image": "image-11.jpg",
+      "image_alt": "Conductora alérgica",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p11-extra.jpg",
+      "answers": [
+        {
+          "text": "Sí, pero solo durante la primavera debido a la mayor presencia de polen.",
+          "correct": false
+        },
+        {
+          "text": "No, el riesgo es el mismo que el de un conductor sin alergia respiratoria.",
+          "correct": false
+        },
+        {
+          "text": "Sí, ya que puede verse alterada la capacidad para conducir con seguridad.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Los resaltos en los pasos para peatones, ¿se consideran obstáculos en la calzada?",
+      "image": "image-12.jpg",
+      "image_alt": "Resaltos y paso de peatones",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p12.jpg",
+      "answers": [
+        {
+          "text": "Sí, cuando son metálicos.",
+          "correct": false
+        },
+        {
+          "text": "Sí, puesto que dificultan el cruce de los pasos de peatones.",
+          "correct": false
+        },
+        {
+          "text": "No, siempre que garanticen la seguridad vial de los usuarios y especialmente de los ciclistas.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Está permitido estacionar en las calles residenciales?",
+      "image": "image-13.jpg",
+      "image_alt": "Señal calle residencial",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p13.jpg",
+      "answers": [
+        {
+          "text": "No, excepto en los lugares señalizados.",
+          "correct": true
+        },
+        {
+          "text": "No, excepto en horas nocturnas.",
+          "correct": false
+        },
+        {
+          "text": "Sí, en cualquier lugar de la vía.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "En caso de producirse un incendio en el interior de un túnel, ¿qué medida de seguridad, entre otras, adoptará el conductor?",
+      "image": "image-14.jpg",
+      "image_alt": "Interior del un túnel",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p14.jpg",
+      "answers": [
+        {
+          "text": "Apartará su vehículo a la derecha para dejar paso a los servicios de emergencia.",
+          "correct": true
+        },
+        {
+          "text": "Apagará el motor del vehículo y permanecerá en su interior.",
+          "correct": false
+        },
+        {
+          "text": "Dejará arrancado el motor de su vehículo y abandonará el túnel.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "En caso de condiciones meteorológicas muy desfavorables, como lluvia muy intensa, ¿se puede circular con la luz antiniebla trasera encendida?",
+      "image": "image-15.jpg",
+      "image_alt": "Circulación en condiciones adversas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-258/test-258-p15.jpg",
+      "answers": [
+        {
+          "text": "No, solo puede utilizarse con niebla densa.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "Sí, aunque su uso es opcional.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

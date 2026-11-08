@@ -1,0 +1,323 @@
+{
+  "number": 252,
+  "title": "Diciembre 2019",
+  "url": "https://revista.dgt.es/es/test/Test-num-252.shtml",
+  "scraped_at": "2026-11-08T17:18:24Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "La luz antiniebla trasera deberá utilizarse siempre que...",
+      "image": "image-1.jpg",
+      "image_alt": "Niebla",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P01-Niebla.jpg",
+      "answers": [
+        {
+          "text": "circule por un puerto de montaña.",
+          "correct": false
+        },
+        {
+          "text": "circule por un túnel.",
+          "correct": false
+        },
+        {
+          "text": "circule con fuerte nevada.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "En un turismo, ¿es obligatorio llevar triángulos de preseñalización de peligro?",
+      "image": "image-2.jpg",
+      "image_alt": "Triángulo de pre-señalizacion de peligro",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/TEST-252-P02-Triangulo.jpg",
+      "answers": [
+        {
+          "text": "No es obligatorio, pero es aconsejable llevar, al menos, un triángulo.",
+          "correct": false
+        },
+        {
+          "text": "Sí, es obligatorio llevar dos triángulos homologados.",
+          "correct": true
+        },
+        {
+          "text": "Solo es obligatorio cuando se circule por vías interurbanas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Para circular con un turismo, ¿qué documentos se necesitan en todo caso, además del permiso de conducción?",
+      "image": "image-3.jpg",
+      "image_alt": "Documentación del automóvil",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P03-Documentacion.jpg",
+      "answers": [
+        {
+          "text": "El Impuesto de Vehículos de Tracción Mecánica (Impuesto Municipal de Circulación) del año en curso.",
+          "correct": false
+        },
+        {
+          "text": "El Permiso de Circulación solamente.",
+          "correct": false
+        },
+        {
+          "text": "El Permiso de Circulación y la Tarjeta de Inspección Técnica.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "¿Debe el conductor del turismo de color blanco respetar la señal de stop cuando llegue al cruce?",
+      "image": "image-4.jpg",
+      "image_alt": "Marcas en la calzada",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P04-Stop.jpg",
+      "answers": [
+        {
+          "text": "Sí, debe respetar las marcas viales existentes.",
+          "correct": false
+        },
+        {
+          "text": "No, porque la señal horizontal solo es para los que giren a la izquierda.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero solo si sigue de frente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "En esta vía se ha habilitado un carril adicional; ¿a qué velocidad como máximo circulará el vehículo naranja?",
+      "image": "image-5.jpg",
+      "image_alt": "Carriles especiales",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P05-Carril.jpg",
+      "answers": [
+        {
+          "text": "A 80 kilómetros por hora.",
+          "correct": true
+        },
+        {
+          "text": "A 60 kilómetros por hora.",
+          "correct": false
+        },
+        {
+          "text": "A la genérica de la vía.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Si mientras circula se le pincha una rueda, ¿qué debe hacer?",
+      "image": "image-6.jpg",
+      "image_alt": "Pinchazo en el neumático",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P06-Pinchazo.jpg",
+      "answers": [
+        {
+          "text": "Continuar circulando hasta llegar al taller más próximo.",
+          "correct": false
+        },
+        {
+          "text": "Inmovilizar rápidamente el vehículo fuera de la calzada o en lugar seguro.",
+          "correct": true
+        },
+        {
+          "text": "Detener el vehículo rápidamente en cualquier lugar y abandonarlo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Como norma general, en un tramo de vía estrecho de gran pendiente debe ceder el paso...",
+      "image": "image-7.jpg",
+      "image_alt": "Señal vertical",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P07-Pendiente.jpg",
+      "answers": [
+        {
+          "text": "el vehículo que sube.",
+          "correct": false
+        },
+        {
+          "text": "el vehículo que baja.",
+          "correct": true
+        },
+        {
+          "text": "el vehículo más ligero.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Durante la conducción, la fatiga...",
+      "image": "image-8.jpg",
+      "image_alt": "Conductor bostezando",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P08-Fatiga.jpg",
+      "answers": [
+        {
+          "text": "hace que aumenten los errores de forma considerable.",
+          "correct": true
+        },
+        {
+          "text": "facilita la percepción de las señales de tráfico.",
+          "correct": false
+        },
+        {
+          "text": "hace que disminuyan los errores de forma considerable.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Un semáforo con línea blanca horizontal sobre fondo negro...",
+      "image": "image-9.jpg",
+      "image_alt": "Semáforo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P09-Semaforo.jpg",
+      "answers": [
+        {
+          "text": "permite el paso a autobuses y tranvías.",
+          "correct": false
+        },
+        {
+          "text": "prohíbe el paso a autobuses de líneas regulares y tranvías.",
+          "correct": true
+        },
+        {
+          "text": "permite girar a la derecha y a la izquierda a autobuses y tranvías.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "La línea de borde de la calzada es discontinua; ¿está permitido estacionar en la parte transitable del arcén?",
+      "image": "image-10.jpg",
+      "image_alt": "Marcas en la carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P10-Carretera.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque la línea es discontinua.",
+          "correct": false
+        },
+        {
+          "text": "No, está prohibido.",
+          "correct": true
+        },
+        {
+          "text": "Solo para cargar o descargar mercancías.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "¿Puede perder el control del vehículo si circula con los amortiguadores en mal estado?",
+      "image": "image-11.jpg",
+      "image_alt": "Sistema de amortiguación",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P11-Suspension.jpg",
+      "answers": [
+        {
+          "text": "No, sin embargo, los cambios de marcha se realizarán con mayor dificultad debido a las oscilaciones del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque la distancia de frenado disminuirá, especialmente con el firme irregular o mojado.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque el vehículo puede experimentar una inclinación excesiva al tomar las curvas.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Si observa que un vehículo quiere incorporarse por el carril de aceleración, ¿qué debe hacer?",
+      "image": "image-12.jpg",
+      "image_alt": "Carril de aceleración",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P12-Aceleracion.jpg",
+      "answers": [
+        {
+          "text": "Nada, porque tengo preferencia.",
+          "correct": false
+        },
+        {
+          "text": "Cederle el paso",
+          "correct": false
+        },
+        {
+          "text": "Facilitarle la incorporación en la medida de lo posible.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "No deberá iniciar un adelantamiento sin comprobar previamente que...",
+      "image": "image-13.jpg",
+      "image_alt": "Maniobra de adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P13-Adelantar.jpg",
+      "answers": [
+        {
+          "text": "existe espacio suficiente para volver al carril derecho cuando termine la maniobra.",
+          "correct": true
+        },
+        {
+          "text": "los vehículos que circulan detrás mantienen la distancia de seguridad.",
+          "correct": false
+        },
+        {
+          "text": "el vehículo de delante reduce su velocidad para facilitar la maniobra.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "¿Cuál de las siguientes es una de las principales funciones del airbag en caso de accidente?",
+      "image": "image-14.jpg",
+      "image_alt": "Icono airbag",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P14-Airbag.jpg",
+      "answers": [
+        {
+          "text": "Evitar el efecto submarino.",
+          "correct": false
+        },
+        {
+          "text": "Reducir el riesgo de heridas en la cara producidas por fragmentos de cristal procedentes del parabrisas.",
+          "correct": true
+        },
+        {
+          "text": "Evitar que la columna de dirección golpee al conductor.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "¿En qué tipo de vías se debe mantener la distancia de seguridad?",
+      "image": "image-15.jpg",
+      "image_alt": "Vía de doble calzada",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-252/Test-252-P15-Calzadas.jpg",
+      "answers": [
+        {
+          "text": "Solo en calzadas con dos sentidos de circulación.",
+          "correct": false
+        },
+        {
+          "text": "Solo en calzadas en mal estado.",
+          "correct": false
+        },
+        {
+          "text": "En todo tipo de vías.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "number": 237,
+  "title": "Octubre 2016",
+  "url": "https://revista.dgt.es/es/test/Test-num-237.shtml",
+  "scraped_at": "2026-11-08T17:18:21Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "¿Es correcto el uso frecuente del freno de mano cuando se conduce?",
+      "image": "image-1.jpg",
+      "image_alt": "freno de mano",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-p01.jpg",
+      "answers": [
+        {
+          "text": "Sí, se debe utilizar en curvas cerradas.",
+          "correct": false
+        },
+        {
+          "text": "Sí, siempre que el vehículo tenga ABS.",
+          "correct": false
+        },
+        {
+          "text": "No, sólo se debe utilizar en los casos de inmovilización del vehículo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "El alumbrado de gálibo es obligatorio para...",
+      "image": "image-2.jpg",
+      "image_alt": "carretera iluminada",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P-02.jpg",
+      "answers": [
+        {
+          "text": "Los vehículos que transporten mercancías peligrosas.",
+          "correct": false
+        },
+        {
+          "text": "Los vehículos de asistencia en carretera.",
+          "correct": false
+        },
+        {
+          "text": "Los vehículos cuya anchura sea mayor de 2,10 metros.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Con el permiso de la clase B, ¿qué otros vehículos se pueden conducir, además de turismos?",
+      "image": "image-3.jpg",
+      "image_alt": "Permiso de conducir",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P03.jpg",
+      "answers": [
+        {
+          "text": "Todos los vehículos que se pueden conducir con el permiso A.",
+          "correct": false
+        },
+        {
+          "text": "Ciclomotores de dos, tres y cuatro ruedas.",
+          "correct": true
+        },
+        {
+          "text": "Motocicletas de más de 125 cc.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Para aumentar la fluidez del tráfico, se ha abierto un carril para circular en sentido contrario al habitual, ¿qué vehículos pueden circular por este carril?",
+      "image": "image-4.jpg",
+      "image_alt": "vía de doble sentido",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P04.jpg",
+      "answers": [
+        {
+          "text": "Todos los autorizados a circular por la vía.",
+          "correct": false
+        },
+        {
+          "text": "Todos los que pueden circular a más de 60 km/h.",
+          "correct": false
+        },
+        {
+          "text": "Los turismos sin remolque y las motocicletas.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Una fila de escolares está cruzando la calzada. ¿Debe cederles el paso?",
+      "image": "image-5.jpg",
+      "image_alt": "Escolares en un paso de peatones decorado",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P05.jpg",
+      "answers": [
+        {
+          "text": "Solamente en los pasos para peatones.",
+          "correct": false
+        },
+        {
+          "text": "No, cuando no llevan paleta de STOP.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Un semáforo con una flecha negra sobre una luz roja fija...",
+      "image": "image-6.jpg",
+      "image_alt": "semaforo",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P-06.jpg",
+      "answers": [
+        {
+          "text": "Prohíbe circular por donde indica la flecha.",
+          "correct": true
+        },
+        {
+          "text": "Permite seguir circulando extremando la precaución.",
+          "correct": false
+        },
+        {
+          "text": "Obliga a continuar por donde indica la flecha.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "En esta autovía hay mucha niebla. ¿Se puede circular a menos de 60 km/h?",
+      "image": "image-7.jpg",
+      "image_alt": "Niebla desde el interior del vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P07.jpg",
+      "answers": [
+        {
+          "text": "No, porque es una vía para circulación rápida.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque con la niebla se debe moderar la velocidad.",
+          "correct": true
+        },
+        {
+          "text": "No, en autovía nunca se debe circular a menos de la velocidad mínima permitida.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "El alcohol, la fatiga y la velocidad excesiva, ¿de qué factor de riesgo forman parte?",
+      "image": "image-8.jpg",
+      "image_alt": "Conductora fatigada",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P08.jpg",
+      "answers": [
+        {
+          "text": "Del factor vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Del factor vía y entorno.",
+          "correct": false
+        },
+        {
+          "text": "Del factor humano.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Cuántas placas de matrícula llevan las motocicletas?",
+      "image": "image-9.jpg",
+      "image_alt": "Moto",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/EST-237-P09.jpg",
+      "answers": [
+        {
+          "text": "Una sola placa en la parte posterior, en posición vertical.",
+          "correct": true
+        },
+        {
+          "text": "Dos, una en la parte delantera y otra en la parte posterior.",
+          "correct": false
+        },
+        {
+          "text": "Una sola placa en la parte delantera.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "¿Qué indica la línea longitudinal amarilla?",
+      "image": "image-10.jpg",
+      "image_alt": "Linea longitudinal amarilla",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P-10.jpg",
+      "answers": [
+        {
+          "text": "Que se puede parar pero no estacionar.",
+          "correct": false
+        },
+        {
+          "text": "Que no se puede parar ni estacionar.",
+          "correct": true
+        },
+        {
+          "text": "Que se puede parar y estacionar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Los limpiaparabrisas deben mantenerse en buen estado para circular con seguridad. Para ello se debe...",
+      "image": "image-11.jpg",
+      "image_alt": "Limpiaparabrisas",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P11.jpg",
+      "answers": [
+        {
+          "text": "Comprobar que el depósito que contiene el líquido limpiaparabrisas esté siempre al máximo nivel.",
+          "correct": false
+        },
+        {
+          "text": "Realizar la revisión de las escobillas con el fin de asegurar su máxima eficacia.",
+          "correct": true
+        },
+        {
+          "text": "Aplicar sobre el parabrisas el líquido que recomienda el fabricante para facilitar el desplazamiento de las escobillas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "En condiciones meteorológicas o ambientales desfavorables, ¿cómo debe ser la separación con los vehículos que circulan delante?",
+      "image": "image-12.jpg",
+      "image_alt": "Carretera con nieve",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P12.jpg",
+      "answers": [
+        {
+          "text": "Igual que cuando son favorables.",
+          "correct": false
+        },
+        {
+          "text": "Menor, para ver mejor a los vehículos que circulan delante.",
+          "correct": false
+        },
+        {
+          "text": "Mayor, para así disponer de más tiempo y espacio para reaccionar.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Quiénes están obligados a someterse a las pruebas de alcoholemia?",
+      "image": "image-13.jpg",
+      "image_alt": "Control de alcoholemia",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P13.jpg",
+      "answers": [
+        {
+          "text": "Todos los conductores de vehículos y cualquier usuario implicado directamente como posible responsable en un accidente de circulación.",
+          "correct": true
+        },
+        {
+          "text": "Sólo los conductores que presenten síntomas de embriaguez.",
+          "correct": false
+        },
+        {
+          "text": "Sólo los conductores de vehículos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Un vehículo especial de reparación o conservación de vías, al entrar en una autopista, debe utilizar la luz de señalización V-2...",
+      "image": "image-14.jpg",
+      "image_alt": "Maquinaria pesada de obras",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P14.jpg",
+      "answers": [
+        {
+          "text": "Sólo cuando llegue al lugar de trabajo.",
+          "correct": false
+        },
+        {
+          "text": "Desde la entrada de la autopista.",
+          "correct": true
+        },
+        {
+          "text": "Sólo de noche.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "A partir de esta señal, circular como mínimo a 30 kilómetros por hora...",
+      "image": "image-15.jpg",
+      "image_alt": "Señal de tráfico",
+      "image_source": "https://revista.dgt.es/Galerias/test/201610/TEST-237-P15.jpg",
+      "answers": [
+        {
+          "text": "Es recomendable.",
+          "correct": false
+        },
+        {
+          "text": "Está prohibido.",
+          "correct": false
+        },
+        {
+          "text": "Es obligatorio.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

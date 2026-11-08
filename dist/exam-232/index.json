@@ -1,0 +1,302 @@
+{
+  "number": 232,
+  "title": "Noviembre-2015",
+  "url": "https://revista.dgt.es/es/test/Test-num-232.shtml",
+  "scraped_at": "2026-11-08T17:18:10Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "¿Puede afectar la carga excesiva del vehículo al correcto funcionamiento de los neumáticos?",
+      "image": "image-1.jpg",
+      "image_alt": "Coche cargado",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P01.jpg",
+      "answers": [
+        {
+          "text": "No, en ningún caso",
+          "correct": false
+        },
+        {
+          "text": "Sí, cuando se excede de los límites de carga permitidos.",
+          "correct": true
+        },
+        {
+          "text": "No, si el vehículo lleva amortiguadores nuevos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Un vehículo tiene el silenciador del escape estropeado. ¿Está permitido circular así?",
+      "image": "image-2.jpg",
+      "image_alt": "Escape vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P02.jpg",
+      "answers": [
+        {
+          "text": "Sí, solamente en carretera.",
+          "correct": false
+        },
+        {
+          "text": "No, pero las motos y ciclomotores pueden circular sin él.",
+          "correct": false
+        },
+        {
+          "text": "No, por la contaminación acústica que produce.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "En esta vía urbana con dos carriles para cada sentido que no tiene líneas de separación de carriles, ¿por qué carril se debe circular?",
+      "image": "image-3.jpg",
+      "image_alt": "Vía urbana",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P03.jpg",
+      "answers": [
+        {
+          "text": "Por el de su derecha.",
+          "correct": true
+        },
+        {
+          "text": "Por el carril que más convenga para mi destino.",
+          "correct": false
+        },
+        {
+          "text": "Por el carril de la derecha y no puedo cambiar al segundo",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "El filtro del aire, ¿para qué sirve?",
+      "image": "image-4.jpg",
+      "image_alt": "Motor y filtros",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P04.jpg",
+      "answers": [
+        {
+          "text": "Para limpiar el aire que enfría el motor.",
+          "correct": false
+        },
+        {
+          "text": "Para limpiar el aire que se mezcla con el combustible.",
+          "correct": true
+        },
+        {
+          "text": "Para limpiar el aire de la calefacción.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Los dos primeros años con permiso, ¿cuál es la tasa máxima de alcohol?",
+      "image": "image-5.jpg",
+      "image_alt": "Control de alcoholemia",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P05.jpg",
+      "answers": [
+        {
+          "text": "0,10 mg/l en aire espirado = 0,2 g/l en sangre.",
+          "correct": false
+        },
+        {
+          "text": "0,25 mg/l en aire espirado = 0,5 g/l en sangre.",
+          "correct": false
+        },
+        {
+          "text": "0,15 mg/l en aire espirado = 0,3 g/l en sangre.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Si es necesario avisar a un ciclista con señales acústicas, ¿cómo deben realizarse?",
+      "image": "image-6.jpg",
+      "image_alt": "Ciclistas circulando",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P06.jpg",
+      "answers": [
+        {
+          "text": "A cierta distancia del ciclista, para evitar que se asuste.",
+          "correct": true
+        },
+        {
+          "text": "Es indiferente.",
+          "correct": false
+        },
+        {
+          "text": "Cerca del ciclista.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Una motocicleta de 5 años de antiguedad, ¿con qué periodicidad debe pasar la ITV?",
+      "image": "image-7.jpg",
+      "image_alt": "Moto",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P07.jpg",
+      "answers": [
+        {
+          "text": "Cada dos años.",
+          "correct": true
+        },
+        {
+          "text": "Cada año.",
+          "correct": false
+        },
+        {
+          "text": "Cada 4 años.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "En ciudad, ¿es importante no circular a más de 50 kilómetros por hora?",
+      "image": "image-8.jpg",
+      "image_alt": "Circulación en ciudad",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P08.jpg",
+      "answers": [
+        {
+          "text": "Sí, para que, en caso de atropello, el peatón tenga más posibilidades de sobrevivir.",
+          "correct": true
+        },
+        {
+          "text": "No, sobre todo en las calles y avenidas anchas.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero sólo para no ser sancionado por exceso de velocidad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Si observa que cuando circula en línea recta el vehículo se desvía hacia un lado, puede ser debido a...",
+      "image": "image-9.jpg",
+      "image_alt": "circulación en línea recta",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P09.jpg",
+      "answers": [
+        {
+          "text": "A no mantener girado el volante al máximo durante las maniobras.",
+          "correct": false
+        },
+        {
+          "text": "Un bajo nivel del líquido de frenos.",
+          "correct": false
+        },
+        {
+          "text": "Una presión distinta en los neumáticos de un mismo eje.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Los remolques y semirremolques, ¿deben tener tarjeta de inspección técnica?",
+      "image": "image-10.jpg",
+      "image_alt": "remolque",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P10.jpg",
+      "answers": [
+        {
+          "text": "No, es suficiente con la del vehículo que los arrastra.",
+          "correct": false
+        },
+        {
+          "text": "Sí, todos.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero únicamente los no ligeros.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "En un conductor, el consumo de anfetaminas...",
+      "image": "image-11.jpg",
+      "image_alt": "Pastillas",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P11.jpg",
+      "answers": [
+        {
+          "text": "Genera comportaminetos impacientes o impulsivos.",
+          "correct": true
+        },
+        {
+          "text": "Favorece la fatiga y el sueño.",
+          "correct": false
+        },
+        {
+          "text": "Proporciona un estado de relajación.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Un turismo con remolque, ¿es 12 obligatorio que lleve una rueda de repuesto del remolque?",
+      "image": "image-12.jpg",
+      "image_alt": "Caravana",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P12.jpg",
+      "answers": [
+        {
+          "text": "Sí.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, cuando el remolque no es ligero.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Cuando una señal vertical contradice a una señal de balizamiento fijo prevalece la señal...",
+      "image": "image-13.jpg",
+      "image_alt": "Varias señales",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P13.jpg",
+      "answers": [
+        {
+          "text": "Vertical.",
+          "correct": false
+        },
+        {
+          "text": "Más restrictiva.",
+          "correct": false
+        },
+        {
+          "text": "De balizamiento fijo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "¿Está permitido estacionar en una calle residencial?",
+      "image": "image-14.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/201511/N232-P14.jpg",
+      "answers": [
+        {
+          "text": "Sí, donde no se estorbe a los peatones.",
+          "correct": false
+        },
+        {
+          "text": "No, está siempre prohibido.",
+          "correct": false
+        },
+        {
+          "text": "No, excepto en los lugares señalizados.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

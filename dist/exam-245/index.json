@@ -1,0 +1,239 @@
+{
+  "number": 245,
+  "title": "Marzo 2018",
+  "url": "https://revista.dgt.es/es/test/Test-num-245.shtml",
+  "scraped_at": "2026-11-08T17:17:36Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "El inflado correcto de los neumáticos es...",
+      "image": "image-1.jpg",
+      "image_alt": "Comprobando la presión de un neumático",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-245/P1-250x226.jpg",
+      "answers": [
+        {
+          "text": "El superior al recomendado en un 10%.",
+          "correct": false
+        },
+        {
+          "text": "El adecuado a los amortiguadores que lleve el coche.",
+          "correct": false
+        },
+        {
+          "text": "El recomendado por el fabricante en cada caso.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "La señalización vertical prevalece sobre...",
+      "image": "image-2.jpg",
+      "image_alt": "Señal vertical de prohibido adelantar",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-245/P2-250x226.jpg",
+      "answers": [
+        {
+          "text": "Los semáforos.",
+          "correct": false
+        },
+        {
+          "text": "La señalización horizontal.",
+          "correct": true
+        },
+        {
+          "text": "Las señales de balizamiento.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "El conductor del vehículo que utiliza el carril adicional...",
+      "image": "image-3.jpg",
+      "image_alt": "vehículos circulando por un carril adicional",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-245/Carril-adicional-250x226.jpg",
+      "answers": [
+        {
+          "text": "Circulará, como máximo, a 100 km/h.",
+          "correct": false
+        },
+        {
+          "text": "Deberá abandonar la vía en cuanto le sea posible.",
+          "correct": false
+        },
+        {
+          "text": "Llevará encendida, al menos, la luz de cruce.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Esta señal indica la proximidad de...",
+      "image": "image-4.jpg",
+      "image_alt": "Poste de señalización",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-245/P4-P-9a-250x226.jpg",
+      "answers": [
+        {
+          "text": "Un cruce con una línea de tranvía.",
+          "correct": false
+        },
+        {
+          "text": "Un paso a nivel, puente móvil o muelle.",
+          "correct": true
+        },
+        {
+          "text": "Un cruce sin prioridad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "En condiciones de niebla espesa deberá...",
+      "image": "image-5.jpg",
+      "image_alt": "Vehículo circulando con niebla espesa",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-245/P5-250x226.jpg",
+      "answers": [
+        {
+          "text": "Llevar encendida la luz antiniebla delantera solamente.",
+          "correct": false
+        },
+        {
+          "text": "Moderar la velocidad.",
+          "correct": true
+        },
+        {
+          "text": "Circular por el arcén.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Si la antigüedad de su primer permiso de conducción es menor de 2 años, la tasa máxima de alcohol permitida para poder conducir es de...",
+      "image": "image-6.jpg",
+      "image_alt": "Control de alcoholemia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-245/P6-250x226.jpg",
+      "answers": [
+        {
+          "text": "0,25 miligramos de alcohol por litro de aire espirado.",
+          "correct": false
+        },
+        {
+          "text": "0,15 miligramos de alcohol por litro de aire espirado.",
+          "correct": true
+        },
+        {
+          "text": "0,3 miligramos de alcohol por litro de aire espirado.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Una vez inmovilizado el vehículo, los usuarios deberán entrar o salir...",
+      "image": "image-7.jpg",
+      "image_alt": "Vehículos al lado de una acera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-245/P7-Laboral-250x226.jpg",
+      "answers": [
+        {
+          "text": "Por cualquier lado del vehículo, tomando las debidas precauciones.",
+          "correct": false
+        },
+        {
+          "text": "Por el lado más próximo a la acera o al arcén, como norma general.",
+          "correct": true
+        },
+        {
+          "text": "Por el lado del conductor, siempre.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Para evitar o retrasar la aparición de la fatiga, es aconsejable que el conductor...",
+      "image": "image-8.jpg",
+      "image_alt": "Conductora con síntomas de fatiga",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-245/P8-CONDUCTORES-Y-SUENO-250x226.jpg",
+      "answers": [
+        {
+          "text": "Circule a menor velocidad para disminuir los efectos de la fatiga.",
+          "correct": false
+        },
+        {
+          "text": "Mantenga el interior del vehículo a una temperatura superior a 25 grados.",
+          "correct": false
+        },
+        {
+          "text": "Mantenga bien ventilado el interior del vehículo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Qué indica la señal?",
+      "image": "image-9.jpg",
+      "image_alt": "Señal vertical",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-245/P9-S-16-250x226.jpg",
+      "answers": [
+        {
+          "text": "Salida de la autopista o autovía.",
+          "correct": false
+        },
+        {
+          "text": "Zona para detener un vehículo en caso de fallo de los frenos.",
+          "correct": true
+        },
+        {
+          "text": "Salida a la derecha con bandas sonoras.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "El conductor del vehículo blanco quiere volver rápidamente al carril derecho porque ve un peligro. ¿Qué debe hacer el conductor del vehículo verde?",
+      "image": "image-10.jpg",
+      "image_alt": "Adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-245/P10-y-12-250x226.jpg",
+      "answers": [
+        {
+          "text": "Aumentar la velocidad para que desista de realizar la maniobra.",
+          "correct": false
+        },
+        {
+          "text": "Nada, porque no tiene ninguna obligación.",
+          "correct": false
+        },
+        {
+          "text": "Reducir la velocidad para facilitarle el retorno al carril.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "En una calzada con nieve, ¿el uso brusco e inadecuado de los frenos puede ser causa de derrape?",
+      "image": "image-11.jpg",
+      "image_alt": "Automóvil circulando por una calzada con nieve",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-245/Ampliada-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, si se frena bruscamente, los neumáticos pueden perder la adherencia sobre el pavimento.",
+          "correct": true
+        },
+        {
+          "text": "No, si las ruedas están perfectamente alineadas y equilibradas.",
+          "correct": false
+        },
+        {
+          "text": "No, si los neumáticos tienen la presión de inflado recomendada.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

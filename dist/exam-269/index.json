@@ -1,0 +1,302 @@
+{
+  "number": 269,
+  "title": "Marzo 2024",
+  "url": "https://revista.dgt.es/es/test/Test-num-269.shtml",
+  "scraped_at": "2026-11-08T17:18:18Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Una vez termine de adelantar el vehículo verde, ¿puede seguir circulando por el carril izquierdo?",
+      "image": "image-1.jpg",
+      "image_alt": "Adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P01-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, debe circular por el carril derecho.",
+          "correct": true
+        },
+        {
+          "text": "No, porque por el segundo carril sólo se puede circular para adelantar.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque en autopista se puede circular por cualquier carril.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "En general, un conductor que sufre un trastorno depresivo…",
+      "image": "image-2.jpg",
+      "image_alt": "Distracciones",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P02-250x226.jpg",
+      "answers": [
+        {
+          "text": "sufre distracciones.",
+          "correct": false
+        },
+        {
+          "text": "comete menos errores a la hora de tomar decisiones.",
+          "correct": false
+        },
+        {
+          "text": "es más inseguro al volante.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "En caso de accidente, ¿existe relación entre la velocidad de circulación y la gravedad de las lesiones de los ocupantes de un vehículo?",
+      "image": "image-3.jpg",
+      "image_alt": "Velocidad",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí; a mayor velocidad menor es la probabilidad de sufrir lesiones graves.",
+          "correct": false
+        },
+        {
+          "text": "Sí; a mayor velocidad mayor es la probabilidad de sufrir lesiones graves.",
+          "correct": true
+        },
+        {
+          "text": "No; la gravedad de las lesiones depende sólo de los sistemas de seguridad pasiva.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Un conductor se encuentra situado en el carril derecho de esta calzada, ¿puede seguir de frente?",
+      "image": "image-4.jpg",
+      "image_alt": "Giro",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P04-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí; puede girar a la derecha o continuar de frente.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque no existe una señal vertical que prohíba seguir de frente.",
+          "correct": false
+        },
+        {
+          "text": "No, está obligado a girar a la derecha.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "En un turismo con cinco plazas autorizadas, ¿se puede transportar a seis personas?",
+      "image": "image-5.jpg",
+      "image_alt": "Plazas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P05-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, está prohibido.",
+          "correct": true
+        },
+        {
+          "text": "Sí, siempre que no se supere la masa máxima autorizada.",
+          "correct": false
+        },
+        {
+          "text": "Sólo si uno de los ocupantes, al menos, es menor de 14 años.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "El sueño y la fatiga, ¿cómo influyen en la conducción?",
+      "image": "image-6.jpg",
+      "image_alt": "Fatiga",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P06-250x226.jpg",
+      "answers": [
+        {
+          "text": "Disminuyen el tiempo de reacción.",
+          "correct": false
+        },
+        {
+          "text": "Aumentan la capacidad de reacción.",
+          "correct": false
+        },
+        {
+          "text": "Aumentan la distancia de reacción.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Si se ve implicado en un accidente de tráfico con posibilidad de muertos o heridos graves, ¿qué actuaciones, entre otras, debe llevar a cabo en la medida de lo posible?",
+      "image": "image-7.jpg",
+      "image_alt": "Accidente",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P07-250x226.jpg",
+      "answers": [
+        {
+          "text": "Seguir circulando, sin prestar ayuda a las víctimas ni avisar a la autoridad.",
+          "correct": false
+        },
+        {
+          "text": "Detener el vehículo sin crear peligro, avisar a la autoridad o sus agentes y auxiliar a los heridos.",
+          "correct": true
+        },
+        {
+          "text": "Detenerse, borrar las huellas del accidente y cambiar de sitio a los heridos y vehículos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Cuando son víctimas de atropello, las lesiones más graves en los ciclistas, que pueden incluso provocar la muerte, se localizan en…",
+      "image": "image-8.jpg",
+      "image_alt": "Ciclistas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P08-250x226.jpg",
+      "answers": [
+        {
+          "text": "las piernas.",
+          "correct": false
+        },
+        {
+          "text": "la cabeza.",
+          "correct": true
+        },
+        {
+          "text": "las manos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "En esta carretera convencional con arcén transitable, ¿por dónde debe circular un ciclomotor?",
+      "image": "image-9.jpg",
+      "image_alt": "Ciclomotores",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "Por el centro de la calzada o por el arcén de la derecha.",
+          "correct": false
+        },
+        {
+          "text": "Por la calzada, lo más cerca posible del borde derecho.",
+          "correct": false
+        },
+        {
+          "text": "Por el arcén de la derecha.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "En un control preventivo, ¿pueden los agentes someter a un conductor a una prueba de detección de estupefacientes?",
+      "image": "image-10.jpg",
+      "image_alt": "Controles",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "Sólo si está implicado en un accidente.",
+          "correct": false
+        },
+        {
+          "text": "No; es una prueba que sólo se puede realizar en un centro médico.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Circula por una calzada en la que debido a la niebla el pavimento está húmedo y resbaladizo. ¿Cómo debe ser la conducción?",
+      "image": "image-11.jpg",
+      "image_alt": "Niebla",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P11-250x226.jpg",
+      "answers": [
+        {
+          "text": "Dinámica y, a una velocidad alta para evitar que las ruedas patinen.",
+          "correct": false
+        },
+        {
+          "text": "Suave, sin movimientos bruscos, aumentando la distancia de seguridad, además de reducir la velocidad.",
+          "correct": true
+        },
+        {
+          "text": "Igual que cuando la calzada está seca, ya que los neumáticos no pierden adherencia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "En esta zona cebreada, ¿pueden los conductores circular o pararse sobre ella?",
+      "image": "image-12.jpg",
+      "image_alt": "Zona cebreada",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "Pararse sí pueden, pero circular está prohibido.",
+          "correct": false
+        },
+        {
+          "text": "Sí, todos los conductores pueden tanto pararse como circular sobre ella.",
+          "correct": false
+        },
+        {
+          "text": "No, no pueden ni circular ni pararse sobre ella.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "En poblado, ¿está permitido usar las advertencias acústicas?",
+      "image": "image-13.jpg",
+      "image_alt": "Advertencias acústicas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, para evitar un accidente o avisar a los demás usuarios de que se realiza un servicio de urgencia.",
+          "correct": true
+        },
+        {
+          "text": "Sí, exclusivamente para evitar un accidente.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Conduce un turismo con un remolque de un solo eje. ¿Le afecta esta señal?",
+      "image": "image-14.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-269/Test-269-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, porque lleva un remolque de un eje.",
+          "correct": false
+        },
+        {
+          "text": "No, salvo que la M.M.A. del remolque supere la cifra indicada en la señal.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

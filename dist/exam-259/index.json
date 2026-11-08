@@ -1,0 +1,302 @@
+{
+  "number": 259,
+  "title": "Octubre 2021",
+  "url": "https://revista.dgt.es/es/test/Test-num-259.shtml",
+  "scraped_at": "2026-11-08T17:18:15Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Esta señal prohíbe...",
+      "image": "image-1.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P01.jpg",
+      "answers": [
+        {
+          "text": "la parada los días indicados en la señal.",
+          "correct": false
+        },
+        {
+          "text": "la parada y el estacionamiento.",
+          "correct": false
+        },
+        {
+          "text": "el estacionamiento desde las 9 horas del día 16 hasta las 9 horas del día 1.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Qué indica esta señal?",
+      "image": "image-2.jpg",
+      "image_alt": "Panel vertical",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P02.jpg",
+      "answers": [
+        {
+          "text": "El paso de dos a tres carriles, con señalización de velocidad máxima aconsejada.",
+          "correct": false
+        },
+        {
+          "text": "El paso de uno a dos carriles, con carril especial obligatorio para vehículos lentos.",
+          "correct": false
+        },
+        {
+          "text": "El paso de dos a tres carriles, con señalización de velocidad máxima permitida.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "En una carretera convencional que transcurre fuera de poblado, ¿cuál es la velocidad máxima que le está permitido alcanzar a un turismo para adelantar?",
+      "image": "image-3.jpg",
+      "image_alt": "Carretera convencional",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P03.jpg",
+      "answers": [
+        {
+          "text": "120 km/h",
+          "correct": false
+        },
+        {
+          "text": "110 km/h.",
+          "correct": true
+        },
+        {
+          "text": "90 km/h.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Los vehículos para personas con movilidad reducida, si no existe 4 vía o parte de ella que les está especialmente destinada...",
+      "image": "image-4.jpg",
+      "image_alt": "Persona con movilidad reducida accediendo a un vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P04.jpg",
+      "answers": [
+        {
+          "text": "deben circular por el arcén, siempre que sea transitable y suficiente.",
+          "correct": true
+        },
+        {
+          "text": "pueden circular por autopista.",
+          "correct": false
+        },
+        {
+          "text": "pueden circular por autovía.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Esta señal indica...",
+      "image": "image-5.jpg",
+      "image_alt": "Señal de peligro",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P05.jpg",
+      "answers": [
+        {
+          "text": "peligro por bajada con fuerte pendiente.",
+          "correct": true
+        },
+        {
+          "text": "peligro por subida con fuerte pendiente.",
+          "correct": false
+        },
+        {
+          "text": "zona de frenado de emergencia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "La marca vial es continua; ¿está permitido adelantar?",
+      "image": "image-6.jpg",
+      "image_alt": "Marca vial",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P06.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque el camión circula despacio.",
+          "correct": false
+        },
+        {
+          "text": "No, porque la marca vial lo prohíbe.",
+          "correct": true
+        },
+        {
+          "text": "No, porque la vía no tiene arcén.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Para ahorrar carburante, ¿dónde se debe cargar el equipaje?",
+      "image": "image-7.jpg",
+      "image_alt": "Maletero de un turismo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P07.jpg",
+      "answers": [
+        {
+          "text": "En el maletero.",
+          "correct": true
+        },
+        {
+          "text": "En la baca.",
+          "correct": false
+        },
+        {
+          "text": "En el maletero o en la baca, es indistinto.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Para circular con mayor seguridad...",
+      "image": "image-8.jpg",
+      "image_alt": "Conductor al volante",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P08.jpg",
+      "answers": [
+        {
+          "text": "el vehículo debe estar en perfecto estado pero no es necesario que lo esté el conductor.",
+          "correct": false
+        },
+        {
+          "text": "el conductor debe estar en perfecto estado pero no es necesario que lo esté el vehículo.",
+          "correct": false
+        },
+        {
+          "text": "tanto el conductor como el vehículo deben estar en perfecto estado.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "En caso de niebla espesa, ¿qué luces debe utilizar el conductor de un turismo?",
+      "image": "image-9.jpg",
+      "image_alt": "Situación de niebla",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P09.jpg",
+      "answers": [
+        {
+          "text": "Las luces antiniebla delanteras y las de emergencia.",
+          "correct": false
+        },
+        {
+          "text": "Las luces antiniebla, las de posición y las de emergencia.",
+          "correct": false
+        },
+        {
+          "text": "Las luces antiniebla, las de posición y las de corto alcance.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "En esta intersección con “circulación giratoria”, que no es glorieta, ¿a qué vehículos debe ceder el paso?",
+      "image": "image-10.jpg",
+      "image_alt": "Circulación giratoria",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P10.jpg",
+      "answers": [
+        {
+          "text": "A los que entren por la izquierda.",
+          "correct": false
+        },
+        {
+          "text": "A los que entren por la derecha.",
+          "correct": true
+        },
+        {
+          "text": "A los que están girando alrededor de la isleta.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Una exposición continuada del vehículo a temperaturas elevadas, puede provocar un deterioro mayor de las gomas de las escobillas de los limpiaparabrisas. ¿Cuáles son los efectos más comunes?",
+      "image": "image-11.jpg",
+      "image_alt": "Limpiaparabrisas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P11.jpg",
+      "answers": [
+        {
+          "text": "Se reblandecen y pierden elasticidad.",
+          "correct": false
+        },
+        {
+          "text": "Se endurecen y se agrietan.",
+          "correct": true
+        },
+        {
+          "text": "Se dilatan y ejercen mayor presión sobre el cristal.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "¿Cuál es la función del freno de mano?",
+      "image": "image-12.jpg",
+      "image_alt": "Freno de mano",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P12.jpg",
+      "answers": [
+        {
+          "text": "Reducir la velocidad del vehículo en ciudad.",
+          "correct": false
+        },
+        {
+          "text": "Inmovilizar el vehículo al estacionar.",
+          "correct": true
+        },
+        {
+          "text": "Reducir la velocidad del vehículo cuando circule por una vía con una pendiente prolongada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Qué debe hacer para avisar de que va a disminuir la velocidad de su vehículo de modo considerable?",
+      "image": "image-13.jpg",
+      "image_alt": "Avisar de la disminución de velocidad",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P13.jpg",
+      "answers": [
+        {
+          "text": "Encender las luces de posición.",
+          "correct": false
+        },
+        {
+          "text": "Encender el intermitente izquierdo.",
+          "correct": false
+        },
+        {
+          "text": "Pisar varias veces el pedal de freno.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "En el supuesto en el que existan dos señales del mismo tipo con indicaciones que parezcan estar en contradicción, ¿cuál de ellas tendrá prioridad?",
+      "image": "image-14.jpg",
+      "image_alt": "Señalización en cruce",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-259/Test259-P14.jpg",
+      "answers": [
+        {
+          "text": "La más restrictiva.",
+          "correct": true
+        },
+        {
+          "text": "La menos restrictiva.",
+          "correct": false
+        },
+        {
+          "text": "La más próxima.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "number": 243,
+  "title": "Diciembre 2017",
+  "url": "https://revista.dgt.es/es/test/Test-num-243.shtml",
+  "scraped_at": "2026-11-08T17:18:22Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "La luz antiniebla trasera deberá utilizarse en caso de...",
+      "image": "image-1.jpg",
+      "image_alt": "Automóvil circulando con niebla",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-01-Niebla.jpg",
+      "answers": [
+        {
+          "text": "Niebla espesa.",
+          "correct": true
+        },
+        {
+          "text": "Circular de noche por una vía sin asfaltar.",
+          "correct": false
+        },
+        {
+          "text": "Circular al anochecer por una vía sin arcén.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿A qué vehículos prohíbe el adelantamiento esta señal?",
+      "image": "image-2.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-02-R-306.jpg",
+      "answers": [
+        {
+          "text": "A los camiones de más de 3.500 kg. de M.M.A.",
+          "correct": true
+        },
+        {
+          "text": "A todos los vehículos de motor, incluidos camiones.",
+          "correct": false
+        },
+        {
+          "text": "A todos los camiones de menos de 3.500 kg. de M.M.A.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Si circula con un turismo en el que sobresale la carga por su parte trasera, ¿está obligado a colocar la señal de la imagen?",
+      "image": "image-3.jpg",
+      "image_alt": "Colocando una bicicleta en un portabicis de portón",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-03-BICICLETAS-NORAUTO-12.jpg",
+      "answers": [
+        {
+          "text": "No, porque un turismo no transporta exclusivamente mercancías.",
+          "correct": false
+        },
+        {
+          "text": "Solo se colocará cuando la carga sobresalga por la parte delantera.",
+          "correct": false
+        },
+        {
+          "text": "Sí; deberá colocarse en la parte posterior de la carga.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "El conductor de un turismo utilizará un chaleco reflectante de alta visibilidad cuando salga del vehículo y ocupe...",
+      "image": "image-4.jpg",
+      "image_alt": "Conductor colocando el triángulo de emergencia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-04-Chaleco.jpg",
+      "answers": [
+        {
+          "text": "La calzada o el arcén de las vías interurbanas.",
+          "correct": true
+        },
+        {
+          "text": "La calzada de las vías interurbanas, pero no cuando ocupe el arcén.",
+          "correct": false
+        },
+        {
+          "text": "La calzada o el arcén de todo tipo de vías, tanto urbanas como interurbanas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Para comprobar la presión de inflado, ¿cómo deben estar los neumáticos?",
+      "image": "image-5.jpg",
+      "image_alt": "Comprobando la presión de los neumáticos",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-5-presion-neumaticos.jpg",
+      "answers": [
+        {
+          "text": "Fríos.",
+          "correct": true
+        },
+        {
+          "text": "Calientes.",
+          "correct": false
+        },
+        {
+          "text": "Fríos o calientes, es igual.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "En una autopista con tres carriles para cada sentido, ¿por cuál se debe circular normalmente?",
+      "image": "image-6.jpg",
+      "image_alt": "Autovía con tres carriles para cada sentido",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-6-Autopista.jpg",
+      "answers": [
+        {
+          "text": "Por cualquiera de ellos.",
+          "correct": false
+        },
+        {
+          "text": "Por el central o el derecho, es indistinto.",
+          "correct": false
+        },
+        {
+          "text": "Por el derecho.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "¿Cuáles son los daños no cubiertos por el seguro obligatorio al causante de un accidente?",
+      "image": "image-7.jpg",
+      "image_alt": "Accidente de circulación",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-7-Accidente-y-seguro.jpg",
+      "answers": [
+        {
+          "text": "Los daños personales que sufran los ocupantes del vehículo causante del accidente.",
+          "correct": false
+        },
+        {
+          "text": "Los daños personales que sufra el conductor responsable.",
+          "correct": true
+        },
+        {
+          "text": "Los daños que se produzcan en el vehículo contrario.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "En el carril de circulación de la derecha, ¿se puede estacionar?",
+      "image": "image-8.jpg",
+      "image_alt": "Marca longitudinal amarilla continua en una vía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-8.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque es una vía con poca circulación.",
+          "correct": false
+        },
+        {
+          "text": "No, porque lo prohíbe la marca vial.",
+          "correct": true
+        },
+        {
+          "text": "No, porque hay acera.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "La señal indica que se aproxima...",
+      "image": "image-9.jpg",
+      "image_alt": "Señal de peligro",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-9-P-4.jpg",
+      "answers": [
+        {
+          "text": "A una intersección en la que tengo prioridad.",
+          "correct": false
+        },
+        {
+          "text": "A una intersección en la que tienen preferencia los vehículos que entran por la derecha.",
+          "correct": false
+        },
+        {
+          "text": "A una intersección con circulación giratoria.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Las señales realizadas con el brazo por los conductores, ¿son válidas?",
+      "image": "image-10.jpg",
+      "image_alt": "Conductor señalizando una maniobra con el brazo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-10.jpg",
+      "answers": [
+        {
+          "text": "Solo cuando se vean bien.",
+          "correct": true
+        },
+        {
+          "text": "Solo cuando se utilicen de día.",
+          "correct": false
+        },
+        {
+          "text": "Solo cuando se utilicen en poblado.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "¿Está obligado a circular a una velocidad adecuada si las condiciones meteorológicas o ambientales son adversas?",
+      "image": "image-11.jpg",
+      "image_alt": "Lluvia a través del parabrisas de un vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-11-Ampliada.jpg",
+      "answers": [
+        {
+          "text": "Sí, y si fuera preciso, debe detenerse sin riesgo para la circulación.",
+          "correct": true
+        },
+        {
+          "text": "Sí, siempre que se circule por vías de sentido único.",
+          "correct": false
+        },
+        {
+          "text": "No, si el vehículo dispone de todos los sistemas de seguridad más avanzados.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Encender el intermitente, ¿da preferencia siempre para hacer maniobras?",
+      "image": "image-12.jpg",
+      "image_alt": "Vehículo circulando",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-11-m224.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque he avisado.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero debo hacer la maniobra rápidamente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "En carretera, ¿cuándo puede adelantar por la derecha?",
+      "image": "image-13.jpg",
+      "image_alt": "Adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-12-Adelantar-dcha.jpg",
+      "answers": [
+        {
+          "text": "Cuando esté libre el carril de la derecha.",
+          "correct": false
+        },
+        {
+          "text": "Cuando el vehículo de delante vaya a girar a la izquierda y exista espacio libre en la calzada.",
+          "correct": true
+        },
+        {
+          "text": "Cuando conduzca por una calzada con más de dos carriles.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "En esta vía interurbana, podrá parar su vehículo en la parte transitable del arcén...",
+      "image": "image-14.jpg",
+      "image_alt": "Arcén de una carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-13-Para-en-arcen.jpg",
+      "answers": [
+        {
+          "text": "Para subir o bajar personas.",
+          "correct": false
+        },
+        {
+          "text": "Para descargar objetos, siempre que la parada dure menos de 2 minutos.",
+          "correct": false
+        },
+        {
+          "text": "Por razones de emergencia.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Mientras conduce, ¿qué teléfonos está permitido utilizar?",
+      "image": "image-15.jpg",
+      "image_alt": "Manipulando un teléfono móvil al volante",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-243/Test-243-Preg-14-Alberto-Espada-Movil-Ipad-13.jpg",
+      "answers": [
+        {
+          "text": "Los sistemas de “manos libres”.",
+          "correct": true
+        },
+        {
+          "text": "Los sistemas con auriculares.",
+          "correct": false
+        },
+        {
+          "text": "Están permitidos todos los sistemas.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

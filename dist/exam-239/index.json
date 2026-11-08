@@ -1,0 +1,323 @@
+{
+  "number": 239,
+  "title": "Febrero 2017",
+  "url": "https://revista.dgt.es/es/test/Test-num-239.shtml",
+  "scraped_at": "2026-11-08T17:18:22Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Hay una nube de humo. ¿Debe utilizarse algún tipo de alumbrado?",
+      "image": "image-1.jpg",
+      "image_alt": "Nube de humo en la carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239-P01.jpg",
+      "answers": [
+        {
+          "text": "Sólo si viene algún vehículo en sentido contrario.",
+          "correct": false
+        },
+        {
+          "text": "Sí, la luz antiniebla delantera o la luz de corto o largo alcance.",
+          "correct": true
+        },
+        {
+          "text": "No, porque es de día.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Esta señal indica peligro por...",
+      "image": "image-2.jpg",
+      "image_alt": "Señal visibilidad reducida por nieve",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239P02-P-33.jpg",
+      "answers": [
+        {
+          "text": "Pavimento deslizante por nieve.",
+          "correct": false
+        },
+        {
+          "text": "La proximidad de un tramo de vía con visibilidad reducida por niebla, lluvia o nieve.",
+          "correct": true
+        },
+        {
+          "text": "La proximidad de un tramo de la vía con desprendimientos frecuentes y la presencia de obstáculos en la calzada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "¿Qué indican los conos en la calzada?",
+      "image": "image-3.jpg",
+      "image_alt": "Vía señalizada con conos",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239P03.jpg",
+      "answers": [
+        {
+          "text": "Refuerzan el significado de las líneas discontinuas del carril.",
+          "correct": false
+        },
+        {
+          "text": "Nada, no son señales de circulación.",
+          "correct": false
+        },
+        {
+          "text": "La prohibición de rebasar la línea imaginaria que los une.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "En los cambios de carril en un mismo sentido, ¿quién tiene prioridad?",
+      "image": "image-4.jpg",
+      "image_alt": "Carretera con varios en el mismo sentido de circulación",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239P04.jpg",
+      "answers": [
+        {
+          "text": "El vehículo que circula por el carril que se pretende ocupar.",
+          "correct": true
+        },
+        {
+          "text": "El vehículo que realiza el cambio de carril.",
+          "correct": false
+        },
+        {
+          "text": "Siempre los turismos sobre el resto de vehículos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "En esta situación de aglomeración, ¿podrá circular por el arcén?",
+      "image": "image-5.jpg",
+      "image_alt": "Aglomeración en vía",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239P05.jpg",
+      "answers": [
+        {
+          "text": "No, está prohibido.",
+          "correct": true
+        },
+        {
+          "text": "Sí, si tiene prisa.",
+          "correct": false
+        },
+        {
+          "text": "Sí, para descongestionar el tráfico.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Antes de iniciar un adelantamiento, ¿qué debe comprobar?",
+      "image": "image-6.jpg",
+      "image_alt": "Maniobra de adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239P06.jpg",
+      "answers": [
+        {
+          "text": "Que los vehículos que circulan por el mismo carril no llevan encendidos los intermitentes.",
+          "correct": false
+        },
+        {
+          "text": "Que ningún conductor ha iniciado la maniobra de adelantar a su vehículo.",
+          "correct": true
+        },
+        {
+          "text": "Que los vehículos que circulan detrás mantienen la distancia de seguridad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "El conductor indica con el brazo que va a girar a la izquierda y lleva encendido el intermitente derecho; ¿qué señal tiene validez?",
+      "image": "image-7.jpg",
+      "image_alt": "Conductor señalizando una maniobra",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239-P07.jpg",
+      "answers": [
+        {
+          "text": "Ninguna.",
+          "correct": false
+        },
+        {
+          "text": "La del brazo.",
+          "correct": true
+        },
+        {
+          "text": "La del intermitente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "En doble fila, ¿qué está prohibido?",
+      "image": "image-8.jpg",
+      "image_alt": "Vehículo detenido en doble fila",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239-P08.jpg",
+      "answers": [
+        {
+          "text": "Parar.",
+          "correct": false
+        },
+        {
+          "text": "Parar y estacionar.",
+          "correct": false
+        },
+        {
+          "text": "Estacionar.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "El semáforo de la fotografía está estropeado. ¿A quién debe ceder el paso en la intersección?",
+      "image": "image-9.jpg",
+      "image_alt": "Semáforo",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239-P09.jpg",
+      "answers": [
+        {
+          "text": "A los vehículos que entran por la derecha.",
+          "correct": true
+        },
+        {
+          "text": "A los vehículos que entran por la izquierda.",
+          "correct": false
+        },
+        {
+          "text": "A todos los vehículos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Este vehículo está averiado y circula a velocidad anormalmente reducida con la luz de emergencia encendida; ¿es correcto su comportamiento?",
+      "image": "image-10.jpg",
+      "image_alt": "Vehículo con señalización de warning",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239-P10.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque el vehículo está averiado.",
+          "correct": true
+        },
+        {
+          "text": "No; las luces de emergencia se usan solo con el vehículo detenido.",
+          "correct": false
+        },
+        {
+          "text": "No; está prohibido el uso de este alumbrado en vías urbanas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Por seguridad, ¿cuál es la forma más aconsejable de bajar un puerto de montaña cuando en la calzada existan placas de hielo?",
+      "image": "image-11.jpg",
+      "image_alt": "Infografía sobre cómo afrontar los puertos de montaña",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/Como-afrontar-puerto-montana.jpg",
+      "answers": [
+        {
+          "text": "Con la marcha más corta que se pueda para evitar deslizamientos",
+          "correct": true
+        },
+        {
+          "text": "Utilizando el freno de mano para trazar las curvas.",
+          "correct": false
+        },
+        {
+          "text": "A baja velocidad con la marcha más larga que se pueda, evitando frenadas bruscas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "La velocidad máxima genérica para una motocicleta en una carretera convencional con arcén pavimentado de más de 1,50 metros de ancho es de...",
+      "image": "image-12.jpg",
+      "image_alt": "Motociclistas circulando por carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239P12.jpg",
+      "answers": [
+        {
+          "text": "90 kilómetros por hora.",
+          "correct": false
+        },
+        {
+          "text": "80 kilómetros por hora.",
+          "correct": false
+        },
+        {
+          "text": "100 kilómetros por hora.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Al conducir bajo condiciones climatológicas adversas...",
+      "image": "image-13.jpg",
+      "image_alt": "Vía de circulación con condiciones invernales",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239P14.jpg",
+      "answers": [
+        {
+          "text": "Es necesario descansar con más frecuencia.",
+          "correct": true
+        },
+        {
+          "text": "Es menos probable que aparezca la fatiga.",
+          "correct": false
+        },
+        {
+          "text": "No es necesario descansar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "A la vista de la señal, ¿es obligatorio detenerse para dejar pasar a un vehículo que circula en sentido contrario?",
+      "image": "image-14.jpg",
+      "image_alt": "Señal prioridad de paso",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239P11.jpg",
+      "answers": [
+        {
+          "text": "No, porque la señal otorga prioridad de paso.",
+          "correct": false
+        },
+        {
+          "text": "No, porque la señal no afecta a la prioridad de paso.",
+          "correct": false
+        },
+        {
+          "text": "Sí, mientras no se pueda continuar la marcha sin obligar a detenerse a los vehículos que circulen en sentido contrario.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Esta señal indica el lugar a partir del cual...",
+      "image": "image-15.jpg",
+      "image_alt": "Señal fin de obligación",
+      "image_source": "https://revista.dgt.es/Galerias/test/201702/T239P13.jpg",
+      "answers": [
+        {
+          "text": "termina la obligación de circular, al menos, a 30 km/h.",
+          "correct": true
+        },
+        {
+          "text": "comienza la obligación de circular a más de 30 km/h.",
+          "correct": false
+        },
+        {
+          "text": "termina la recomendación de circular a más de 30 km/h.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

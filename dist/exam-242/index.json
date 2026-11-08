@@ -1,0 +1,323 @@
+{
+  "number": 242,
+  "title": "Octubre-2017",
+  "url": "https://revista.dgt.es/es/test/Test-num-242.shtml",
+  "scraped_at": "2026-11-08T17:18:22Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Cuando termine el adelantamiento, el vehículo adelantado deberá...",
+      "image": "image-1.jpg",
+      "image_alt": "Vehículo adelantando con las luces encendidas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P1.jpg",
+      "answers": [
+        {
+          "text": "Circular igual que lo está haciendo, con la luz de largo alcance encendida.",
+          "correct": false
+        },
+        {
+          "text": "Reducir la velocidad, obligatoriamente.",
+          "correct": false
+        },
+        {
+          "text": "Cambiar la luz de largo alcance por la luz de cruce.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "En esta vía, la velocidad mínima permitida a los turismos es de...",
+      "image": "image-2.jpg",
+      "image_alt": "Vista de una autovía señalizada",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P2.jpg",
+      "answers": [
+        {
+          "text": "90 km/h",
+          "correct": false
+        },
+        {
+          "text": "60 km/h",
+          "correct": true
+        },
+        {
+          "text": "75 km/h",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Esta señal indica peligro ante la proximidad...",
+      "image": "image-3.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P3.jpg",
+      "answers": [
+        {
+          "text": "De un resalto o badén en el pavimento.",
+          "correct": false
+        },
+        {
+          "text": "De un puente móvil.",
+          "correct": true
+        },
+        {
+          "text": "De un muelle.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "En un turismo, la carga puede sobresalir por su parte posterior...",
+      "image": "image-4.jpg",
+      "image_alt": "Vehículo con carga circulando",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P4.jpg",
+      "answers": [
+        {
+          "text": "Hasta un 5 por 100 de su longitud.",
+          "correct": false
+        },
+        {
+          "text": "Hasta un 10 por 100 de su longitud y, si la carga fuera indivisible hasta un 15 por 100.",
+          "correct": true
+        },
+        {
+          "text": "No está permitido que sobresalga la carga del vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "¿Qué síntomas nos avisan de que estamos fatigados?",
+      "image": "image-5.jpg",
+      "image_alt": "Conductora al volante con somnolencia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P5.jpg",
+      "answers": [
+        {
+          "text": "La sensación de euforia.",
+          "correct": false
+        },
+        {
+          "text": "Suele aumentar el número y la duración de los parpadeos y la visión puede volverse borrosa.",
+          "correct": true
+        },
+        {
+          "text": "No realizar movimientos en el asiento, ni cambios de postura.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "¿Cuándo es obligatorio utilizar la luz de emergencia?",
+      "image": "image-6.jpg",
+      "image_alt": "Vehículo detenido en una autovía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P6.jpg",
+      "answers": [
+        {
+          "text": "Cuando se inmovilice el vehículo en una autopista.",
+          "correct": true
+        },
+        {
+          "text": "Cuando se reduzca la velocidad en carretera.",
+          "correct": false
+        },
+        {
+          "text": "Cuando se estacione el vehículo en doble fila.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Quiere adelantar a un ciclista que circula por el arcén; ¿qué distancia lateral debe dejar?",
+      "image": "image-7.jpg",
+      "image_alt": "Adelantamiento a ciclista",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P7-2.jpg",
+      "answers": [
+        {
+          "text": "Un metro, al menos.",
+          "correct": false
+        },
+        {
+          "text": "Al menos metro y medio.",
+          "correct": true
+        },
+        {
+          "text": "No importa la distancia porque circula por el arcén.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Hay poca visibilidad por niebla. ¿Qué debe hacer?",
+      "image": "image-8.jpg",
+      "image_alt": "Circulando con niebla",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P8.jpg",
+      "answers": [
+        {
+          "text": "Dejar más distancia de seguridad con el vehículo de delante.",
+          "correct": true
+        },
+        {
+          "text": "Llevar el pie siempre en el pedal del freno.",
+          "correct": false
+        },
+        {
+          "text": "Circular a la velocidad mínima de la vía.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Qué indica la flecha?",
+      "image": "image-9.jpg",
+      "image_alt": "Señalización horizontal de una vía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P9.jpg",
+      "answers": [
+        {
+          "text": "Que hay una curva a la derecha.",
+          "correct": false
+        },
+        {
+          "text": "Que hay un carril de salida a la derecha.",
+          "correct": false
+        },
+        {
+          "text": "Que me acerco a una línea continua.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Necesita hacer una parada en una calle estrecha; ¿puede ocupar parte de la acera con su vehículo?",
+      "image": "image-10.jpg",
+      "image_alt": "Un vehículo parado en una calle estrecha",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P10.jpg",
+      "answers": [
+        {
+          "text": "Sí.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Solo si no hay señal que lo prohíba expresamente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Uno de los pasajeros del turismo que Vd. conduce no lleva puesto el cinturón de seguridad. Si un agente de la autoridad denuncia la infracción, ¿quién es el responsable?",
+      "image": "image-11.jpg",
+      "image_alt": "Un agente denunciando una infracción",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-Preguntaextra.jpg",
+      "answers": [
+        {
+          "text": "El tomador del seguro.",
+          "correct": false
+        },
+        {
+          "text": "El pasajero.",
+          "correct": true
+        },
+        {
+          "text": "El conductor.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Los neumáticos, ¿cuándo hay que cambiarlos?",
+      "image": "image-12.jpg",
+      "image_alt": "Midiendo la profundidad de la huella de un neumático",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P12.jpg",
+      "answers": [
+        {
+          "text": "Cuando la profundidad del dibujo sea menor de 1,6 mm.",
+          "correct": true
+        },
+        {
+          "text": "Cuando la profundidad del dibujo sea menor de 2 mm.",
+          "correct": false
+        },
+        {
+          "text": "Cuando la profundidad del dibujo sea menor de 3 mm.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Qué es el tiempo de reacción?",
+      "image": "image-13.jpg",
+      "image_alt": "Esquema del sistema nervioso humano",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P13.jpg",
+      "answers": [
+        {
+          "text": "El tiempo que pasa desde que se empieza una maniobra hasta que se termina.",
+          "correct": false
+        },
+        {
+          "text": "El tiempo que pasa desde que se arranca el vehículo hasta que se empieza a circular.",
+          "correct": false
+        },
+        {
+          "text": "El tiempo que pasa desde que se ve un peligro hasta que se toma una decisión.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "El hielo, la nieve, la calzada mojada y las obras, ¿de qué factor de riesgo forman parte?",
+      "image": "image-14.jpg",
+      "image_alt": "Vehículo circulando por una vía nevada",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P14.jpg",
+      "answers": [
+        {
+          "text": "Del factor humano.",
+          "correct": false
+        },
+        {
+          "text": "Del factor vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Del factor vía y entorno.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "¿El estrés puede alterar las capacidades para conducir con seguridad?",
+      "image": "image-15.jpg",
+      "image_alt": "Discusión al volante",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-242/Test242-P15.jpg",
+      "answers": [
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "No, porque no afecta a la conducción.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

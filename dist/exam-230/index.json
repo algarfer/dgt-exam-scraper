@@ -1,0 +1,302 @@
+{
+  "number": 230,
+  "title": "Julio-2015",
+  "url": "https://revista.dgt.es/es/test/Test-num-230.shtml",
+  "scraped_at": "2026-11-08T17:18:10Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "¿Qué vehículos no pueden circular por esta calzada?",
+      "image": "image-1.jpg",
+      "image_alt": "Señal anchura",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-01-Test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "Los camiones, únicamente.",
+          "correct": false
+        },
+        {
+          "text": "Sólo los turismos de anchura superior a 2 metros.",
+          "correct": false
+        },
+        {
+          "text": "Los vehículos de anchura superior a 2 metros, incluída la carga.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "El personal de obras de la fotografía le está ordenando que se detenga. ¿Está obligado a obedecerle?",
+      "image": "image-2.jpg",
+      "image_alt": "Señalizacion en obras",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-02-test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque está autorizado a regular el paso de vehículos en el tramo de obras.",
+          "correct": true
+        },
+        {
+          "text": "No, porque no es un agente de circulación.",
+          "correct": false
+        },
+        {
+          "text": "Solamente si circulan vehículos en sentido contrario.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "¿Es conveniente hacer una revisión exhaustiva del estado del vehículo si el humo que despide el tubo de escape es de color negro?",
+      "image": "image-3.jpg",
+      "image_alt": "Un tubo de escape despenden humo",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-03-test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque el motor puede estar quemando aceite.",
+          "correct": false
+        },
+        {
+          "text": "No, porque solo es un problema de refrigeración que suele desaparecer.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque en este caso puede deberse a una mala combustión.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Utilizar el teléfono mientras conduce hace que el riesgo de accidente sea...",
+      "image": "image-4.jpg",
+      "image_alt": "Conductor hablando por teléfono mientras conduce",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-04-test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "Igual que si no se utiliza.",
+          "correct": false
+        },
+        {
+          "text": "Mayor que si no se utiliza.",
+          "correct": true
+        },
+        {
+          "text": "Menor que si no se utiliza.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "¿Qué prohíbe la marca longitudinal discontinua amarilla?",
+      "image": "image-5.jpg",
+      "image_alt": "Marca longitudinal amarilla discontinua en la calzada",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-05-test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "La parada.",
+          "correct": false
+        },
+        {
+          "text": "El estacionamiento.",
+          "correct": true
+        },
+        {
+          "text": "Ambos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "La velocidad, ¿influye en la capacidad de anticipación del conductor?",
+      "image": "image-6.jpg",
+      "image_alt": "Peatón cruzando",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-06-test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "Sí, a mayor velocidad menor capacidad de anticipación.",
+          "correct": true
+        },
+        {
+          "text": "Depende de las condiciones de la vía.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "¿Cuál es la función del sistema antibloqueo de frenos ABS?",
+      "image": "image-7.jpg",
+      "image_alt": "Un coche probando la eficacia del ABS",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-07-test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "Hace que los neumáticos se desgasten menos.",
+          "correct": false
+        },
+        {
+          "text": "Impide el bloqueo de las ruedas durante el frenado.",
+          "correct": true
+        },
+        {
+          "text": "Evita el bloqueo de las ruedas solo en calzadas secas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "En un carril reversible...",
+      "image": "image-8.jpg",
+      "image_alt": "Entrada de un vehículo a un carril especial",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-08-Test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "No debe cambiar nunca de carril salvo para adelantar.",
+          "correct": false
+        },
+        {
+          "text": "Debe circular como máximo a 100 km/h y como mínimo a 60 km/h",
+          "correct": false
+        },
+        {
+          "text": "Debe llevar encendida la luz de cruce.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Cuándo hay que ponerse el chaleco reflectante?",
+      "image": "image-9.jpg",
+      "image_alt": "Un chaleco reflectante homologado",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-09-test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "Es indiferente.",
+          "correct": false
+        },
+        {
+          "text": "Antes de salir del vehículo.",
+          "correct": true
+        },
+        {
+          "text": "Después de salir del vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Por la noche, la agudeza visual...",
+      "image": "image-10.jpg",
+      "image_alt": "Coches circulando de noche",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-10-test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "Aumenta.",
+          "correct": false
+        },
+        {
+          "text": "No varía.",
+          "correct": false
+        },
+        {
+          "text": "Se reduce.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Aunque esté prohibido el adelantamiento, un turismo podrá rebasar, incluso invadiendo el sentido contrario, a...",
+      "image": "image-11.jpg",
+      "image_alt": "Coche adelantando a una moto",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-11-test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "Cualquier camión.",
+          "correct": false
+        },
+        {
+          "text": "Conductores de bicicletas.",
+          "correct": true
+        },
+        {
+          "text": "Cualquier autobús o camión que circule lentamente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Al estacionar un vehículo provisto de caja de cambios manual en una pendiente descendente, ¿qué velocidad dejará colocada?",
+      "image": "image-12.jpg",
+      "image_alt": "Una planaca de cambios de un turismo",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-12-test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "La primera velocidad.",
+          "correct": false
+        },
+        {
+          "text": "La marcha atrás.",
+          "correct": true
+        },
+        {
+          "text": "Punto muerto.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "En curvas y cambios de rasante de visibilidad reducida está prohibido...",
+      "image": "image-13.jpg",
+      "image_alt": "Una moto circula en un cambio de rasante",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-13-test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "Adelantar, únicamente.",
+          "correct": false
+        },
+        {
+          "text": "Adelantar y cambiar de sentido.",
+          "correct": true
+        },
+        {
+          "text": "Cambiar de sentido, solamente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "¿Qué señala la flecha de la señal?",
+      "image": "image-14.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/201507/Preg-14-Test-230-160x146.jpg",
+      "answers": [
+        {
+          "text": "El lado del refugio por el que los vehículos han de pasar.",
+          "correct": true
+        },
+        {
+          "text": "Sentido único.",
+          "correct": false
+        },
+        {
+          "text": "Recomienda el lado del refugio por el que los vehículos pueden pasar.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

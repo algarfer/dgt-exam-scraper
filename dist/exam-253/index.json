@@ -1,0 +1,323 @@
+{
+  "number": 253,
+  "title": "Junio 2020",
+  "url": "https://revista.dgt.es/es/test/Test-num-253.shtml",
+  "scraped_at": "2026-11-08T17:18:25Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Debido a una emergencia, un turismo queda inmovilizado en la calzada; su conductor ¿debe colocar los triángulos de preseñalización de peligro, como norma general?",
+      "image": "image-1.jpg",
+      "image_alt": "Triángulo de preseñalización de peligro",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P01-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, excepto si la inmovilización se produce en una vía fuera de poblado.",
+          "correct": false
+        },
+        {
+          "text": "Solo debe encender la luz de emergencia y, si procede, las luces de posición.",
+          "correct": false
+        },
+        {
+          "text": "Sí, aunque haya encendido la luz de emergencia, la de posición o ambas.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Esta señal indica...",
+      "image": "image-2.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P02-250x226.jpg",
+      "answers": [
+        {
+          "text": "Peligro por la proximidad de una zona donde sopla fuerte viento lateral.",
+          "correct": false
+        },
+        {
+          "text": "Peligro por la proximidad de un tramo de vía con pavimento deslizante por hielo.",
+          "correct": false
+        },
+        {
+          "text": "Peligro por la proximidad de un vehículo accidentado que obstruye la calzada.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Como norma general, en vías de tres calzadas se utilizarán las de los laterales...",
+      "image": "image-3.jpg",
+      "image_alt": "Vía con varias calzadas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "En sentido único, si bien se podrá habilitar algún carril para el sentido contrario.",
+          "correct": true
+        },
+        {
+          "text": "En ambos sentidos.",
+          "correct": false
+        },
+        {
+          "text": "En sentido único, siempre que el tráfico sea fluido.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Cuando se aprecia fuerte viento lateral...",
+      "image": "image-4.jpg",
+      "image_alt": "Infografía con viento lateral",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p04-250x226.jpg",
+      "answers": [
+        {
+          "text": "Se deberá reducir la velocidad y corregir las ligeras desviaciones de la dirección.",
+          "correct": true
+        },
+        {
+          "text": "Se deberá aumentar la velocidad para compensar la fuerza del viento.",
+          "correct": false
+        },
+        {
+          "text": "Disminuye el riesgo de accidente, ya que el viento evita que el vehículo se desvíe de su trayectoria.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "¿Cuándo se deben cambiar las escobillas del limpiaparabrisas?",
+      "image": "image-5.jpg",
+      "image_alt": "Escobillas del limpiarabrisas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p05-250x226.jpg",
+      "answers": [
+        {
+          "text": "Cada dos años obligatoriamente.",
+          "correct": false
+        },
+        {
+          "text": "Cuando las gomas estén dañadas.",
+          "correct": true
+        },
+        {
+          "text": "Siempre antes de pasar la inspección técnica del vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Esta señal, ¿prohíbe el cambio de dirección en la próxima intersección?",
+      "image": "image-6.jpg",
+      "image_alt": "Señal de circulación",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p06-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, ya que debo seguir la dirección y sentido que señala la flecha.",
+          "correct": true
+        },
+        {
+          "text": "No, solo prohíbe el cambio de sentido.",
+          "correct": false
+        },
+        {
+          "text": "No, solo me indica que la vía es de sentido único.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "¿Tiene prioridad de paso una ambulancia que circule con las señales luminosas apagadas?",
+      "image": "image-7.jpg",
+      "image_alt": "Preferencia de las ambulancias",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-p07-250x226.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Solo tiene preferencia en las vías urbanas.",
+          "correct": false
+        },
+        {
+          "text": "Sí, tiene preferencia en todo tipo de vías.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Un vehículo va a incorporarse a la circulación; ¿cuándo debe ceder el paso?",
+      "image": "image-8.jpg",
+      "image_alt": "Vehiculos aparcados",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P-08-250x226.jpg",
+      "answers": [
+        {
+          "text": "Cuando entre en el carril de circulación desde el lado izquierdo, solamente.",
+          "correct": false
+        },
+        {
+          "text": "Siempre.",
+          "correct": true
+        },
+        {
+          "text": "Cuando entre en el carril de circulación desde el lado derecho, solamente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Circula con su turismo por esta carretera convencional; ¿cuál es la velocidad máxima permitida?",
+      "image": "image-9.jpg",
+      "image_alt": "Carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "90 km/h",
+          "correct": true
+        },
+        {
+          "text": "100 km/h",
+          "correct": false
+        },
+        {
+          "text": "80 km/h",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "¿Está permitido atravesar la marca vial de la derecha para cambiar de carril?",
+      "image": "image-10.jpg",
+      "image_alt": "Marca vial",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, pero con precaución.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "No, porque solamente está permitido estacionar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "¿Por qué es aconsejable cambiar periódicamente el aceite lubricante?",
+      "image": "image-11.jpg",
+      "image_alt": "Aceite lubricante",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P11-Extra-250x226.jpg",
+      "answers": [
+        {
+          "text": "Porque, estando en buenas condiciones, mantiene el buen estado del motor más tiempo y el desgaste de las piezas es menor.",
+          "correct": true
+        },
+        {
+          "text": "Porque el aceite con el tiempo se vuelve más viscoso y no fluye correctamente entre las piezas.",
+          "correct": false
+        },
+        {
+          "text": "Porque el aceite con el uso y pasado un tiempo pierde excesiva cantidad de volumen y hay que reponerlo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Circula por una travesía; ya se ha puesto el sol y la vía está suficientemente iluminada. ¿Qué alumbrado debe encender?",
+      "image": "image-12.jpg",
+      "image_alt": "Vía suficiente iluminada",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "Ninguno, ya que la vía está suficientemente iluminada.",
+          "correct": false
+        },
+        {
+          "text": "Las luces de posición y las de corto alcance o de cruce.",
+          "correct": true
+        },
+        {
+          "text": "Solamente las luces de posición.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Cuando el semáforo se ponga verde, ¿qué debe hacer?",
+      "image": "image-13.jpg",
+      "image_alt": "Semáforo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "Obedecer la señal de stop.",
+          "correct": false
+        },
+        {
+          "text": "Obedecer al semáforo, que tiene prioridad sobre la señal de stop.",
+          "correct": true
+        },
+        {
+          "text": "Obedecer al semáforo, pero debo ceder el paso.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Si su vehículo está provisto de caja de cambios manual, en una calle con pendiente ascendente, ¿cómo debe estacionar?",
+      "image": "image-14.jpg",
+      "image_alt": "Cambio de marchas manual",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "Poniendo el freno de estacionamiento y la primera velocidad.",
+          "correct": true
+        },
+        {
+          "text": "Poniendo el freno de estacionamiento y la marcha atrás.",
+          "correct": false
+        },
+        {
+          "text": "Basta con poner el freno de estacionamiento.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "En las calzadas con dos sentidos y tres carriles, cuando quiera girar a la izquierda, ¿dónde debe colocarse?",
+      "image": "image-15.jpg",
+      "image_alt": "Calzada con dos sentidos",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-253/Test-253-P15-250x226.jpg",
+      "answers": [
+        {
+          "text": "En el carril central.",
+          "correct": true
+        },
+        {
+          "text": "En el arcén derecho.",
+          "correct": false
+        },
+        {
+          "text": "En el carril izquierdo.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

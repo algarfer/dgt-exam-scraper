@@ -1,0 +1,323 @@
+{
+  "number": 278,
+  "title": "Junio 2026",
+  "url": "https://revista.dgt.es/es/test/Test-num-278.shtml",
+  "scraped_at": "2026-11-08T17:18:29Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Circula con un turismo con remolque; ¿puede entrar en una vía con esta señal?",
+      "image": "image-1.jpg",
+      "image_alt": "Prohibido remolque",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P01-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, cuando el remolque tenga un solo eje.",
+          "correct": true
+        },
+        {
+          "text": "No, con ningún vehículo que arrastre un remolque.",
+          "correct": false
+        },
+        {
+          "text": "Sí, con cualquier conjunto de vehículos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "El consumo de cannabis afecta al comportamiento del conductor porque...",
+      "image": "image-2.jpg",
+      "image_alt": "Cannabis al volante",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P02-250x226.jpg",
+      "answers": [
+        {
+          "text": "aumenta su nivel de atención.",
+          "correct": false
+        },
+        {
+          "text": "aumenta su tiempo de reacción.",
+          "correct": true
+        },
+        {
+          "text": "disminuye la somnolencia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "¿Puede adelantar en un túnel con un solo carril para cada sentido?",
+      "image": "image-3.jpg",
+      "image_alt": "Adelantar en túnel",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, ya que su sentido de la marcha sólo dispone de un carril.",
+          "correct": true
+        },
+        {
+          "text": "Sí, si en sentido contrario no circula ningún vehículo.",
+          "correct": false
+        },
+        {
+          "text": "No; en los túneles siempre está prohibido adelantar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Si se ve obligado a circular con una rueda de repuesto de uso temporal o de emergencia, ¿qué debe tener en cuenta?",
+      "image": "image-4.jpg",
+      "image_alt": "Rueda de repuesto",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P04-250x226.jpg",
+      "answers": [
+        {
+          "text": "Las indicaciones de los fabricantes de este tipo de repuestos.",
+          "correct": true
+        },
+        {
+          "text": "Que si está homologada su duración es la misma que la de una rueda normal.",
+          "correct": false
+        },
+        {
+          "text": "Que su presión debe ser superior a la de las otras tres ruedas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Estas marcas viales azules indican...",
+      "image": "image-5.jpg",
+      "image_alt": "Líneas azules aparcamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P05-250x226.jpg",
+      "answers": [
+        {
+          "text": "la zona en que se permite estacionar, al igual que las marcas blancas.",
+          "correct": false
+        },
+        {
+          "text": "que en ciertos periodos del día, la duración del estacionamiento está limitada.",
+          "correct": true
+        },
+        {
+          "text": "que está prohibido estacionar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Factores variables como la cantidad y la calidad del sueño, el consumo de medicamentos sedantes o la monotonía en la conducción, ¿afectan por igual a todos los conductores?",
+      "image": "image-6.jpg",
+      "image_alt": "Somnolencia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P06-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sólo a los conductores que circulan principalmente de noche.",
+          "correct": false
+        },
+        {
+          "text": "No; el mismo factor puede afectar de manera distinta a dos personas.",
+          "correct": true
+        },
+        {
+          "text": "Sí.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "En vía urbana, cuando utilice el carril que más convenga a su destino, ¿puede abandonar dicho carril?",
+      "image": "image-7.jpg",
+      "image_alt": "Elección de carril vía urbana",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P07-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, para prepararse a cambiar de dirección, adelantar, parar o estacionar.",
+          "correct": true
+        },
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero sólo para cambiar de dirección.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "En una vía urbana, ¿debe tocar el claxon para advertir que va a realizar un adelantamiento?",
+      "image": "image-8.jpg",
+      "image_alt": "Tocar el claxón en ciudad",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P08-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, salvo que se encuentre cerca de un hospital.",
+          "correct": false
+        },
+        {
+          "text": "Sí, siempre que sea a intervalos cortos y el sonido no sea estridente.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Circula con la luz de largo alcance y se acerca a un vehículo que circula a menor velocidad en su mismo sentido de la marcha; ¿debe sustituir la luz de carretera por la de corto alcance?",
+      "image": "image-9.jpg",
+      "image_alt": "Luces largas en carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, ya que no es necesario ni aconsejable.",
+          "correct": false
+        },
+        {
+          "text": "Sí, para evitar la posibilidad de deslumbramiento a través del espejo retrovisor.",
+          "correct": true
+        },
+        {
+          "text": "Solo si no tiene intención de adelantar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Si un conductor inicia un adelantamiento y se producen circunstancias que hacen difícil finalizar la maniobra...",
+      "image": "image-10.jpg",
+      "image_alt": "Adelantamiento frustrado",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "debe regresar a su carril y advertirlo a los que circulen por detrás.",
+          "correct": true
+        },
+        {
+          "text": "el conductor del vehículo adelantado está obligado a apartarse al arcén.",
+          "correct": false
+        },
+        {
+          "text": "debe acelerar y terminar la maniobra, aunque genere una situación de riesgo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "¿A qué velocidad máxima tiene permitido circular un ciclomotor por esta carretera convencional con un carril para cada sentido de la circulación?",
+      "image": "image-11.jpg",
+      "image_alt": "Ciclomotor por carretera convencional",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P11-250x226.jpg",
+      "answers": [
+        {
+          "text": "45 kilómetros por hora.",
+          "correct": true
+        },
+        {
+          "text": "80 kilómetros por hora.",
+          "correct": false
+        },
+        {
+          "text": "60 kilómetros por hora.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "¿Cuál es una de las infracciones que cometen los conductores con mayor riesgo para los peatones?",
+      "image": "image-12.jpg",
+      "image_alt": "Pasos de peatones",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "No respetar la prioridad en los pasos para peatones.",
+          "correct": true
+        },
+        {
+          "text": "Circular por una autovía en sentido contrario al establecido.",
+          "correct": false
+        },
+        {
+          "text": "No mantener la distancia de seguridad con el vehículo que circula delante.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Quién está obligado a cuidar de que los pasajeros de un vehículo mantengan la posición adecuada para garantizar la seguridad?",
+      "image": "image-13.jpg",
+      "image_alt": "Posición de los ocupantes del vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "Los pasajeros mayores de edad.",
+          "correct": false
+        },
+        {
+          "text": "El pasajero que ocupe el asiento delantero.",
+          "correct": false
+        },
+        {
+          "text": "El conductor.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Si un vehículo de la policía de tráfico se sitúa detrás de usted y enciende un dispositivo con una luz roja destelleante hacia delante, ¿qué debe hacer?",
+      "image": "image-14.jpg",
+      "image_alt": "Señales coche de Policía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "Detenerse y, en su caso, seguir las instrucciones del agente.",
+          "correct": true
+        },
+        {
+          "text": "Reducir la velocidad y apartarse a la derecha, para facilitar el adelantamiento.",
+          "correct": false
+        },
+        {
+          "text": "Detenerse en el lado izquierdo de la calzada, delante del vehículo policial.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "¿Es peligroso conducir cuando los rayos de sol caen de forma directa sobre los ojos del conductor?",
+      "image": "image-15.jpg",
+      "image_alt": "Deslumbramiento por el sol",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-278/Test-278-P15-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, pero encendiendo la luz de largo alcance se mejora la visibilidad.",
+          "correct": false
+        },
+        {
+          "text": "No, porque al haber más luz, la visibilidad es mejor.",
+          "correct": false
+        },
+        {
+          "text": "Sí, la visión se ve afectada y es difícil distinguir lo que ocurre alrededor.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

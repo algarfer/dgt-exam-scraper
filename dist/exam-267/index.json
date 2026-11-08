@@ -1,0 +1,302 @@
+{
+  "number": 267,
+  "title": "Octubre 2023",
+  "url": "https://revista.dgt.es/es/test/Test-num-267.shtml",
+  "scraped_at": "2026-11-08T17:18:17Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Cuando las indicaciones de un semáforo y una señal de balizamiento se contradicen, prevalece…",
+      "image": "image-1.jpg",
+      "image_alt": "Semáforo y señal de balizamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P01-250x226.jpg.jpg",
+      "answers": [
+        {
+          "text": "La señal de balizamiento, por orden de prioridad.",
+          "correct": true
+        },
+        {
+          "text": "El semáforo.",
+          "correct": false
+        },
+        {
+          "text": "La señal más restrictiva.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Al abandonar una autovía deberá…",
+      "image": "image-2.jpg",
+      "image_alt": "Abandono de autovía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P02-250x226.jpg",
+      "answers": [
+        {
+          "text": "Reducir la velocidad de 60 km/h.",
+          "correct": false
+        },
+        {
+          "text": "Continuar por su carril hasta la salida.",
+          "correct": false
+        },
+        {
+          "text": "Circular por el carril de deceleración lo antes posible.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "El freno de pie, ¿sobre qué ruedas actúa?",
+      "image": "image-3.jpg",
+      "image_alt": "Freno de pie",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sobre las ruedas delanteras.",
+          "correct": false
+        },
+        {
+          "text": "Sobre las cuatro ruedas.",
+          "correct": true
+        },
+        {
+          "text": "Sobre las ruedas motrices.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "En una autopista con tres carriles para el mismo sentido, normalmente, ¿cuál debe utilizar?",
+      "image": "image-4.jpg",
+      "image_alt": "Autopista de tres carriles",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P04-250x226.jpg",
+      "answers": [
+        {
+          "text": "Cualquiera de ellos.",
+          "correct": false
+        },
+        {
+          "text": "El central o el derecho, indistintamente.",
+          "correct": false
+        },
+        {
+          "text": "El derecho.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Quiere girar a la derecha. ¿Cómo debe avisar a los demás conductores?",
+      "image": "image-5.jpg",
+      "image_alt": "Girar a la derecha",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P05-250x226.jpg",
+      "answers": [
+        {
+          "text": "Con las luces o con el claxon",
+          "correct": false
+        },
+        {
+          "text": "Con el intermitente o con el brazo",
+          "correct": true
+        },
+        {
+          "text": "Con el brazo o con el claxon.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "La lluvia, ¿afecta al agarre de las ruedas del vehículo a la calzada?",
+      "image": "image-6.jpg",
+      "image_alt": "Conducir con lluvia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P06-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, el agarre es el mismo que cuando la calzada está seca.",
+          "correct": false
+        },
+        {
+          "text": "Sí, se agarran más a la calzada.",
+          "correct": false
+        },
+        {
+          "text": "Sí, se agarran menos.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "La señal a la izquierda de la fotografía indica que tienen prohibido adelantar…",
+      "image": "image-7.jpg",
+      "image_alt": "Prohibido adelantar",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P07-250x226.jpg",
+      "answers": [
+        {
+          "text": "los turismos.",
+          "correct": false
+        },
+        {
+          "text": "los turismos y los camiones de menos de 3.500 kg.",
+          "correct": false
+        },
+        {
+          "text": "los camiones de más de 3.500 kg.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Las señales azules, ¿qué indican?",
+      "image": "image-8.jpg",
+      "image_alt": "Señales azules",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P08-250x226.jpg",
+      "answers": [
+        {
+          "text": "Que la autopista se termina.",
+          "correct": false
+        },
+        {
+          "text": "Que la autopista es de peaje.",
+          "correct": false
+        },
+        {
+          "text": "Los carriles para ir a otras carreteras o poblaciones.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Qué debe hacer un peatón si, cuando va a cruzar una vía, se encuentra de frente a un agente con el brazo levantado verticalmente?",
+      "image": "image-9.jpg",
+      "image_alt": "Guardia y peatones",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "Detenerse.",
+          "correct": true
+        },
+        {
+          "text": "Cruzar. Las señales de los agentes sólo obligan a los conductores de vehículos.",
+          "correct": false
+        },
+        {
+          "text": "Detenerse, excepto si un semáforo le da preferencia de paso, en cuyo caso debe cruzar.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "De los siguientes, ¿cuál es un síntoma característico de la aparición de la fatiga durante la conducción?",
+      "image": "image-10.jpg",
+      "image_alt": "Síntomas de fatiga",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "Se distingue mejor la información relevante de la irrelevante.",
+          "correct": false
+        },
+        {
+          "text": "La disminución en el número de correcciones de la dirección",
+          "correct": true
+        },
+        {
+          "text": "El incremento de la agudeza visual.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Tras la exposición prolongada de un vehículo a altas temperaturas y al calor, ¿es conveniente revisar si sus faros y pilotos han sufrido algún deterioro?",
+      "image": "image-11.jpg",
+      "image_alt": "Faros al sol",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P11-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, para comprobar de forma visual su estado y capacidad de iluminación.",
+          "correct": true
+        },
+        {
+          "text": "No, ya que el acabado de los faros está hecho de un material que soporta todo tipo de factores sin deteriorarse.",
+          "correct": false
+        },
+        {
+          "text": "Sí, salvo en los vehículos de poca antigüedad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "La tasa de alcoholemia en sangre más segura para circular es…",
+      "image": "image-12.jpg",
+      "image_alt": "Tasa de alcoholemia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "0,0 gramos por litro.",
+          "correct": true
+        },
+        {
+          "text": "0,5 gramos por litro.",
+          "correct": false
+        },
+        {
+          "text": "0,3 gramos por litro.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Sobrevalorar su capacidad de conducción o una menor percepción del riesgo son conductas que, en general, hacen que los conductores jóvenes…",
+      "image": "image-13.jpg",
+      "image_alt": "Jóvenes al volante",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "tengan menos probabilidad de sufrir un accidente.",
+          "correct": false
+        },
+        {
+          "text": "tengan más probabilidad de sufrir un accidente",
+          "correct": true
+        },
+        {
+          "text": "sean más prudentes al volante",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "¿Está permitido que los vehículos prioritarios en servicio de urgencia utilicen únicamente la señal luminosa?",
+      "image": "image-14.jpg",
+      "image_alt": "Circulación vehículos prioritarios",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-267/Test-267-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, cuando no suponga un peligro para los demás usuarios.",
+          "correct": true
+        },
+        {
+          "text": "No, tienen que utilizar simultáneamente la señal luminosa y la acústica",
+          "correct": false
+        },
+        {
+          "text": "Sólo en vías urbanas; en vías interurbanas deben usar siempre la señal acústica",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

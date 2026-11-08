@@ -1,0 +1,323 @@
+{
+  "number": 271,
+  "title": "Octubre 2024",
+  "url": "https://revista.dgt.es/es/test/Test-num-271.shtml",
+  "scraped_at": "2026-11-08T17:18:27Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Un conductor que señaliza un cambio de carril, ¿tiene preferencia sobre los conductores de los vehículos que circulan por el carril al que se pretende desplazar?",
+      "image": "image-1.jpg",
+      "image_alt": "Intermitente-preferencia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P01-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sólo si va a adelantar a un vehículo de grandes dimensiones.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Qué debe hacer el conductor de un vehículo que, por motivos de emergencia, quede inmovilizado dentro de un paso inferior?",
+      "image": "image-2.jpg",
+      "image_alt": "Inmovilizado túnel",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P02-250x226.jpg",
+      "answers": [
+        {
+          "text": "Permanecer en el interior del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Inmovilizar el vehículo lo más cerca posible del borde izquierdo de la calzada.",
+          "correct": false
+        },
+        {
+          "text": "Solicitar auxilio a través del poste de socorro más próximo, si existiese.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "En esta situación, ¿está permitido adelantar al ciclista?",
+      "image": "image-3.jpg",
+      "image_alt": "Adelantar ciclista",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, aunque para ello haya que invadir el carril de sentido contrario.",
+          "correct": true
+        },
+        {
+          "text": "Sólo si al adelantar no se invade el carril de sentido contrario.",
+          "correct": false
+        },
+        {
+          "text": "No, porque la señalización prohíbe el adelantamiento.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Conducir durante mucho tiempo a una velocidad elevada...",
+      "image": "image-4.jpg",
+      "image_alt": "Velocidad elevada continua",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P04-250x226.jpg",
+      "answers": [
+        {
+          "text": "disminuye la aparición de la fatiga pero aumenta la agresividad.",
+          "correct": false
+        },
+        {
+          "text": "acelera la aparición de la fatiga y, por tanto, disminuye la agresividad.",
+          "correct": false
+        },
+        {
+          "text": "acelera la aparición de la fatiga y hace que aumente la agresividad.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Factores individuales como la edad, la fatiga o el estado físico del conductor, ¿pueden hacer que los efectos secundarios de los medicamentos sean diferentes en cada persona?",
+      "image": "image-5.jpg",
+      "image_alt": "Conducir medicamentos",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P05-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, los efectos secundarios son los mismos para todas las personas.",
+          "correct": false
+        },
+        {
+          "text": "Sí, los efectos secundarios pueden variar en cada persona.",
+          "correct": true
+        },
+        {
+          "text": "Sólo si durante el tratamiento no se siguen los consejos del médico.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Si se lleva instalado un navegador GPS hay que tener en cuenta que...",
+      "image": "image-6.jpg",
+      "image_alt": "Navegador coche",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P06-250x226.jpg",
+      "answers": [
+        {
+          "text": "mientras se conduce no es conveniente apartar la vista del navegador.",
+          "correct": false
+        },
+        {
+          "text": "las indicaciones del navegador prevalecen sobre la señalización de la vía.",
+          "correct": false
+        },
+        {
+          "text": "el criterio del conductor debe prevalecer sobre las indicaciones del navegador.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Se debe desactivar el airbag frontal cuando en el asiento correspondiente al copiloto...",
+      "image": "image-7.jpg",
+      "image_alt": "Airbag copiloto",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P07-250x226.jpg",
+      "answers": [
+        {
+          "text": "viaje una mujer embarazada.",
+          "correct": false
+        },
+        {
+          "text": "se instale un dispositivo de retención infantil orientado hacia atrás.",
+          "correct": true
+        },
+        {
+          "text": "se instale un dispositivo de retención infantil orientado hacia delante.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "En una autopista que transcurre por zona urbana, ¿a qué velocidad máxima puede circular un turismo si no existe señalización?",
+      "image": "image-8.jpg",
+      "image_alt": "Autopista urbana",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P08-250x226.jpg",
+      "answers": [
+        {
+          "text": "A 80 km/h.",
+          "correct": true
+        },
+        {
+          "text": "A 120 km/h.",
+          "correct": false
+        },
+        {
+          "text": "A 100 km/h.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Puede rebasar la velocidad máxima indicada en la señal?",
+      "image": "image-9.jpg",
+      "image_alt": "Velocidad por cruce",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, en 20 km/h para adelantar.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, mientras lo permitan las circunstancias.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Si debido a la lluvia intensa, en una vía interurbana no se distingue un vehículo de color negro a 50 metros de distancia, ¿es posible circular con el alumbrado de largo alcance encendido?",
+      "image": "image-10.jpg",
+      "image_alt": "Lluvia intensa",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, está prohibido.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque la vía está insuficientemente iluminada.",
+          "correct": true
+        },
+        {
+          "text": "Sólo se puede encender la luz de cruce y la antiniebla delantera.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "La parte externa de uno de los neumáticos de su vehículo presenta una deformación en forma de bulto, ¿es recomendable sustituir el neumático lo antes posible?",
+      "image": "image-11.jpg",
+      "image_alt": "Bulto neumático",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P11-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque aumenta la posibilidad de sufrir un reventón.",
+          "correct": true
+        },
+        {
+          "text": "No. Se puede seguir circulando con seguridad ya que no supone un riesgo importante.",
+          "correct": false
+        },
+        {
+          "text": "No; no es necesario sustituirlo ya que siempre se puede reparar en un taller especializado.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "El agente balancea una luz amarilla; ¿qué indica?",
+      "image": "image-12.jpg",
+      "image_alt": "Luz guardia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "Precaución al circular.",
+          "correct": false
+        },
+        {
+          "text": "El carril por el que se debe circular.",
+          "correct": false
+        },
+        {
+          "text": "Obliga a detenerse a los conductores hacia los que dirige la luz.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Los carriles reversibles están delimitados por marcas longitudinales…",
+      "image": "image-13.jpg",
+      "image_alt": "carriles reversibles",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "discontinuas con una separación sensiblemente más corta.",
+          "correct": false
+        },
+        {
+          "text": "discontinuas simples a ambos lados.",
+          "correct": false
+        },
+        {
+          "text": "dobles discontinuas a ambos lados.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Conforme a los datos de accidentalidad, en los períodos de vacaciones y los fines de semana...",
+      "image": "image-14.jpg",
+      "image_alt": "Accidentes verano",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "no varía de forma importante el número de accidentes con víctimas mortales.",
+          "correct": false
+        },
+        {
+          "text": "aumenta el número de accidentes con víctimas mortales.",
+          "correct": true
+        },
+        {
+          "text": "disminuye el número de accidentes con víctimas mortales.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Si su turismo ha pasado favorablemente la primera ITV, ¿cuándo tiene que pasar la próxima inspección?",
+      "image": "image-15.jpg",
+      "image_alt": "Primera ITV",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-271/Test-271-P15-250x226.jpg",
+      "answers": [
+        {
+          "text": "Dentro de 2 años.",
+          "correct": true
+        },
+        {
+          "text": "Dentro de 4 años.",
+          "correct": false
+        },
+        {
+          "text": "Al año siguiente.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

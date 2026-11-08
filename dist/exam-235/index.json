@@ -1,0 +1,323 @@
+{
+  "number": 235,
+  "title": "Abril 2016",
+  "url": "https://revista.dgt.es/es/test/Test-num-235.shtml",
+  "scraped_at": "2026-11-08T17:18:21Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Los cinturones de seguridad, ¿son eficaces para prevenir lesiones?",
+      "image": "image-1.jpg",
+      "image_alt": "Cinturón de seguridad",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-01-N235.jpg",
+      "answers": [
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero sólo cuando se conduce a poca velocidad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Si vende su vehículo, ¿debe comunicarlo a la Jefatura de Tráfico?",
+      "image": "image-2.jpg",
+      "image_alt": "Venta de vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-02-N235.jpg",
+      "answers": [
+        {
+          "text": "No. El nuevo titular es el que tiene que comunicar la compra.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero no hay plazo obligatorio para comunicar la venta.",
+          "correct": false
+        },
+        {
+          "text": "Sí. Debo comunicar la venta en el plazo de 10 días, indicando los datos del nuevo titular.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Los ocupantes del vehículo van a bajarse, ¿por qué lado deben hacerlo?",
+      "image": "image-3.jpg",
+      "image_alt": "Descenso de vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-03-N235.jpg",
+      "answers": [
+        {
+          "text": "Por el lado más próximo al borde de la vía, como norma general.",
+          "correct": true
+        },
+        {
+          "text": "Por el lado derecho siempre.",
+          "correct": false
+        },
+        {
+          "text": "Por ambos lados.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "El agente balancea una luz roja o amarilla, ¿a qué obliga?",
+      "image": "image-4.jpg",
+      "image_alt": "Agentes de tráfico",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-04-N235.jpg",
+      "answers": [
+        {
+          "text": "A disminuir la velocidad.",
+          "correct": false
+        },
+        {
+          "text": "A pasar por el lado correspondiente al brazo con el que realiza la señal.",
+          "correct": false
+        },
+        {
+          "text": "A detenerse a los usuarios de la vía hacia los que dirige la luz.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Al aproximarnos a un autobús con esta señal en su parte posterior y que se encuentra parado recogiendo pasajeros, se deberá...",
+      "image": "image-5.jpg",
+      "image_alt": "Transporte escolar",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-05-N235.jpg",
+      "answers": [
+        {
+          "text": "Reducir la velocidad y si fuera preciso detener el vehículo.",
+          "correct": true
+        },
+        {
+          "text": "Avisar de nuestra presencia con ráfagas de luz.",
+          "correct": false
+        },
+        {
+          "text": "Siempre, parar detrás del vehículo hasta que reanude la marcha.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Un cambio de rasante es:",
+      "image": "image-6.jpg",
+      "image_alt": "Cambio de rasante",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-06-N235.jpg",
+      "answers": [
+        {
+          "text": "Un tramo de vía donde hay un cambio de dirección.",
+          "correct": false
+        },
+        {
+          "text": "Un lugar en el que se encuentran dos tramos de vía de distinta inclinación.",
+          "correct": true
+        },
+        {
+          "text": "Un tramo de vía donde no se ve el ancho total de la calzada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Esta señal indica que empieza...",
+      "image": "image-7.jpg",
+      "image_alt": "Señal autopista",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-07-N235.jpg",
+      "answers": [
+        {
+          "text": "Una autovía.",
+          "correct": false
+        },
+        {
+          "text": "Una autopista.",
+          "correct": true
+        },
+        {
+          "text": "Una carretera con un paso elevado.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "A la vista de esta señal, ¿puede pasar conduciendo un ciclomotor?",
+      "image": "image-8.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-08-N235.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque no es un vehículo a motor.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, porque la señal sólo prohíbe el paso a automóviles, y no a ciclomotores.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "En una intersección regulada por esta señal, ¿a quién debe ceder el paso?",
+      "image": "image-9.jpg",
+      "image_alt": "Señal cruce",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-09-N235.jpg",
+      "answers": [
+        {
+          "text": "A ningún vehículo, porque esta señal me indica que circulo por la vía con prioridad.",
+          "correct": false
+        },
+        {
+          "text": "Sólo a los vehículos que tengan mayores dificultades de maniobra.",
+          "correct": false
+        },
+        {
+          "text": "A los vehículos que se aproximen por mi derecha.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Si presencia un accidente con víctimas y no ha llegado ayuda, ¿debe detenerse para prestar auxilio?",
+      "image": "image-10.jpg",
+      "image_alt": "Accidente",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-10-N235.jpg",
+      "answers": [
+        {
+          "text": "No, puesto que puedo provocar otro accidente.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "No, pero llamaré inmediatamente a los servicios policiales y de urgencia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Circula con su turismo por una carretera en la que aparece esta señal de restricción con un panel de color amarillo que nos indica que no se permite circular a....",
+      "image": "image-11.jpg",
+      "image_alt": "Señal nivel amarillo",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-11-N235.jpg",
+      "answers": [
+        {
+          "text": "Camiones de M.M.A menor de 3.500 kg ni conjuntos de vehículos.",
+          "correct": false
+        },
+        {
+          "text": "Cualquier vehículo de más de 3.500 kg.",
+          "correct": false
+        },
+        {
+          "text": "Camiones de M.M.A mayor de 3.500 kg ni vehículos articulados.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Después de adelantar al turismo y al camión el turismo verde desea seguir adelantando a otros vehículos. ¿Debe regresar antes al carril derecho?",
+      "image": "image-12.jpg",
+      "image_alt": "Adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-12-N235.jpg",
+      "answers": [
+        {
+          "text": "Sí, siempre.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero solamente cuando circulen vehículos detrás a más velocidad.",
+          "correct": true
+        },
+        {
+          "text": "No, porque en autopistas no es obligatorio.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Cuando la goma de un neumático se endurece por envejecimiento, ¿es peligroso?",
+      "image": "image-13.jpg",
+      "image_alt": "Neumático",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-13-N235.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque el vehículo puede derrapar por falta de agarre.",
+          "correct": true
+        },
+        {
+          "text": "No, porque la goma dura se agarra mejor a la calzada.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero sólo cuando la calzada está mojada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "En el arcén de esta vía, ¿puede inmovilizar su vehículo para ver el paisaje?",
+      "image": "image-14.jpg",
+      "image_alt": "Carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-14-N235.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque el arcén es ancho.",
+          "correct": false
+        },
+        {
+          "text": "No, porque está prohibido.",
+          "correct": true
+        },
+        {
+          "text": "Sí, porque no hay señales que lo prohíben.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "La marca vial amarilla continua, ¿qué indica?",
+      "image": "image-15.jpg",
+      "image_alt": "Marca amarilla",
+      "image_source": "https://revista.dgt.es/Galerias/test/201604/P-15-N235.jpg",
+      "answers": [
+        {
+          "text": "Prohíbe estacionar solamente.",
+          "correct": false
+        },
+        {
+          "text": "Prohíbe hacer parada y estacionar.",
+          "correct": true
+        },
+        {
+          "text": "Prohíbe hacer parada solamente.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

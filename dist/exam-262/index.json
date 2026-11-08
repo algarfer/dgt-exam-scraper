@@ -1,0 +1,323 @@
+{
+  "number": 262,
+  "title": "Junio 2022",
+  "url": "https://revista.dgt.es/es/test/Test-num-262.shtml",
+  "scraped_at": "2026-11-08T17:18:26Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "El conductor de un turismo se ve obligado a realizar el traslado de un enfermo en servicio de urgencia; ¿qué luces debe llevar encendidas?",
+      "image": "image-1.jpg",
+      "image_alt": "Un accidentado",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262-P01.jpg",
+      "answers": [
+        {
+          "text": "Las de emergencia.",
+          "correct": true
+        },
+        {
+          "text": "Las largas.",
+          "correct": false
+        },
+        {
+          "text": "Las de posición.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "En este cruce, ¿qué se debe hacer?",
+      "image": "image-2.jpg",
+      "image_alt": "Cruce",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P02.jpg",
+      "answers": [
+        {
+          "text": "Detenerse solo si se aproximan vehículos por la derecha.",
+          "correct": false
+        },
+        {
+          "text": "Detenerse y ceder el paso a todos los vehículos que se aproximen por ambos lados.",
+          "correct": true
+        },
+        {
+          "text": "Detenerse solo si se aproximan vehículos por la izquierda.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "El carril izquierdo está abierto en sentido contrario al habitual; ¿a qué velocidad máxima pueden circular los vehículos que circulan por el carril derecho?",
+      "image": "image-3.jpg",
+      "image_alt": "Carril especial",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P03.jpg",
+      "answers": [
+        {
+          "text": "A la velocidad máxima de la vía, 120 km/h.",
+          "correct": false
+        },
+        {
+          "text": "A 60 km/h.",
+          "correct": false
+        },
+        {
+          "text": "A 80 km/h.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "¿Está permitido circular por una autovía por debajo del límite mínimo de velocidad establecido para dicha vía sin causa justificada",
+      "image": "image-4.jpg",
+      "image_alt": "Circulación en autovía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P04.jpg",
+      "answers": [
+        {
+          "text": "No, porque es una velocidad anormalmente reducida.",
+          "correct": true
+        },
+        {
+          "text": "Sí, aunque es obligatorio circular por el arcén.",
+          "correct": false
+        },
+        {
+          "text": "Solo si no se entorpece la marcha normal de otros vehículos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Una cuadrícula de marcas amarillas pintada en el suelo indica...",
+      "image": "image-5.jpg",
+      "image_alt": "Señalización horizontal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P05.jpg",
+      "answers": [
+        {
+          "text": "que no se puede franquear la intersección.",
+          "correct": false
+        },
+        {
+          "text": "que no se debe entrar en la intersección si se puede quedar detenido en ella, obstaculizando la circulación.",
+          "correct": true
+        },
+        {
+          "text": "que el estacionamiento está prohibido.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "El conductor de un vehículo extiende el brazo horizontalmente con la palma de la mano hacia atrás, ¿qué indica?",
+      "image": "image-6.jpg",
+      "image_alt": "Señales del conductor",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P06.jpg",
+      "answers": [
+        {
+          "text": "Que va a girar a la izquierda.",
+          "correct": false
+        },
+        {
+          "text": "Que va a circular marcha atrás.",
+          "correct": true
+        },
+        {
+          "text": "Que tiene intención de inmovilizar el vehículo o de frenar su marcha de modo considerable.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Entre los gastos sanitarios derivados de los accidentes de tráfico con víctimas se encuentran...",
+      "image": "image-7.jpg",
+      "image_alt": "Lesionado",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P07.jpg",
+      "answers": [
+        {
+          "text": "los derivados por la pérdida de producción de personas empleadas.",
+          "correct": false
+        },
+        {
+          "text": "los daños causados al medio ambiente.",
+          "correct": false
+        },
+        {
+          "text": "los de rehabilitación en centros de salud.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "En general, un conductor con estrés...",
+      "image": "image-8.jpg",
+      "image_alt": "Conductor con estrés",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P08.jpg",
+      "answers": [
+        {
+          "text": "se distrae con mayor facilidad.",
+          "correct": true
+        },
+        {
+          "text": "toma decisiones más rápidas y comete menos errores.",
+          "correct": false
+        },
+        {
+          "text": "presta mayor atención al entorno y tarda más en tomar decisiones.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "En caso de contradicción entre señales del mismo tipo, ¿cuál prevalecerá?",
+      "image": "image-9.jpg",
+      "image_alt": "Contradicción entre señales",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P09.jpg",
+      "answers": [
+        {
+          "text": "La menos restrictiva.",
+          "correct": false
+        },
+        {
+          "text": "La más restrictiva.",
+          "correct": true
+        },
+        {
+          "text": "Ninguna de las señales.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Una persona provista de un certificado médico que le exima de utilizar los sistemas de retención del vehículo, ¿está obligada a llevar abrochado el cinturón de seguridad?",
+      "image": "image-10.jpg",
+      "image_alt": "Cinturón de seguridad",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P10.jpg",
+      "answers": [
+        {
+          "text": "Sí.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Únicamente fuera de poblado.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Debido a una retención de circulación tiene que reducir, de modo considerable, la velocidad de su vehículo. ¿Debe advertir, siempre que sea posible, a los vehículos que circulan detrás?",
+      "image": "image-11.jpg",
+      "image_alt": "Afluencia de vehículos",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262-ExtraP11.jpg",
+      "answers": [
+        {
+          "text": "Sí, con el empleo de la luz de emergencia.",
+          "correct": false
+        },
+        {
+          "text": "Sí, con el empleo reiterado de las luces de frenado o moviendo el brazo alternativamente de arriba a abajo.",
+          "correct": true
+        },
+        {
+          "text": "No, está prohibido hacer advertencias, ya que pueden crear confusión.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "En vías urbanas de doble sentido de circulación, ¿en qué lado de la calzada puede estacionar un turismo?",
+      "image": "image-12.jpg",
+      "image_alt": "Estacionamiento urbano",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P12.jpg",
+      "answers": [
+        {
+          "text": "A ambos lados cuando la línea de separación de los sentidos sea discontinua.",
+          "correct": false
+        },
+        {
+          "text": "En el lado izquierdo de la calzada en el sentido de la marcha.",
+          "correct": false
+        },
+        {
+          "text": "En el lado derecho de la calzada en el sentido de la marcha.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Si no está implicado en un accidente, ¿debe prestar auxilio a los heridos?",
+      "image": "image-13.jpg",
+      "image_alt": "Asistencia en accidente",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P13.jpg",
+      "answers": [
+        {
+          "text": "Solo si lo solicita algún herido.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Sí, salvo que la ayuda ya esté organizada.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "En una autovía, el límite de velocidad para una motocicleta es de...",
+      "image": "image-14.jpg",
+      "image_alt": "Motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P14.jpg",
+      "answers": [
+        {
+          "text": "120 km/h, pudiéndose superar en 20 km/h para adelantar.",
+          "correct": false
+        },
+        {
+          "text": "120 km/h.",
+          "correct": true
+        },
+        {
+          "text": "100 km/h.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "La velocidad, ¿es un factor de riesgo que produce accidentes?",
+      "image": "image-15.jpg",
+      "image_alt": "Velocidad en vehículos",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-262/Test262P15.jpg",
+      "answers": [
+        {
+          "text": "No, si el vehículo dispone de los últimos sistemas de seguridad.",
+          "correct": false
+        },
+        {
+          "text": "No; solo agrava las consecuencias del accidente pero no es un factor de riesgo.",
+          "correct": false
+        },
+        {
+          "text": "Sí, y por eso debe ser la adecuada en cada momento.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

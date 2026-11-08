@@ -1,0 +1,323 @@
+{
+  "number": 244,
+  "title": "Enero 2018",
+  "url": "https://revista.dgt.es/es/test/Test-num-244.shtml",
+  "scraped_at": "2026-11-08T17:18:23Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "En las autovías, ¿cuál es la velocidad mínima permitida para turismos?",
+      "image": "image-1.jpg",
+      "image_alt": "Autovía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P1.jpg",
+      "answers": [
+        {
+          "text": "40 km/h",
+          "correct": false
+        },
+        {
+          "text": "50 km/h",
+          "correct": false
+        },
+        {
+          "text": "60 km/h",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Al poner en marcha un motor de gasolina, es conveniente...",
+      "image": "image-2.jpg",
+      "image_alt": "Motor de gasolina",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P2.jpg",
+      "answers": [
+        {
+          "text": "Acelerar en vacío para que se caliente cuanto antes.",
+          "correct": false
+        },
+        {
+          "text": "Iniciar la marcha inmediatamente después de arrancar el motor.",
+          "correct": true
+        },
+        {
+          "text": "Esperar unos minutos antes de iniciar la marcha para que el motor se caliente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "La cinta abdominal del cinturón de seguridad debe colocarse sobre...",
+      "image": "image-3.jpg",
+      "image_alt": "Cinturón de seguridad",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P3.jpg",
+      "answers": [
+        {
+          "text": "Los huesos de la cadera",
+          "correct": true
+        },
+        {
+          "text": "Los muslos",
+          "correct": false
+        },
+        {
+          "text": "El abdomen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "En una intersección señalizada en la que se encuentra un agente regulando el tráfico, ¿qué debe hacer?",
+      "image": "image-4.jpg",
+      "image_alt": "Intersección con semáforo, señal vertical y agente",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P4.jpg",
+      "answers": [
+        {
+          "text": "Obedecer las señales del agente.",
+          "correct": true
+        },
+        {
+          "text": "Obedecer las señales de tráfico que regulan la prioridad.",
+          "correct": false
+        },
+        {
+          "text": "Aplicar las normas generales de prioridad de paso de los vehículos que se acerquen por la derecha.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Como norma general, ¿qué vehículo tendrá preferencia de paso en este estrechamiento cuando la prioridad no esté expresamente señalizada?",
+      "image": "image-5.jpg",
+      "image_alt": "Estrechamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P5.jpg",
+      "answers": [
+        {
+          "text": "El vehículo que haya entrado primero al estrechamiento.",
+          "correct": true
+        },
+        {
+          "text": "La motocicleta, porque tiene menos dificultad de maniobra.",
+          "correct": false
+        },
+        {
+          "text": "El vehículo que tenga que dar marcha atrás mayor distancia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "¿Cómo debe sentarse el pasajero de una motocicleta?",
+      "image": "image-6.jpg",
+      "image_alt": "Pasajero motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P6.jpg",
+      "answers": [
+        {
+          "text": "De cualquier forma, siempre que vaya cómodo.",
+          "correct": false
+        },
+        {
+          "text": "A horcajadas y con los pies apoyados en los reposapiés laterales.",
+          "correct": true
+        },
+        {
+          "text": "A horcajadas entre la persona que conduce y el manillar de dirección.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Los agentes de la autoridad encargados de la vigilancia del tráfico podrán inmovilizar un vehículo cuando...",
+      "image": "image-7.jpg",
+      "image_alt": "Control de policía municipal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P7.jpg",
+      "answers": [
+        {
+          "text": "Supere los niveles de gases, humos y ruidos permitidos reglamentariamente.",
+          "correct": true
+        },
+        {
+          "text": "Su conductor no disponga del permiso de circulación original.",
+          "correct": false
+        },
+        {
+          "text": "Su conductor sea sancionado dos veces en el mismo día.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Como norma general, una motocicleta, ¿puede circular por el arcén?",
+      "image": "image-8.jpg",
+      "image_alt": "Motocicleta circulando por carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P8.jpg",
+      "answers": [
+        {
+          "text": "No, debe circular por la calzada.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero no puede hacerlo en paralelo con otros vehículos.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero solo si su cilindrada es igual o inferior a 125 c.c.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Puede el conductor reducir la probabilidad de accidente debida al “factor vía”?",
+      "image": "image-9.jpg",
+      "image_alt": "Conductor",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P9.jpg",
+      "answers": [
+        {
+          "text": "Sí, adaptando su conducción a las condiciones del medio.",
+          "correct": true
+        },
+        {
+          "text": "No, porque no puede actuar sobre la vía ni sobre el entorno.",
+          "correct": false
+        },
+        {
+          "text": "Sí, si su vehículo cuenta con los últimos avances de seguridad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Circular por debajo del límite máximo de velocidad, ¿puede causar accidentes?",
+      "image": "image-10.jpg",
+      "image_alt": "Limitación de velocidad",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P10.jpg",
+      "answers": [
+        {
+          "text": "Sí, cuando la velocidad no se adapte a las circunstancias del tráfico.",
+          "correct": true
+        },
+        {
+          "text": "No, sólo se pueden causar accidentes circulando por encima de ese límite.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Para transportar una mascota, salvo que exista en el vehículo un lugar destinado para su transporte, debe estar...",
+      "image": "image-11.jpg",
+      "image_alt": "Mascota en el coche",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P11.jpg",
+      "answers": [
+        {
+          "text": "Controlada obligatoriamente por un pasajero.",
+          "correct": false
+        },
+        {
+          "text": "Situada obligatoriamente en los asientos traseros y con el cinturón de seguridad del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Sujeta de forma que no interfiera en el conductor para evitar perder el control del vehículo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Cuando se consume alcohol, ¿se producen alteraciones en la visión?",
+      "image": "image-12.jpg",
+      "image_alt": "Vision en túnel",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P12.jpg",
+      "answers": [
+        {
+          "text": "Sí, puede aparecer la visión túnel.",
+          "correct": true
+        },
+        {
+          "text": "No, solamente afecta a la capacidad motora.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero solamente con tasas de alcohol por encima de las permitidas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Si presencia un accidente de circulación, ¿tiene obligación de avisar a la Autoridad o a sus agentes si solo hay heridos leves y la seguridad de la circulación está restablecida?",
+      "image": "image-13.jpg",
+      "image_alt": "Accidente de tráfico",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P13.jpg",
+      "answers": [
+        {
+          "text": "No, salvo que alguna de las personas implicadas en el accidente lo solicite.",
+          "correct": true
+        },
+        {
+          "text": "Sí, siempre.",
+          "correct": false
+        },
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Bajo los efectos del estrés la conducción se vuelve...",
+      "image": "image-14.jpg",
+      "image_alt": "Conductora con estrés",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P14.jpg",
+      "answers": [
+        {
+          "text": "Menos temeraria.",
+          "correct": false
+        },
+        {
+          "text": "Más temeraria.",
+          "correct": true
+        },
+        {
+          "text": "Más segura.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "El impacto económico de los accidentes de tráfico afecta a...",
+      "image": "image-15.jpg",
+      "image_alt": "Accidente e impacto económico",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-244/Test244-P15.jpg",
+      "answers": [
+        {
+          "text": "todos los ciudadanos, directa o indirectamente.",
+          "correct": true
+        },
+        {
+          "text": "los conductores que tienen un accidente al pagar el seguro de su vehículo.",
+          "correct": false
+        },
+        {
+          "text": "las compañías aseguradoras en exclusiva.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "number": 234,
+  "title": "Febrero-2016",
+  "url": "https://revista.dgt.es/es/test/Test-num-234.shtml",
+  "scraped_at": "2026-11-08T17:18:11Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Los dos primeros años con permiso, ¿cuál es la tasa máxima de alcohol?",
+      "image": "image-1.jpg",
+      "image_alt": "Prueba de alcoholemia",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P01.jpg",
+      "answers": [
+        {
+          "text": "0,10 mg/l en aire espirado = 0,2 g/l en sangre.",
+          "correct": false
+        },
+        {
+          "text": "0,25 mg/l en aire espirado = 0,5 g/l en sangre.",
+          "correct": false
+        },
+        {
+          "text": "0,15 mg/l en aire espirado = 0,3 g/l en sangre.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "La línea de borde de la calzada, ¿se puede atravesar?",
+      "image": "image-2.jpg",
+      "image_alt": "Línea lateral de una carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-233-P02.jpg",
+      "answers": [
+        {
+          "text": "Sí, cuando sea necesario y las circunstancias lo permitan.",
+          "correct": true
+        },
+        {
+          "text": "No, está prohibido.",
+          "correct": false
+        },
+        {
+          "text": "Sí, cuando la línea es discontinua; no, cuando es continua.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Si conduce una motocicleta y la calzada está mojada, ¿es necesario incrementar la presión de inflado de los neumáticos por encima de la recomendada por el fabricante?",
+      "image": "image-3.jpg",
+      "image_alt": "Rueda de una motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P03-extendida.jpg",
+      "answers": [
+        {
+          "text": "No, ya que una mayor presión de inflado no contribuye a aumentar la seguridad de circulación.",
+          "correct": true
+        },
+        {
+          "text": "Sí, porque aumenta la adherencia de los neumáticos y mejorará la seguridad de circulación.",
+          "correct": false
+        },
+        {
+          "text": "Sí, ya que aumenta la seguridad de circulación y así se evitan los derrapes.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Al inmovilizar un vehículo en una autopista es obligatorio señalizar la presencia del mismo...",
+      "image": "image-4.jpg",
+      "image_alt": "Triángulo de preseñalización por inmovilización",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P04.jpg",
+      "answers": [
+        {
+          "text": "Con la luz de posición, siempre.",
+          "correct": false
+        },
+        {
+          "text": "Con la luz de emergencia, si se dispone de ella y, en su caso, con la de posición.",
+          "correct": true
+        },
+        {
+          "text": "Únicamente con la luz de emergencia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "En un tramo de vía con un carril de aceleración, ¿se considera adelantamiento que un vehículo avance más rápidamente que otro que lo hace por el carril normal?",
+      "image": "image-5.jpg",
+      "image_alt": "Carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P05.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, como otro adelantamiento cualquiera.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque se trata de una vía interurbana.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Durante el día, con niebla densa o lluvia intensa, ¿se puede circular con la luz de largo alcance encendida?",
+      "image": "image-6.jpg",
+      "image_alt": "Niebla",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P06.jpg",
+      "answers": [
+        {
+          "text": "No, sólo puede encenderse la luz de corto alcance.",
+          "correct": false
+        },
+        {
+          "text": "No, la luz de largo alcance sólo puede encenderse de noche.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero es aconsejable encender la luz de cruce.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "En los vehículos de anchura inferior a un metro, la carga no debe sobresalir por la parte posterior más de...",
+      "image": "image-7.jpg",
+      "image_alt": "vehículo cargado",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P07.jpg",
+      "answers": [
+        {
+          "text": "0,40 metros.",
+          "correct": false
+        },
+        {
+          "text": "0,50 metros.",
+          "correct": false
+        },
+        {
+          "text": "0,25 metros",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Esta señal vertical, ¿qué significa?",
+      "image": "image-8.jpg",
+      "image_alt": "Señal estacionamiento limitado",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P08.jpg",
+      "answers": [
+        {
+          "text": "Zona de estacionamiento limitado.",
+          "correct": true
+        },
+        {
+          "text": "Estacionamiento prohibido en vado.",
+          "correct": false
+        },
+        {
+          "text": "Estacionamiento prohibido.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "El funcionamiento del airbag, ¿puede llegar a ser peligroso en un accidente?",
+      "image": "image-9.jpg",
+      "image_alt": "Airbag",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P09.jpg",
+      "answers": [
+        {
+          "text": "Sí, si no se lleva puesto el cinturón de seguridad.",
+          "correct": true
+        },
+        {
+          "text": "Sí, siempre.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Al estacionar en una pendiente descendente, ¿qué precauciones debe adoptar?",
+      "image": "image-10.jpg",
+      "image_alt": "Vehículo en pendiente",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P10.jpg",
+      "answers": [
+        {
+          "text": "Dejar colocada la primera marcha.",
+          "correct": false
+        },
+        {
+          "text": "Parar el motor, poner el freno de estacionamiento y dejar colocada la marcha atrás si la caja de cambios es manual.",
+          "correct": true
+        },
+        {
+          "text": "Parar el motor y poner el freno de estacionamiento, únicamente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Conducir con mal tiempo, ¿puede favorecer la fatiga?",
+      "image": "image-11.jpg",
+      "image_alt": "Lloviendo mientras se conduce",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P11.jpg",
+      "answers": [
+        {
+          "text": "Sí, por ello se debe descansar con mayor frecuencia.",
+          "correct": true
+        },
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Sólo en los viajes largos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "La amortiguación, ¿contribuye a prevenir los accidentes?",
+      "image": "image-12.jpg",
+      "image_alt": "Amortiguación",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P12.jpg",
+      "answers": [
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        },
+        {
+          "text": "No, sólo contribuye al confort.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "A mayor velocidad aumenta...",
+      "image": "image-13.jpg",
+      "image_alt": "Velocímetro",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P13.jpg",
+      "answers": [
+        {
+          "text": "La eficacia de los elementos de seguridad del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "La fatiga que puede aparecer durante la conducción.",
+          "correct": true
+        },
+        {
+          "text": "La capacidad del conductor para anticiparse a las circunstancias del tráfico.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Fuera de poblado, los peatones deberán circular siempre por su derecha cuando...",
+      "image": "image-14.jpg",
+      "image_alt": "Caminando fuera de poblado",
+      "image_source": "https://revista.dgt.es/Galerias/test/201602/Test-234-P14.jpg",
+      "answers": [
+        {
+          "text": "La vía sea de sentido único, solamente.",
+          "correct": false
+        },
+        {
+          "text": "Sean impedidos y se desplacen en una silla de ruedas.",
+          "correct": true
+        },
+        {
+          "text": "La circulación sea nocturna.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

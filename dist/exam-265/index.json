@@ -1,0 +1,323 @@
+{
+  "number": 265,
+  "title": "Marzo 2023",
+  "url": "https://revista.dgt.es/es/test/Test-num-265.shtml",
+  "scraped_at": "2026-11-08T17:18:27Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Si un conductor se encuentra esta señal, debe saber que en la próxima intersección...",
+      "image": "image-1.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P01-250x226.jpg",
+      "answers": [
+        {
+          "text": "tiene prioridad sobre los vehículos que se acerquen tanto por la derecha como por la izquierda.",
+          "correct": false
+        },
+        {
+          "text": "se aplica la regla general de prioridad de paso.",
+          "correct": true
+        },
+        {
+          "text": "debe ceder el paso a los vehículos que se acerquen tanto por la derecha como por la izquierda.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "En un viaje largo es aconsejable descansar...",
+      "image": "image-2.jpg",
+      "image_alt": "Familia ante coche",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P02-250x226.jpg.jpg",
+      "answers": [
+        {
+          "text": "siempre que se encuentre un área de descanso.",
+          "correct": false
+        },
+        {
+          "text": "cada 2 horas aproximadamente.",
+          "correct": true
+        },
+        {
+          "text": "cada 5 horas aproximadamente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "La señal de velocidad máxima pintada sobre un carril, ¿qué indica?",
+      "image": "image-3.jpg",
+      "image_alt": "Señalizacion horizontal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "Prohibido circular a más de 60 kilómetros por hora en todos los carriles.",
+          "correct": false
+        },
+        {
+          "text": "Prohibido circular a más de 60 kilómetros por hora en ese carril.",
+          "correct": true
+        },
+        {
+          "text": "Prohibido circular a más de 60 kilómetros por hora para los vehículos que van a girar a la derecha.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "El conductor de un vehículo de distribución de mercancías ¿cuándo podrá circular por vía urbana sin utilizar el cinturón de seguridad?",
+      "image": "image-4.jpg",
+      "image_alt": "Conductor distribución mercancías",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P04-250x226.jpg",
+      "answers": [
+        {
+          "text": "En trayectos cortos, cuando realice sucesivas operaciones de carga y descarga.",
+          "correct": true
+        },
+        {
+          "text": "En todo momento; en poblado no tiene obligación de utilizar el cinturón de seguridad.",
+          "correct": false
+        },
+        {
+          "text": "En ningún caso; siempre debe utilizar el cinturón de seguridad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Si un vehículo estacionado se incorpora a la circulación, ¿tiene prioridad para realizar la maniobra?",
+      "image": "image-5.jpg",
+      "image_alt": "Vehículo estacionado",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P05-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, en cualquier caso.",
+          "correct": false
+        },
+        {
+          "text": "Sí, si lo ha señalizado previamente.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Esta señal indica la situación de un lugar donde se puede...",
+      "image": "image-6.jpg",
+      "image_alt": "Señal vertical",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P06-250x226.jpg",
+      "answers": [
+        {
+          "text": "estacionar el vehículo cuando está averiado.",
+          "correct": false
+        },
+        {
+          "text": "realizar una parada para descansar.",
+          "correct": false
+        },
+        {
+          "text": "apartar el vehículo en un túnel para dejar libre el paso.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "¿Cómo se llama la distancia que recorre un vehículo desde que el conductor percibe un estímulo hasta que se responde al mismo?",
+      "image": "image-7.jpg",
+      "image_alt": "Distancia entre vehículos",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P07-250x226.jpg",
+      "answers": [
+        {
+          "text": "Distancia de frenado.",
+          "correct": false
+        },
+        {
+          "text": "Distancia de reacción.",
+          "correct": true
+        },
+        {
+          "text": "Distancia de detención.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "¿Cuál es, como norma general, la velocidad máxima a la que le está permitido circular a un turismo por una carretera convencional?",
+      "image": "image-8.jpg",
+      "image_alt": "Velocidad de un vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P08-250x226.jpg",
+      "answers": [
+        {
+          "text": "80 km/h.",
+          "correct": false
+        },
+        {
+          "text": "100 km/h.",
+          "correct": false
+        },
+        {
+          "text": "90 km/h.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Dos vehículos del mismo tipo se encuentran justo en la mitad de este estrechamiento, en el que la prioridad no está señalizada. ¿Cuál de ellos tendrá preferencia de paso?",
+      "image": "image-9.jpg",
+      "image_alt": "Prioridad en estrechamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "El vehículo que tenga que dar marcha atrás una menor distancia.",
+          "correct": false
+        },
+        {
+          "text": "El vehículo que tenga que dar marcha atrás mayor distancia.",
+          "correct": false
+        },
+        {
+          "text": "El vehículo que tenga mayor longitud, anchura o masa máxima autorizada.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Cuando no se puede circular hacia adelante ni cambiar de dirección o sentido de la marcha, ¿se permite circular marcha atrás?",
+      "image": "image-10.jpg",
+      "image_alt": "Maniobra de marcha atrás",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, pero solo con el recorrido mínimo indispensable.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero el recorrido hacia atrás no puede ser superior a 15 metros ni se puede invadir un cruce de vías.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Si ha instalado en su vehículo neumáticos de invierno, ¿es conveniente sustituirlos cuando las temperaturas comiencen a ser más cálidas?",
+      "image": "image-11.jpg",
+      "image_alt": "Neumático invernal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P11-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque cuando la temperatura es más cálida se desgastan con más rapidez.",
+          "correct": true
+        },
+        {
+          "text": "No, porque se adaptan progresivamente a los cambios de temperatura.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque en tiempo cálido disminuye considerablemente la distancia de frenado.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "En una travesía, ¿está permitido circular con la luz de largo alcance encendida?",
+      "image": "image-12.jpg",
+      "image_alt": "Travesía e iluminación",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, en travesías insuficientemente iluminadas.",
+          "correct": false
+        },
+        {
+          "text": "Sólo si se circula a una velocidad superior a los 40 km/h.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Está permitido que las motocicletas circulen por un carril reservado para vehículos con alta ocupación (VAO)?",
+      "image": "image-13.jpg",
+      "image_alt": "Carril VAO",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Solo si lleva algún ocupante, además del conductor.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "El alcohol desaparece de la sangre...",
+      "image": "image-14.jpg",
+      "image_alt": "Consumo de alcohol",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "rápidamente, eliminándose por completo una hora después de su consumo.",
+          "correct": false
+        },
+        {
+          "text": "inmediatamente después de su consumo a través del sudor y de la orina.",
+          "correct": false
+        },
+        {
+          "text": "muy lentamente, eliminándose por completo varias horas después de su consumo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "¿Es seguro conducir después de haber consumido anfetaminas?",
+      "image": "image-15.jpg",
+      "image_alt": "Consumo de drogas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-265-old/Test-265-P15-250x226.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, porque son relajantes y retrasan la aparición del sueño.",
+          "correct": false
+        },
+        {
+          "text": "Solo si se consumen acompañadas de alguna bebida alcohólica.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

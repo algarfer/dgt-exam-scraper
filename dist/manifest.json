@@ -1,0 +1,276 @@
+{
+  "generated_at": "2026-11-08T17:18:29Z",
+  "source": "https://revista.dgt.es/",
+  "exams": [
+    {
+      "number": 279,
+      "title": "Octubre 2026",
+      "path": "exam-279/index.json"
+    },
+    {
+      "number": 278,
+      "title": "Junio 2026",
+      "path": "exam-278/index.json"
+    },
+    {
+      "number": 277,
+      "title": "Marzo de 2026",
+      "path": "exam-277/index.json"
+    },
+    {
+      "number": 276,
+      "title": "Diciembre 2025",
+      "path": "exam-276/index.json"
+    },
+    {
+      "number": 275,
+      "title": "Octubre 2025",
+      "path": "exam-275/index.json"
+    },
+    {
+      "number": 274,
+      "title": "Junio 2025",
+      "path": "exam-274/index.json"
+    },
+    {
+      "number": 273,
+      "title": "Abril 2025",
+      "path": "exam-273/index.json"
+    },
+    {
+      "number": 272,
+      "title": "Diciembre 2024",
+      "path": "exam-272/index.json"
+    },
+    {
+      "number": 271,
+      "title": "Octubre 2024",
+      "path": "exam-271/index.json"
+    },
+    {
+      "number": 270,
+      "title": "Junio 2024",
+      "path": "exam-270/index.json"
+    },
+    {
+      "number": 269,
+      "title": "Marzo 2024",
+      "path": "exam-269/index.json"
+    },
+    {
+      "number": 268,
+      "title": "Diciembre 2023",
+      "path": "exam-268/index.json"
+    },
+    {
+      "number": 267,
+      "title": "Octubre 2023",
+      "path": "exam-267/index.json"
+    },
+    {
+      "number": 266,
+      "title": "Junio 2023",
+      "path": "exam-266/index.json"
+    },
+    {
+      "number": 265,
+      "title": "Marzo 2023",
+      "path": "exam-265/index.json"
+    },
+    {
+      "number": 264,
+      "title": "Diciembre 2022",
+      "path": "exam-264/index.json"
+    },
+    {
+      "number": 263,
+      "title": "Octubre 2022",
+      "path": "exam-263/index.json"
+    },
+    {
+      "number": 262,
+      "title": "Junio 2022",
+      "path": "exam-262/index.json"
+    },
+    {
+      "number": 261,
+      "title": "Marzo2022",
+      "path": "exam-261/index.json"
+    },
+    {
+      "number": 260,
+      "title": "Diciembre 2021",
+      "path": "exam-260/index.json"
+    },
+    {
+      "number": 259,
+      "title": "Octubre 2021",
+      "path": "exam-259/index.json"
+    },
+    {
+      "number": 258,
+      "title": "Junio 2021",
+      "path": "exam-258/index.json"
+    },
+    {
+      "number": 257,
+      "title": "Marzo 2021",
+      "path": "exam-257/index.json"
+    },
+    {
+      "number": 256,
+      "title": "Diciembre 2020",
+      "path": "exam-256/index.json"
+    },
+    {
+      "number": 255,
+      "title": "Octubre 2020",
+      "path": "exam-255/index.json"
+    },
+    {
+      "number": 254,
+      "title": "Julio 2020",
+      "path": "exam-254/index.json"
+    },
+    {
+      "number": 253,
+      "title": "Junio 2020",
+      "path": "exam-253/index.json"
+    },
+    {
+      "number": 252,
+      "title": "Diciembre 2019",
+      "path": "exam-252/index.json"
+    },
+    {
+      "number": 251,
+      "title": "Octubre 2019",
+      "path": "exam-251/index.json"
+    },
+    {
+      "number": 250,
+      "title": "Julio 2019",
+      "path": "exam-250/index.json"
+    },
+    {
+      "number": 249,
+      "title": "Abril 2019",
+      "path": "exam-249/index.json"
+    },
+    {
+      "number": 248,
+      "title": "Diciembre 2018",
+      "path": "exam-248/index.json"
+    },
+    {
+      "number": 247,
+      "title": "Julio 2018",
+      "path": "exam-247/index.json"
+    },
+    {
+      "number": 246,
+      "title": "Mayo 2018",
+      "path": "exam-246/index.json"
+    },
+    {
+      "number": 245,
+      "title": "Marzo 2018",
+      "path": "exam-245/index.json"
+    },
+    {
+      "number": 244,
+      "title": "Enero 2018",
+      "path": "exam-244/index.json"
+    },
+    {
+      "number": 243,
+      "title": "Diciembre 2017",
+      "path": "exam-243/index.json"
+    },
+    {
+      "number": 242,
+      "title": "Octubre-2017",
+      "path": "exam-242/index.json"
+    },
+    {
+      "number": 241,
+      "title": "Julio 2017",
+      "path": "exam-241/index.json"
+    },
+    {
+      "number": 239,
+      "title": "Febrero 2017",
+      "path": "exam-239/index.json"
+    },
+    {
+      "number": 238,
+      "title": "Diciembre 2016",
+      "path": "exam-238/index.json"
+    },
+    {
+      "number": 237,
+      "title": "Octubre 2016",
+      "path": "exam-237/index.json"
+    },
+    {
+      "number": 236,
+      "title": "Julio 2016",
+      "path": "exam-236/index.json"
+    },
+    {
+      "number": 235,
+      "title": "Abril 2016",
+      "path": "exam-235/index.json"
+    },
+    {
+      "number": 234,
+      "title": "Febrero-2016",
+      "path": "exam-234/index.json"
+    },
+    {
+      "number": 233,
+      "title": "Diciembre 2015",
+      "path": "exam-233/index.json"
+    },
+    {
+      "number": 232,
+      "title": "Noviembre-2015",
+      "path": "exam-232/index.json"
+    },
+    {
+      "number": 230,
+      "title": "Julio-2015",
+      "path": "exam-230/index.json"
+    },
+    {
+      "number": 229,
+      "title": "Diciembre 2014",
+      "path": "exam-229/index.json"
+    },
+    {
+      "number": 228,
+      "title": "Septiembre-octubre 2014",
+      "path": "exam-228/index.json"
+    },
+    {
+      "number": 227,
+      "title": "Julio-agosto 2014",
+      "path": "exam-227/index.json"
+    },
+    {
+      "number": 226,
+      "title": "Mayo-junio 2014",
+      "path": "exam-226/index.json"
+    },
+    {
+      "number": 225,
+      "title": "Marzo-abril 2014",
+      "path": "exam-225/index.json"
+    },
+    {
+      "number": 224,
+      "title": "Febrero 2014",
+      "path": "exam-224/index.json"
+    }
+  ]
+}

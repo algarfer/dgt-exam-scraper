@@ -1,0 +1,302 @@
+{
+  "number": 236,
+  "title": "Julio 2016",
+  "url": "https://revista.dgt.es/es/test/Test-num-236.shtml",
+  "scraped_at": "2026-11-08T17:18:10Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Es de noche y necesita inmovilizar su vehículo en el arcén de una carretera por avería. ¿Qué luces debe encender?",
+      "image": "image-1.jpg",
+      "image_alt": "Luces de noche",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P01.jpg",
+      "answers": [
+        {
+          "text": "Sólo las luces de posición.",
+          "correct": false
+        },
+        {
+          "text": "Las luces de emergencia y las luces cortas.",
+          "correct": false
+        },
+        {
+          "text": "Las de posición y las de emergencia.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Cuándo está bien colocado en el asiento para conducir?",
+      "image": "image-2.jpg",
+      "image_alt": "Colocación asientos en el vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P02-160x146.jpg",
+      "answers": [
+        {
+          "text": "Cuando llevo las piernas un poco dobladas y el cuerpo recto.",
+          "correct": true
+        },
+        {
+          "text": "Cuando llevo las piernas rectas y el cuerpo hacia atrás.",
+          "correct": false
+        },
+        {
+          "text": "Cuando llevo las piernas dobladas y el cuerpo hacia adelante.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Una furgoneta de uso privado dedicada al transporte de personas, con capacidad para nueve plazas, incluido el conductor, ¿cuándo debe pasar la primera ITV?",
+      "image": "image-3.jpg",
+      "image_alt": "Furgoneta",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P03-ESP-160x146.jpg",
+      "answers": [
+        {
+          "text": "A los tres años de antigüedad.",
+          "correct": false
+        },
+        {
+          "text": "A los cuatros años de antigüedad.",
+          "correct": true
+        },
+        {
+          "text": "A los dos años de antigüedad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "El tiempo desde que ve un peligro hasta que actúa, ¿cómo se llama?",
+      "image": "image-4.jpg",
+      "image_alt": "Tiempo de reacción ante un peligro",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P04-160x146.jpg",
+      "answers": [
+        {
+          "text": "Tiempo de frenado.",
+          "correct": false
+        },
+        {
+          "text": "Tiempo de reacción.",
+          "correct": true
+        },
+        {
+          "text": "Tiempo de detención.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "El factor de riesgo que influye en la mayor parte de los accidentes, ¿cuál es?",
+      "image": "image-5.jpg",
+      "image_alt": "Vehículo accidentado",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P05-160x146.jpg",
+      "answers": [
+        {
+          "text": "El factor vía y entorno.",
+          "correct": false
+        },
+        {
+          "text": "El factor humano.",
+          "correct": true
+        },
+        {
+          "text": "El factor vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Llevar encendido el teléfono móvil en el vehículo, ¿puede resultar peligroso?",
+      "image": "image-6.jpg",
+      "image_alt": "Teléfono móvil",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P06-telef-160x146.jpg",
+      "answers": [
+        {
+          "text": "No, si no se va a utilizar.",
+          "correct": false
+        },
+        {
+          "text": "Sí, el sonido del teléfono, al igual que otro ruido, puede sorprender al conductor.",
+          "correct": true
+        },
+        {
+          "text": "No, porque no es un ruido que pueda distraer al conductor.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Existe un mayor riesgo de somnolencia en vías con...",
+      "image": "image-7.jpg",
+      "image_alt": "Somnolencia al volante",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P07-160x146.jpg",
+      "answers": [
+        {
+          "text": "muchas curvas.",
+          "correct": false
+        },
+        {
+          "text": "mucho tráfico.",
+          "correct": false
+        },
+        {
+          "text": "trazado monótono.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Si un vehículo tiene el intermitente derecho encendido, pero su conductor señaliza con el brazo que va a girar a la izquierda, ¿qué señal prevalece?",
+      "image": "image-8.jpg",
+      "image_alt": "Vehículo con el intermitente derecho encendido",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P08-160x146.jpg",
+      "answers": [
+        {
+          "text": "Depende de la circulación.",
+          "correct": false
+        },
+        {
+          "text": "La señal luminosa.",
+          "correct": false
+        },
+        {
+          "text": "La realizada con el brazo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Es aconsejable que los conductores de motocicletas lleven guantes?",
+      "image": "image-9.jpg",
+      "image_alt": "Motociclista sin guantes manejando una moto",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P09-160x146.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "Sólo en vía urbana.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "¿Puede circular un turismo que expulsa por el tubo de escape más humo de lo permitido?",
+      "image": "image-10.jpg",
+      "image_alt": "Vehículo emitiendo humos",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P10-160x146.jpg",
+      "answers": [
+        {
+          "text": "Sí, mientras no sean gases nocivos.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero únicamente fuera de poblado.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "En vías interurbanas, los ciclos y ciclomotores de dos ruedas, ¿dónde deben situarse para girar a la izquierda?",
+      "image": "image-11.jpg",
+      "image_alt": "Turismo adelantando a una motocicleta en carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P11-160x146.jpg",
+      "answers": [
+        {
+          "text": "En el carril izquierdo.",
+          "correct": false
+        },
+        {
+          "text": "En el centro, sin invadir el sentido contrario.",
+          "correct": false
+        },
+        {
+          "text": "A la derecha, fuera de la calzada si es posible, e iniciarlo desde ese lugar.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Mantener la distancia de seguridad adecuada, sobre todo en ciudad, ¿es una recomendación válida para evitar accidentes con las motocicletas?",
+      "image": "image-12.jpg",
+      "image_alt": "Distancia de seguridad",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P12-160x146.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque se pueden evitar alcances.",
+          "correct": true
+        },
+        {
+          "text": "No, porque la distancia de seguridad no influye en los accidentes de moto.",
+          "correct": false
+        },
+        {
+          "text": "No, porque esta recomendación carece de sentido circulando.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "El conductor que consume cocaína...",
+      "image": "image-13.jpg",
+      "image_alt": "Conductor consumiendo droga",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P13-160x146.jpg",
+      "answers": [
+        {
+          "text": "puede volverse más competitivo y agresivo.",
+          "correct": true
+        },
+        {
+          "text": "es más tranquilo y menos competitivo.",
+          "correct": false
+        },
+        {
+          "text": "es más agresivo y menos competitivo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Cuando llueve o hay viento, ¿por qué hay que tener más precaución con los ciclistas?",
+      "image": "image-14.jpg",
+      "image_alt": "Ciclistas en carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/201606/Test-236-P14-160x146.jpg",
+      "answers": [
+        {
+          "text": "Porque tienen más probabilidad de caerse.",
+          "correct": true
+        },
+        {
+          "text": "Porque pueden salpicar agua.",
+          "correct": false
+        },
+        {
+          "text": "Porque suelen estorbar el tráfico.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

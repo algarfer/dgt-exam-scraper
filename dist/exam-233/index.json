@@ -1,0 +1,323 @@
+{
+  "number": 233,
+  "title": "Diciembre 2015",
+  "url": "https://revista.dgt.es/es/test/Test-num-233.shtml",
+  "scraped_at": "2026-11-08T17:18:21Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "La marca amarilla continua...",
+      "image": "image-1.jpg",
+      "image_alt": "Raya amarilla continua",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/TEST-233-P01.jpg",
+      "answers": [
+        {
+          "text": "indica una zona reservada para un uso especial, donde sólo puedo parar.",
+          "correct": false
+        },
+        {
+          "text": "indica una zona donde la duración del estacionamiento está limitada.",
+          "correct": false
+        },
+        {
+          "text": "indica la zona de la vía donde está prohibido parar y estacionar.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "El silenciador...",
+      "image": "image-2.jpg",
+      "image_alt": "Tubo de escape",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/TEST-233-P02-fo55.jpg",
+      "answers": [
+        {
+          "text": "no es una parte del sistema de escape de los motores.",
+          "correct": false
+        },
+        {
+          "text": "disminuye o silencia las explosiones producidas en el interior del motor.",
+          "correct": true
+        },
+        {
+          "text": "no tiene influencia en la contaminación.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "La señal prohíbe circular a más de 80 km/h. ¿Cuándo termina la prohibición?",
+      "image": "image-3.jpg",
+      "image_alt": "Señal de prohibición",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-P03.jpg",
+      "answers": [
+        {
+          "text": "Después de la intersección.",
+          "correct": true
+        },
+        {
+          "text": "Cuando encuentre una señal de “fin de prohibido adelantar”.",
+          "correct": false
+        },
+        {
+          "text": "Inmediatamente antes de la intersección.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "El viento sopla desde el lado derecho a ráfagas. ¿Cuándo es más peligroso?",
+      "image": "image-4.jpg",
+      "image_alt": "Viento sopla en carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-P04.jpg",
+      "answers": [
+        {
+          "text": "Cuando adelanto a un vehículo grande.",
+          "correct": true
+        },
+        {
+          "text": "Cuando circulo detrás de un vehículo grande.",
+          "correct": false
+        },
+        {
+          "text": "Cuando un vehículo grande me adelanta.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Si los ocupantes de los asientos traseros de un vehículo son menores de edad y de estatura igual o inferior a 135 cm de altura, ¿qué dispositivos de seguridad deben utilizar?",
+      "image": "image-5.jpg",
+      "image_alt": "Niño",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-P05.jpg",
+      "answers": [
+        {
+          "text": "Un dispositivo de retención infantil adaptado a su talla y peso.",
+          "correct": true
+        },
+        {
+          "text": "El cinturón de seguridad que viene instalado en el vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Obligatoriamente un sistema de retención infantil soldado a la carrocería del vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "¿Cuándo está permitido utilizar las señales acústicas?",
+      "image": "image-6.jpg",
+      "image_alt": "Señales acústicas",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/TEST-233-P06.jpg",
+      "answers": [
+        {
+          "text": "Cuando circulo por vías urbanas solamente.",
+          "correct": false
+        },
+        {
+          "text": "Cuando circulo por cualquier vía en cualquier circunstancia.",
+          "correct": false
+        },
+        {
+          "text": "Cuando quiero adelantar fuera de poblado.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Al adelantar, ¿cuándo debe volver al carril derecho?",
+      "image": "image-7.jpg",
+      "image_alt": "Adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-P07.jpg",
+      "answers": [
+        {
+          "text": "Después de recorrer 200 metros por delante del turismo.",
+          "correct": false
+        },
+        {
+          "text": "Después de 15 segundos.",
+          "correct": false
+        },
+        {
+          "text": "Después de ver en el espejo la parte delantera del vehículo adelantado.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Para evitar la fatiga en la conducción, conviene descansar...",
+      "image": "image-8.jpg",
+      "image_alt": "Cansancio",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-P08.jpg",
+      "answers": [
+        {
+          "text": "cada 3 horas o cada 400 kilómetros.",
+          "correct": false
+        },
+        {
+          "text": "cuando el conductor compruebe que ha perdido totalmente la capacidad de reaccionar.",
+          "correct": false
+        },
+        {
+          "text": "cada 2 horas o cada 200 kilómetros.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "El tiempo de absorción del alcohol, ¿depende de la bebida ingerida?",
+      "image": "image-9.jpg",
+      "image_alt": "Alcohol y conducción",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-P09.jpg",
+      "answers": [
+        {
+          "text": "No, la absorción se realiza por el organismo a un ritmo constante, independientemente de la bebida.",
+          "correct": false
+        },
+        {
+          "text": "Sí, se absorbe más rápidamente el alcohol de las bebidas fermentadas.",
+          "correct": false
+        },
+        {
+          "text": "Sí, se absorbe más rápidamente el alcohol de las bebidas destiladas.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Al elegir un casco para conducir una motocicleta, ¿qué debe tener en cuenta?",
+      "image": "image-10.jpg",
+      "image_alt": "Casco",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-PAMPLIADA.jpg",
+      "answers": [
+        {
+          "text": "Que se pueda sujetar sin tener que llevarlo abrochado.",
+          "correct": false
+        },
+        {
+          "text": "Que tenga buena ventilación para que no se empañe.",
+          "correct": true
+        },
+        {
+          "text": "Que proteja convenientemente de los ruidos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "La luz rotativa que llevan los vehículos especiales, ¿les concede prioridad frente a los demás conductores?",
+      "image": "image-11.jpg",
+      "image_alt": "Luz rotativa",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-P11.jpg",
+      "answers": [
+        {
+          "text": "No, sólo señaliza su situación.",
+          "correct": true
+        },
+        {
+          "text": "Sí, en cualquier caso.",
+          "correct": false
+        },
+        {
+          "text": "Sí, cuando circulan con ella encendida.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "La carga que sobresale por delante de un vehículo, ¿cómo debe ir señalizada?",
+      "image": "image-12.jpg",
+      "image_alt": "Carga",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-P12.jpg",
+      "answers": [
+        {
+          "text": "Con una luz blanca, de noche o en condiciones que disminuyan sensiblemente la visibilidad.",
+          "correct": true
+        },
+        {
+          "text": "Con una luz blanca, tanto de día como de noche.",
+          "correct": false
+        },
+        {
+          "text": "Con una luz blanca y un reflectante blanco, de noche o en condiciones que disminuyan sensiblemente la visibilidad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Una fila escolar va a cruzar la calzada. ¿Es obligatorio cederle el paso?",
+      "image": "image-13.jpg",
+      "image_alt": "Niños cruzando",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-P13.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Solo si cruza por un paso para peatones.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Circulando con lluvia intensa, ¿es obligatorio utilizar la luz antiniebla trasera?",
+      "image": "image-14.jpg",
+      "image_alt": "Con lluvia intensa",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-P14.jpg",
+      "answers": [
+        {
+          "text": "Sí.",
+          "correct": false
+        },
+        {
+          "text": "Sí, el trasero y el delantero.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Un conductor que acaba de obtener su primer permiso de conducción no podrá superar la tasa de alcohol de...",
+      "image": "image-15.jpg",
+      "image_alt": "Jóvenes y alcohol",
+      "image_source": "https://revista.dgt.es/Galerias/test/201512/Test-233-P15.jpg",
+      "answers": [
+        {
+          "text": "0,15 miligramos de alcohol por litro de aire espirado.",
+          "correct": true
+        },
+        {
+          "text": "0,30 miligramos de alcohol por litro de aire espirado.",
+          "correct": false
+        },
+        {
+          "text": "0,25 miligramos de alcohol por litro de aire espirado.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

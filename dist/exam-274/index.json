@@ -1,0 +1,323 @@
+{
+  "number": 274,
+  "title": "Junio 2025",
+  "url": "https://revista.dgt.es/es/test/Test-num-274.shtml",
+  "scraped_at": "2026-11-08T17:18:28Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "De día es obligatorio encender el alumbrado que corresponda cuando se circule...",
+      "image": "image-1.jpg",
+      "image_alt": "Luces diurnas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P01-250x226.jpg",
+      "answers": [
+        {
+          "text": "por un puente móvil.",
+          "correct": false
+        },
+        {
+          "text": "por un carril reservado a vehículos con alta ocupación (VAO).",
+          "correct": false
+        },
+        {
+          "text": "por pasos inferiores o tramos de vía afectados por la señal \"Túnel\".",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Entre los siguientes tipos de señales, ¿cuál es el orden de prioridad?",
+      "image": "image-2.jpg",
+      "image_alt": "Prioridad de señales",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P02-250x226.jpg",
+      "answers": [
+        {
+          "text": "Señales verticales, agentes y semáforos.",
+          "correct": false
+        },
+        {
+          "text": "Agentes, semáforos y señales verticales.",
+          "correct": true
+        },
+        {
+          "text": "Semáforos, agentes y señales verticales.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Esta señal prohíbe la entrada a...",
+      "image": "image-3.jpg",
+      "image_alt": "Prohibición circular",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "ciclos y ciclomotores.",
+          "correct": false
+        },
+        {
+          "text": "ciclos.",
+          "correct": true
+        },
+        {
+          "text": "todos los vehículos de dos ruedas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "En general, bajo los efectos de la cocaína el conductor...",
+      "image": "image-4.jpg",
+      "image_alt": "Drogas y conducción",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P04-250x226.jpg",
+      "answers": [
+        {
+          "text": "es inseguro e infravalora sus capacidades al volante.",
+          "correct": false
+        },
+        {
+          "text": "se concentra mejor, por lo que sus decisiones son más seguras.",
+          "correct": false
+        },
+        {
+          "text": "es competitivo e impulsivo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Las embarazadas, ¿están obligadas a utilizar el cinturón de seguridad?",
+      "image": "image-5.jpg",
+      "image_alt": "Cinturón embarazadas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P05-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, como norma general.",
+          "correct": true
+        },
+        {
+          "text": "No, porque es peligroso para el feto.",
+          "correct": false
+        },
+        {
+          "text": "Solo si no les dificulta los movimientos para conducir.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "El calor afecta negativamente a las capacidades para conducir con seguridad. Un conductor que se encuentra bajo sus efectos normalmente:",
+      "image": "image-6.jpg",
+      "image_alt": "Conducción y calor",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P06-250x226.jpg",
+      "answers": [
+        {
+          "text": "Tarda más en reaccionar y es menos agresivo.",
+          "correct": false
+        },
+        {
+          "text": "Tarda más en reaccionar y es más agresivo.",
+          "correct": true
+        },
+        {
+          "text": "Tarda menos en reaccionar y es más agresivo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Cuando la luz de marcha atrás esté averiada, ¿cómo debe indicar que va a dar marcha atrás?",
+      "image": "image-7.jpg",
+      "image_alt": "Marcha atrás sin luz",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P07-250x226.jpg",
+      "answers": [
+        {
+          "text": "Moviendo el brazo de arriba abajo.",
+          "correct": false
+        },
+        {
+          "text": "Con el brazo extendido y la palma de la mano hacia atrás.",
+          "correct": true
+        },
+        {
+          "text": "Advirtiéndolo con el claxon.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "En una vía interurbana con un carril por sentido, ¿dónde se colocará un ciclomotor para girar a la izquierda, si no existe carril específico para realizar el giro?",
+      "image": "image-8.jpg",
+      "image_alt": "Giro ciclomotor convencional con un carril por sentido",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P08-250x226.jpg",
+      "answers": [
+        {
+          "text": "En el eje de la calzada, sin invadir el carril de sentido contrario.",
+          "correct": false
+        },
+        {
+          "text": "En la parte central del carril por el que circule.",
+          "correct": false
+        },
+        {
+          "text": "A la derecha, fuera de la calzada siempre que sea posible.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Esta marca transversal discontinua, ¿obliga a detenerse antes de franquearla?",
+      "image": "image-9.jpg",
+      "image_alt": "Línea en ceda el paso",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "Solo si hay visibilidad reducida.",
+          "correct": false
+        },
+        {
+          "text": "No, porque no parar no implica ningún peligro a la circulación.",
+          "correct": false
+        },
+        {
+          "text": "No, salvo que sea necesario para ceder el paso.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Para intentar evitar la aparición de la somnolencia durante la conducción es aconsejable dormir...",
+      "image": "image-10.jpg",
+      "image_alt": "Horas de sueño necesarias",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "entre 5 y 7 horas diarias.",
+          "correct": false
+        },
+        {
+          "text": "menos horas de las necesarias, para mantener alto el nivel de alerta.",
+          "correct": false
+        },
+        {
+          "text": "las horas suficientes para estar descansado, que para la mayoría de las personas son entre 7 y 9 horas.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "¿Cómo debe comportarse el conductor de un turismo, sobre todo en vías urbanas, para evitar un accidente con una motocicleta o un ciclomotor?",
+      "image": "image-11.jpg",
+      "image_alt": "Sueño y conducción",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P11-250x226.jpg",
+      "answers": [
+        {
+          "text": "Debe circular en paralelo y lo más cerca posible de los vehículos de dos ruedas.",
+          "correct": false
+        },
+        {
+          "text": "Debe mirar por los retrovisores con frecuencia.",
+          "correct": true
+        },
+        {
+          "text": "Debe reducir o incluso eliminar la distancia de seguridad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "En un carril habilitado en sentido contrario al habitual por trabajos en la calzada, ¿qué vehículos tienen permitido utilizarlo?",
+      "image": "image-12.jpg",
+      "image_alt": "Carril en sentido contrario",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "Todos los que estén autorizados a circular por la vía.",
+          "correct": true
+        },
+        {
+          "text": "Solo turismos y motocicletas.",
+          "correct": false
+        },
+        {
+          "text": "Automóviles que no superen los 3.500 kg de M.M.A. y motocicletas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "En los adelantamientos a ciclistas en vías con un carril para cada sentido, ¿está permitido ocupar el carril de sentido contrario?",
+      "image": "image-13.jpg",
+      "image_alt": "Adelanto ciclistas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, siempre que el adelantamiento se pueda realizar con seguridad.",
+          "correct": true
+        },
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Solo si ambos sentidos están separados por línea blanca discontinua.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Los conductores, ¿están obligados a realizar las pruebas para la comprobación de la tasa de alcoholemia cuando sean requeridos para ello por la policía de tráfico?",
+      "image": "image-14.jpg",
+      "image_alt": "Pruebas alcoholemia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "No; pueden negarse a hacerla y seguir circulando.",
+          "correct": false
+        },
+        {
+          "text": "Solo están obligados en caso de accidente de tráfico.",
+          "correct": false
+        },
+        {
+          "text": "Sí; negarse a realizarla es un delito incluido en el Código Penal.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "¿Es conveniente utilizar un aceite lubricante con un índice de viscosidad tan bajo que, al calentarse el motor, se vuelva excesivamente líquido?",
+      "image": "image-15.jpg",
+      "image_alt": "Tipo de aceite de coche",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-274/Test-274-P15-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, ya que el aceite no llega a engrasar bien las piezas del motor.",
+          "correct": true
+        },
+        {
+          "text": "Sí; cuanto más líquido, mejor engrasa y además arrastra los residuos depositados en el motor.",
+          "correct": false
+        },
+        {
+          "text": "Solo si el motor se calienta en exceso, ya que engrasa mejor y ayuda a bajar su temperatura.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

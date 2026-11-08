@@ -1,0 +1,323 @@
+{
+  "number": 264,
+  "title": "Diciembre 2022",
+  "url": "https://revista.dgt.es/es/test/Test-num-264.shtml",
+  "scraped_at": "2026-11-08T17:18:26Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "La señal indica que...",
+      "image": "image-1.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P01.jpg",
+      "answers": [
+        {
+          "text": "está en un callejón sin salida y debe retroceder.",
+          "correct": false
+        },
+        {
+          "text": "está prohibido pasar sin detenerse.",
+          "correct": true
+        },
+        {
+          "text": "se aproxima a una elevación del terreno.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Para qué sirve el carril de deceleración?",
+      "image": "image-2.jpg",
+      "image_alt": "Carril",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P02.jpg",
+      "answers": [
+        {
+          "text": "Para que circulen los vehículos lentos.",
+          "correct": false
+        },
+        {
+          "text": "Para adelantar por la derecha.",
+          "correct": false
+        },
+        {
+          "text": "Para reducir la velocidad al salir de una autopista.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "En una vía interurbana insuficientemente iluminada, un turismo circula a menos de 40 km/h; ¿puede circular utilizando solo la luz de posición y la de corto alcance?",
+      "image": "image-3.jpg",
+      "image_alt": "Luces",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P03.jpg",
+      "answers": [
+        {
+          "text": "Sí, aunque puede encender la de largo alcance si no deslumbra a otros usuarios.",
+          "correct": true
+        },
+        {
+          "text": "No; es obligatorio que circule con la luz de largo alcance encendida.",
+          "correct": false
+        },
+        {
+          "text": "Solo cuando circule por una travesía.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Las marcas blancas y rojas de la calzada, ¿qué indican?",
+      "image": "image-4.jpg",
+      "image_alt": "Marcas viales",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P04.jpg",
+      "answers": [
+        {
+          "text": "Una zona reservada para la salida de competiciones de coches.",
+          "correct": false
+        },
+        {
+          "text": "Una zona reservada para el estacionamiento de camiones.",
+          "correct": false
+        },
+        {
+          "text": "Una zona reservada para frenado de emergencia, donde no se puede parar ni estacionar.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "¿Es recomendable tener especial cuidado al adelantar a un grupo de ciclistas en los ascensos prolongados?",
+      "image": "image-5.jpg",
+      "image_alt": "Ciclistas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P05.jpg",
+      "answers": [
+        {
+          "text": "No; los adelantamientos a ciclistas no implican riesgo alguno.",
+          "correct": false
+        },
+        {
+          "text": "Solo si algún ciclista va bebiendo algún líquido o tomando alimentos sólidos.",
+          "correct": false
+        },
+        {
+          "text": "Sí, porque debido al esfuerzo y pedaleo pueden realizar cambios bruscos de trayectoria.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Un agente circula en una moto portando una bandera verde; ¿qué indica?",
+      "image": "image-6.jpg",
+      "image_alt": "Agente moto",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P06.jpg",
+      "answers": [
+        {
+          "text": "La calzada está abierta, pero hay que extremar la atención.",
+          "correct": false
+        },
+        {
+          "text": "La calzada queda de nuevo abierta al tráfico a partir de su paso.",
+          "correct": true
+        },
+        {
+          "text": "Se está desarrollando en la calzada una actividad deportiva.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "En general, bajo los efectos de la cocaína...",
+      "image": "image-7.jpg",
+      "image_alt": "Cocaína",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P07.jpg",
+      "answers": [
+        {
+          "text": "aumenta la capacidad de concentración del conductor.",
+          "correct": false
+        },
+        {
+          "text": "disminuye la capacidad de concentración del conductor.",
+          "correct": true
+        },
+        {
+          "text": "se percibe mejor el entorno y se toman decisiones más seguras.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Cuando la carga sobresale de un vehículo, ¿es obligatorio señalizarla con el panel de la imagen?",
+      "image": "image-8.jpg",
+      "image_alt": "Carga",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P08.jpg",
+      "answers": [
+        {
+          "text": "No, excepto para los vehículos destinados al transporte de mercancías.",
+          "correct": false
+        },
+        {
+          "text": "Solo es obligatorio si la carga sobresale por la parte trasera.",
+          "correct": true
+        },
+        {
+          "text": "Sí, para todo tipo de vehículos, pero solo cuando la carga sea indivisible.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Buscar una emisora de radio o manipular el reproductor de música, ¿pueden distraer al conductor?",
+      "image": "image-9.jpg",
+      "image_alt": "Radio",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P09.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Solo si las emisoras de radio no están guardadas en memoria.",
+          "correct": false
+        },
+        {
+          "text": "Sí, aumentando el riesgo de accidente.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "En una vía urbana con un carril en cada sentido, deberá circular...",
+      "image": "image-10.jpg",
+      "image_alt": "Carriles",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P10.jpg",
+      "answers": [
+        {
+          "text": "lo más cerca posible del borde derecho de la calzada.",
+          "correct": true
+        },
+        {
+          "text": "por la zona que mejor convenga.",
+          "correct": false
+        },
+        {
+          "text": "por el centro de la calzada, en tramos rectos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Un conductor circula por una calzada muy mojada; si para frenar necesita pisar a fondo el pedal de freno, ¿a qué puede ser debido, principalmente?",
+      "image": "image-11.jpg",
+      "image_alt": "Calzada mojada",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P11ESP.jpg",
+      "answers": [
+        {
+          "text": "A un fallo del sistema de frenos.",
+          "correct": true
+        },
+        {
+          "text": "A que el sistema ABS necesita una revisión.",
+          "correct": false
+        },
+        {
+          "text": "Al enfriamiento excesivo de los discos de freno.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Esta marca transversal continua, ¿está permitido franquearla sin detenerse antes?",
+      "image": "image-12.jpg",
+      "image_alt": "Marca transversal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P12.jpg",
+      "answers": [
+        {
+          "text": "No, nunca.",
+          "correct": false
+        },
+        {
+          "text": "Sí, cuando haya peatones.",
+          "correct": false
+        },
+        {
+          "text": "Sí, cuando no sea obligatoria la detención.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Normalmente, ¿qué ocurre cuando un conductor sufre una distracción al volante?",
+      "image": "image-13.jpg",
+      "image_alt": "Distracción",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P13.jpg",
+      "answers": [
+        {
+          "text": "Enciende las luces de emergencia o pisa el pedal de freno reiteradamente.",
+          "correct": false
+        },
+        {
+          "text": "Pisa el pedal de freno en lugar del acelerador.",
+          "correct": false
+        },
+        {
+          "text": "Tarda más tiempo en reaccionar ante una situación de riesgo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "En una vía con un carril para cada sentido de la marcha, ¿está permitido que un conductor adelante a varios vehículos a la vez?",
+      "image": "image-14.jpg",
+      "image_alt": "Adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P14.jpg",
+      "answers": [
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        },
+        {
+          "text": "Solo si puede volver a la derecha sin causar peligro en caso de encontrar vehículos de frente.",
+          "correct": true
+        },
+        {
+          "text": "Sí, siempre que adelante a vehículos de grandes dimensiones.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Un peatón, ¿puede estar obligado a realizar una prueba de alcoholemia?",
+      "image": "image-15.jpg",
+      "image_alt": "Prueba alcoholemia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-264/Test-264-P15.jpg",
+      "answers": [
+        {
+          "text": "Sí, cuando esté implicado directamente como posible responsable de un accidente.",
+          "correct": true
+        },
+        {
+          "text": "Sí, en un control preventivo de alcoholemia.",
+          "correct": false
+        },
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

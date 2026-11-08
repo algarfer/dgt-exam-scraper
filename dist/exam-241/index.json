@@ -1,0 +1,260 @@
+{
+  "number": 241,
+  "title": "Julio 2017",
+  "url": "https://revista.dgt.es/es/test/Test-num-241.shtml",
+  "scraped_at": "2026-11-08T17:17:48Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Al rebasar al autobús, ¿qué peligro debe preverse?",
+      "image": "image-1.jpg",
+      "image_alt": "Rebasar un autobús",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/Test241-P1.jpg",
+      "answers": [
+        {
+          "text": "Que puedan cruzar peatones ocultos por el propio autobús.",
+          "correct": true
+        },
+        {
+          "text": "Que los viajeros bajen por la parte izquierda.",
+          "correct": false
+        },
+        {
+          "text": "Ninguno, no es una situación de riesgo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "La marca amarilla en zig-zag indica el lugar de la calzada...",
+      "image": "image-2.jpg",
+      "image_alt": "Marca vial",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/Test241-P2.jpg",
+      "answers": [
+        {
+          "text": "donde no se puede estacionar, pero sí se puede parar.",
+          "correct": true
+        },
+        {
+          "text": "reservado para el estacionamiento de autobuses.",
+          "correct": false
+        },
+        {
+          "text": "reservado para parada de autobús, no pudiendo parar otros vehículos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Las señales de obras...",
+      "image": "image-3.jpg",
+      "image_alt": "Señalización de obras",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/Test241-P3.jpg",
+      "answers": [
+        {
+          "text": "establecen para los tramos de obras una reducción de la velocidad máxima en 10 km/h.",
+          "correct": false
+        },
+        {
+          "text": "tienen distinto símbolo y tamaño que las usadas en tramos sin obras.",
+          "correct": false
+        },
+        {
+          "text": "tienen el mismo significado que las usadas en tramos sin obras.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "El tiempo de reacción puede aumentar...",
+      "image": "image-4.jpg",
+      "image_alt": "Tiempo de reacción y discusión",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/Test241-P5.jpg",
+      "answers": [
+        {
+          "text": "después de una comida ligera.",
+          "correct": false
+        },
+        {
+          "text": "si usamos gafas graduadas.",
+          "correct": false
+        },
+        {
+          "text": "después de una fuerte discusión.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Fumar mientras se conduce...",
+      "image": "image-5.jpg",
+      "image_alt": "Fumar mientras se conduce",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/Test241-P6.jpg",
+      "answers": [
+        {
+          "text": "está prohibido.",
+          "correct": false
+        },
+        {
+          "text": "es recomendable, porque ayuda a mantener la atención.",
+          "correct": false
+        },
+        {
+          "text": "no es recomendable, porque puede afectar a la atención en la conducción.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Conducir durante mucho tiempo sin descansar...",
+      "image": "image-6.jpg",
+      "image_alt": "Cansancio",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/Test241-P7.jpg",
+      "answers": [
+        {
+          "text": "mantiene al conductor más atento ante cualquier peligro.",
+          "correct": false
+        },
+        {
+          "text": "disminuye el riesgo de accidente.",
+          "correct": false
+        },
+        {
+          "text": "propicia la aparición de la fatiga.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "El reposacabezas, ¿cómo debe colocarse?",
+      "image": "image-7.jpg",
+      "image_alt": "Reposacabezas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/Test241-P8.jpg",
+      "answers": [
+        {
+          "text": "A la altura de cuello.",
+          "correct": false
+        },
+        {
+          "text": "Lo más alto posible para que no moleste.",
+          "correct": false
+        },
+        {
+          "text": "A la altura de la cabeza.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Hay hielo en la vía. ¿Qué debe hacer?",
+      "image": "image-8.jpg",
+      "image_alt": "Circulando con hielo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/test241-P9.jpg",
+      "answers": [
+        {
+          "text": "Circular con el pie en el embrague.",
+          "correct": false
+        },
+        {
+          "text": "Circular a poca velocidad para no tener que frenar.",
+          "correct": true
+        },
+        {
+          "text": "Circular pisando el freno intermitentemente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "La varilla del aceite del motor, ¿para qué sirve?",
+      "image": "image-9.jpg",
+      "image_alt": "Varilla del aceite",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/Test241-P10.jpg",
+      "answers": [
+        {
+          "text": "Para comprobar la temperatura del aceite.",
+          "correct": false
+        },
+        {
+          "text": "Para comprobar el nivel del aceite.",
+          "correct": true
+        },
+        {
+          "text": "Para comprobar la presión del aceite.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Debido a un pinchazo sustituye una de las ruedas de su vehículo por la de uso temporal. ¿Cuántos kilómetros podrá circular en esas condiciones?",
+      "image": "image-10.jpg",
+      "image_alt": "Cambiar una rueda",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/Test241-P11.jpg",
+      "answers": [
+        {
+          "text": "Tantos como sean necesarios siempre que dicha rueda no haya sido utilizada anteriormente.",
+          "correct": false
+        },
+        {
+          "text": "Los que recomiende, como máximo, cada fabricante, y circulando a la velocidad que se indica en dicha rueda.",
+          "correct": true
+        },
+        {
+          "text": "No hay limitación de kilómetros porque se trata de una situación excepcional.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Para circular de noche por una travesía. ¿Qué luces son obligatorias?",
+      "image": "image-11.jpg",
+      "image_alt": "Luces de noche",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/Test241-P12.jpg",
+      "answers": [
+        {
+          "text": "Las de posición y las cortas.",
+          "correct": true
+        },
+        {
+          "text": "Las de posición y las largas.",
+          "correct": false
+        },
+        {
+          "text": "Las de posición solamente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "¿A qué vehículos prohíbe pasar esta señal?",
+      "image": "image-12.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-241/Test241-P13.jpg",
+      "answers": [
+        {
+          "text": "A los vehículos que tienen más de 3,5 metros de anchura.",
+          "correct": false
+        },
+        {
+          "text": "A los vehículos que tienen más de 3.500 kilogramos de peso.",
+          "correct": false
+        },
+        {
+          "text": "A los vehículos que tienen más de 3,5 metros de altura.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

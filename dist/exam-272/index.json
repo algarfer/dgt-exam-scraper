@@ -1,0 +1,323 @@
+{
+  "number": 272,
+  "title": "Diciembre 2024",
+  "url": "https://revista.dgt.es/es/test/Test-num-272.shtml",
+  "scraped_at": "2026-11-08T17:18:27Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "En una calzada de un solo sentido de circulación, ¿dónde debe situarse para cambiar de dirección a la izquierda?",
+      "image": "image-1.jpg",
+      "image_alt": "Girar sentido único",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P01-250x226.jpg",
+      "answers": [
+        {
+          "text": "Junto al borde izquierdo de la calzada.",
+          "correct": true
+        },
+        {
+          "text": "Junto al borde derecho de la calzada.",
+          "correct": false
+        },
+        {
+          "text": "En una calzada de un solo sentido no se puede cambiar de dirección.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Está permitido realizar una parada en una autovía o autopista?",
+      "image": "image-2.jpg",
+      "image_alt": "Parar en autovvía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P02-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, en la mediana o en el arcén, indistintamente.",
+          "correct": false
+        },
+        {
+          "text": "Sólo si el arcén es transitable y su anchura es superior a 1,5 metros.",
+          "correct": false
+        },
+        {
+          "text": "No, excepto en las zonas habilitadas.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "¿Debe entrar en una intersección en una situación en la que el tráfico esté tan saturado que, al detenerse, posiblemente obstaculice la circulación transversal?",
+      "image": "image-3.jpg",
+      "image_alt": "Entrar en una intersección",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P03-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sólo si conduce un vehículo de servicio público, como un taxi.",
+          "correct": false
+        },
+        {
+          "text": "Sí, siempre que tenga prioridad de paso.",
+          "correct": false
+        },
+        {
+          "text": "No, aunque tenga prioridad de paso.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Cuando un conductor no supere la tasa máxima de alcohol permitida, el agente de tráfico, ¿puede realizarle una segunda prueba?",
+      "image": "image-4.jpg",
+      "image_alt": "Doble prueba de alcoholemia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P04-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        },
+        {
+          "text": "Sí, si muestra signos evidentes de encontrarse bajo los efectos del alcohol.",
+          "correct": true
+        },
+        {
+          "text": "Sólo si está implicado en un accidente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "¿Qué debe hacer si empieza a llover con intensidad mientras conduce una motocicleta?",
+      "image": "image-5.jpg",
+      "image_alt": "Lluvia en motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P05-250x226.jpg",
+      "answers": [
+        {
+          "text": "Moderar la velocidad, e incluso detenerse si fuera necesario.",
+          "correct": true
+        },
+        {
+          "text": "Circular pegado a los vehículos pesados para protegerse de la lluvia.",
+          "correct": false
+        },
+        {
+          "text": "Aumentar la velocidad para llegar antes al destino.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "¿Qué indica esta señal?",
+      "image": "image-6.jpg",
+      "image_alt": "Señal visibiliad reducida",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P06-250x226.jpg",
+      "answers": [
+        {
+          "text": "Obstrucción en la calzada.",
+          "correct": false
+        },
+        {
+          "text": "Proyección de gravilla.",
+          "correct": false
+        },
+        {
+          "text": "Visibilidad reducida.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Entre los efectos negativos de la velocidad se encuentra el efecto túnel, en el que el conductor...",
+      "image": "image-7.jpg",
+      "image_alt": "Visibilidad con alcohol",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P07-250x226.jpg",
+      "answers": [
+        {
+          "text": "sólo percibe el centro de la calzada y deja de ver los laterales.",
+          "correct": true
+        },
+        {
+          "text": "tiene la falsa sensación de que circula a velocidad reducida.",
+          "correct": false
+        },
+        {
+          "text": "percibe mejor los laterales de la vía que el centro de la calzada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "¿Cómo debe colocar el navegador GPS portátil en el vehículo?",
+      "image": "image-8.jpg",
+      "image_alt": "Colocación GPS",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P08-250x226.jpg",
+      "answers": [
+        {
+          "text": "Debajo del volante, tan cerca del suelo como sea posible.",
+          "correct": false
+        },
+        {
+          "text": "Justo detrás del volante, a la altura de los ojos del conductor.",
+          "correct": false
+        },
+        {
+          "text": "Donde no entorpezca ni la visión ni el despliegue del airbag",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Cuál es una de las principales causas de los accidentes de las personas mayores?",
+      "image": "image-9.jpg",
+      "image_alt": "Conductor mayor",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P09-250x226.jpg",
+      "answers": [
+        {
+          "text": "El deterioro de las capacidades psicomotoras.",
+          "correct": true
+        },
+        {
+          "text": "El aumento de la visión periférica.",
+          "correct": false
+        },
+        {
+          "text": "Una mejor percepción y análisis de los riesgos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Todo conductor implicado en un accidente de tráfico, ¿está obligado a detenerse para esclarecer los hechos?",
+      "image": "image-10.jpg",
+      "image_alt": "Implicado accidente",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sólo si es culpable del accidente.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero de forma que no cree un nuevo peligro para la circulación.",
+          "correct": true
+        },
+        {
+          "text": "No.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Si circula con la presión de inflado de los neumáticos descompensada, ¿aumenta el riesgo de perder el control del vehículo?",
+      "image": "image-11.jpg",
+      "image_alt": "Neumático sin presión",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P11-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, ya que la frenada es irregular y se reduce la estabilidad del vehículo.",
+          "correct": true
+        },
+        {
+          "text": "No, sobre todo si está descompensada por eje mejora la adherencia, incluso, cuando la calzada está resbaladiza.",
+          "correct": false
+        },
+        {
+          "text": "No, porque aumenta el área de contacto del neumático con la calzada y facilita el rodaje.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Si lleva a un pasajero en una motocicleta, al frenar...",
+      "image": "image-12.jpg",
+      "image_alt": "Moto con pasajero",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P12-250x226.jpg",
+      "answers": [
+        {
+          "text": "es más difícil que se bloquee la rueda trasera.",
+          "correct": true
+        },
+        {
+          "text": "el peso se desplaza hacia la parte trasera de la motocicleta.",
+          "correct": false
+        },
+        {
+          "text": "es conveniente no soltar el acelerador y accionar sólo el freno trasero.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Qué indica esta señal?",
+      "image": "image-13.jpg",
+      "image_alt": "Señal vía motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "Vía reservada a ciclomotores.",
+          "correct": true
+        },
+        {
+          "text": "Vía reservada a ciclos.",
+          "correct": false
+        },
+        {
+          "text": "Prohibición de entrada a ciclomotores.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Si, debido a la lluvia, el pavimento está deslizante, ¿qué precauciones se deben tomar?",
+      "image": "image-14.jpg",
+      "image_alt": "Conducir con lluvia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P14-250x226.jpg",
+      "answers": [
+        {
+          "text": "Moderar la velocidad y, si fuera preciso, detener el vehículo.",
+          "correct": true
+        },
+        {
+          "text": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical.",
+          "correct": false
+        },
+        {
+          "text": "Ninguna, ya que las circunstancias de la vía son idénticas para todos los usuarios.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "¿Cuál de los tres factores de riesgo es el que está menos implicado entre las causas de los accidentes de tráfico?",
+      "image": "image-15.jpg",
+      "image_alt": "Factores en accidente",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-272/Test-272-P15-250x226.jpg",
+      "answers": [
+        {
+          "text": "El factor vía y su entorno.",
+          "correct": false
+        },
+        {
+          "text": "El factor humano.",
+          "correct": false
+        },
+        {
+          "text": "El factor vehículo.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

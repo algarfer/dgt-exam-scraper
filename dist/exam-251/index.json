@@ -1,0 +1,323 @@
+{
+  "number": 251,
+  "title": "Octubre 2019",
+  "url": "https://revista.dgt.es/es/test/Test-num-251.shtml",
+  "scraped_at": "2026-11-08T17:18:25Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "En caso de sufrir un reventón circulando por una vía a velocidad elevada, ¿es aconsejable pisar el pedal de freno con brusquedad?",
+      "image": "image-1.jpg",
+      "image_alt": "Pinchazo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-P01-Pichazo.jpg",
+      "answers": [
+        {
+          "text": "Sí, para mantener con mayor facilidad la trayectoria recta del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "No; el frenado debe ser suave y progresivo.",
+          "correct": true
+        },
+        {
+          "text": "Solo si el reventón se produce en una de las ruedas delanteras.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Esta señal prohíbe...",
+      "image": "image-2.jpg",
+      "image_alt": "Señal de tráfico",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-p02-aparcar.jpg",
+      "answers": [
+        {
+          "text": "la parada y el estacionamiento.",
+          "correct": false
+        },
+        {
+          "text": "la parada los días impares en el lado de la calzada en que esté situada la señal.",
+          "correct": false
+        },
+        {
+          "text": "el estacionamiento los días pares en el lado de la calzada en que esté situada la señal.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "La lluvia, ¿exige al conductor tomar más precauciones de las habituales?",
+      "image": "image-3.jpg",
+      "image_alt": "Lluvia sobre la carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-p03.jpg",
+      "answers": [
+        {
+          "text": "Sí, ya que los neumáticos pueden perder su adherencia.",
+          "correct": true
+        },
+        {
+          "text": "No, porque mejora la visibilidad al limpiar el parabrisas.",
+          "correct": false
+        },
+        {
+          "text": "Solo mientras caen las primeras gotas, luego no es necesario tomar precauciones.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "¿Qué le indica esta señal?",
+      "image": "image-4.jpg",
+      "image_alt": "Señal cadenas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-p04.jpg",
+      "answers": [
+        {
+          "text": "Recomienda llevar cadenas desde el punto en que se encuentra la señal.",
+          "correct": false
+        },
+        {
+          "text": "Obliga a llevar cadenas desde el punto en que se encuentra la señal.",
+          "correct": true
+        },
+        {
+          "text": "Señala que la vía se encuentra cortada por fuerte nevada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "¿Podrá utilizar el carril VAO un turismo ocupado por cuatro personas si lleva enganchado un remolque ligero?",
+      "image": "image-5.jpg",
+      "image_alt": "Carril VAO",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-p05-BusVao.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Solo si el carril no está ocupado.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Si se encuentra detenido ante una señal de stop, ¿puede utilizar su teléfono móvil?",
+      "image": "image-6.jpg",
+      "image_alt": "Ante una señal de Stop",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-p06.jpg",
+      "answers": [
+        {
+          "text": "No, de ninguna manera.",
+          "correct": false
+        },
+        {
+          "text": "Solo con un dispositivo de manos libres y sin utilizar cascos o auriculares.",
+          "correct": true
+        },
+        {
+          "text": "Sí, ya que el vehículo está detenido.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "En un vehículo de menos de 5 metros de longitud destinado al transporte de mercancías, ¿cuánto podrá sobresalir una carga de longitud indivisible por su parte delantera?",
+      "image": "image-7.jpg",
+      "image_alt": "Vehículo con carga",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-p07-Carga.jpg",
+      "answers": [
+        {
+          "text": "Un tercio de la longitud del vehículo.",
+          "correct": true
+        },
+        {
+          "text": "Un 15% de la longitud del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Nada; solo podrá sobresalir por su parte trasera.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Circulando por un paso inferior, su vehículo sufre una avería que no le impide continuar la marcha; ¿qué debe hacer?",
+      "image": "image-8.jpg",
+      "image_alt": "Paso inferior",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test251-p08.jpg",
+      "answers": [
+        {
+          "text": "Apagar el motor y conectar las luces de emergencia.",
+          "correct": false
+        },
+        {
+          "text": "Detener el vehículo, salir de él y dirigirse a la salida del paso inferior.",
+          "correct": false
+        },
+        {
+          "text": "Continuar circulando hasta salir del paso inferior, siempre que sea posible.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Circula por el carril izquierdo; ¿qué le indica la flecha?",
+      "image": "image-9.jpg",
+      "image_alt": "Marcas horizontales en la vía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-p09-flechas.jpg",
+      "answers": [
+        {
+          "text": "Que está cerca la próxima salida.",
+          "correct": false
+        },
+        {
+          "text": "Que se permite la circulación en paralelo.",
+          "correct": false
+        },
+        {
+          "text": "Que debe incorporarse cuanto antes al carril derecho.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "El conductor de un turismo debe circular con el alumbrado de su vehículo encendido...",
+      "image": "image-10.jpg",
+      "image_alt": "Vehículo con luces encendidas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-p10.jpg",
+      "answers": [
+        {
+          "text": "entre la puesta y la salida del sol.",
+          "correct": true
+        },
+        {
+          "text": "en los puentes y pasos a nivel.",
+          "correct": false
+        },
+        {
+          "text": "cuando circule por un carril para vehículos de alta ocupación (VAO).",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Si la presión de inflado en los neumáticos es inferior a la recomendada, ¿aumenta el consumo de combustible?",
+      "image": "image-11.jpg",
+      "image_alt": "Manómetro para medir presión de neumáticos",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-P11-Especial.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque existe mayor rozamiento con el pavimento.",
+          "correct": true
+        },
+        {
+          "text": "Sí, y además el desgaste es mayor en el centro de la banda de rodamiento.",
+          "correct": false
+        },
+        {
+          "text": "No, siempre que estén compensadas las presiones entre todos los neumáticos del vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "En la intersección de una vía pavimentada con otra sin pavimentar, ¿qué vehículos tienen preferencia de paso?",
+      "image": "image-12.jpg",
+      "image_alt": "Intersección",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-P12.jpg",
+      "answers": [
+        {
+          "text": "Los que circulen por la vía más ancha.",
+          "correct": false
+        },
+        {
+          "text": "Los que se aproximen por la derecha.",
+          "correct": false
+        },
+        {
+          "text": "Los que circulen por la vía pavimentada.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿En qué caso no le está permitido adelantar detrás de otro vehículo que ya está adelantando?",
+      "image": "image-13.jpg",
+      "image_alt": "Adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-P13.jpg",
+      "answers": [
+        {
+          "text": "Nunca está permitido adelantar cuando otro vehículo ya esté adelantando.",
+          "correct": false
+        },
+        {
+          "text": "Cuando circule por una glorieta",
+          "correct": false
+        },
+        {
+          "text": "Cuando no tenga visibilidad suficiente de la parte delantera de la vía.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "La señal triangular indica...",
+      "image": "image-14.jpg",
+      "image_alt": "Señal vertical",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-P14.jpg",
+      "answers": [
+        {
+          "text": "que hay un escalón lateral en la calzada.",
+          "correct": false
+        },
+        {
+          "text": "que el pavimento de la calzada puede estar muy deslizante.",
+          "correct": true
+        },
+        {
+          "text": "que hay un tramo de curvas peligrosas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "¿Qué debe hacer siempre que se acerque a un autobús del que bajan niños?",
+      "image": "image-15.jpg",
+      "image_alt": "Niños bajando de un autobús escolar",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-251/Test-251-P15-Transporte-escolar.jpg",
+      "answers": [
+        {
+          "text": "Detenerse hasta que el autobús reanude su marcha.",
+          "correct": false
+        },
+        {
+          "text": "Tocar el claxon repetidamente para advertir de su presencia.",
+          "correct": false
+        },
+        {
+          "text": "Moderar la velocidad, e incluso detenerse si fuera necesario.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

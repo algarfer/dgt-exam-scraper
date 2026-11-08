@@ -1,0 +1,323 @@
+{
+  "number": 257,
+  "title": "Marzo 2021",
+  "url": "https://revista.dgt.es/es/test/Test-num-257.shtml",
+  "scraped_at": "2026-11-08T17:18:26Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "¿Qué es un catadióptrico?",
+      "image": "image-1.jpg",
+      "image_alt": "Catadióptrico",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test-257-P01.jpg",
+      "answers": [
+        {
+          "text": "Un dispositivo que refleja la luz procedente de una fuente luminosa.",
+          "correct": true
+        },
+        {
+          "text": "Una placa de matrícula reflectante.",
+          "correct": false
+        },
+        {
+          "text": "Un dispositivo de alumbrado del vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Está permitida la circulación de vehículos cuyo nivel de emisión de ruidos supere los límites establecidos?",
+      "image": "image-2.jpg",
+      "image_alt": "Velocidad",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-p02.jpg",
+      "answers": [
+        {
+          "text": "Sí.",
+          "correct": false
+        },
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Solo está permitida su circulación por vías urbanas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "En esta carretera, ¿dónde se puede estacionar?",
+      "image": "image-3.jpg",
+      "image_alt": "Carretera y aparcamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-p03.jpg",
+      "answers": [
+        {
+          "text": "Dentro de la vía, en el lado derecho.",
+          "correct": false
+        },
+        {
+          "text": "En ninguna parte; está prohibido estacionar dentro y fuera de la vía.",
+          "correct": false
+        },
+        {
+          "text": "Fuera de la vía, en el lado derecho.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Los conductores jóvenes, en general, ¿evalúan peor los 4 riesgos de la circulación?",
+      "image": "image-4.jpg",
+      "image_alt": "Conductor",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-p04.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Sí, lo que reduce la posibilidad de sufrir un accidente de tráfico.",
+          "correct": false
+        },
+        {
+          "text": "Sí, lo que aumenta la posibilidad de sufrir un accidente de tráfico.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Respecto a los efectos secundarios de los medicamentos y su influencia en la conducción, tras ingerir fármacos somníferos o hipnóticos normalmente...",
+      "image": "image-5.jpg",
+      "image_alt": "Medicamentos",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-p05.jpg",
+      "answers": [
+        {
+          "text": "disminuye el tiempo de reacción.",
+          "correct": false
+        },
+        {
+          "text": "aumenta el tiempo de reacción.",
+          "correct": true
+        },
+        {
+          "text": "aumenta el campo visual.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Durante el día, las motocicletas están obligadas a llevar encendida la luz de cruce...",
+      "image": "image-6.jpg",
+      "image_alt": "Motocicleta en carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-p06.jpg",
+      "answers": [
+        {
+          "text": "cuando circulen por cualquier tipo de vía.",
+          "correct": true
+        },
+        {
+          "text": "cuando circulen por vías interurbanas, solamente.",
+          "correct": false
+        },
+        {
+          "text": "cuando las condiciones climatológicas sean adversas, solamente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Un conductor que, pese a poder hacerlo sin riesgo, no se detiene a ayudar a una víctima grave de accidente que se encuentra desamparada, ¿podría estar cometiendo un delito?",
+      "image": "image-7.jpg",
+      "image_alt": "Juicio por delito de tráfico",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-p07.jpg",
+      "answers": [
+        {
+          "text": "Sí, aunque el conductor no esté implicado en el accidente.",
+          "correct": true
+        },
+        {
+          "text": "No; ayudar a las víctimas es un gesto de solidaridad, pero no es un deber.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero solo si el conductor está implicado en el accidente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "En una motocicleta con mandos independientes para cada uno de los frenos, ¿dónde se acciona generalmente el freno delantero?",
+      "image": "image-8.jpg",
+      "image_alt": "Motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-p08.jpg",
+      "answers": [
+        {
+          "text": "En el manillar, con la mano derecha.",
+          "correct": true
+        },
+        {
+          "text": "En el manillar, con la mano izquierda.",
+          "correct": false
+        },
+        {
+          "text": "En un pedal, con el pie izquierdo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "¿Puede perder puntos de su saldo si pone en peligro a un grupo de ciclistas durante un adelantamiento?",
+      "image": "image-9.jpg",
+      "image_alt": "Circulación de ciclistas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-p09.jpg",
+      "answers": [
+        {
+          "text": "Sí, es una infracción que supone la pérdida de 4 puntos.",
+          "correct": true
+        },
+        {
+          "text": "No; es una infracción que no supone la pérdida de puntos.",
+          "correct": false
+        },
+        {
+          "text": "No, porque es un delito contra la seguridad vial no una infracción administrativa.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "En esta vía se ha habilitado un carril adicional circunstancial, ¿a qué velocidad, como mínimo, deberán circular por dicho carril?",
+      "image": "image-10.jpg",
+      "image_alt": "Carril adicional circunstancial",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-p10.jpg",
+      "answers": [
+        {
+          "text": "60 km/h o inferior si así estuviese señalizado.",
+          "correct": true
+        },
+        {
+          "text": "80 km/h.",
+          "correct": false
+        },
+        {
+          "text": "A la mitad de la genérica señalada para cada categoría de vehículos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Cuando se circula con lluvia disminuye la visibilidad, sobre todo si la lluvia es fuerte. ¿Qué precauciones debe tomar?",
+      "image": "image-11.jpg",
+      "image_alt": "Conducir con lluvia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-P11.jpg",
+      "answers": [
+        {
+          "text": "Debe aumentar la distancia de seguridad y reducir la velocidad.",
+          "correct": true
+        },
+        {
+          "text": "No debe abrir las ventanillas para evitar que se empañen los cristales.",
+          "correct": false
+        },
+        {
+          "text": "Debe circular sobre las líneas o marcas blancas longitudinales de la carretera para mantener la trayectoria adecuada.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Cuando viaje con su mascota, ¿en qué lugar del vehículo podrá situarse para evitar que interfiera en la conducción?",
+      "image": "image-12.jpg",
+      "image_alt": "Mascotas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-P12.jpg",
+      "answers": [
+        {
+          "text": "En el asiento delantero ya que si dispone de airbag frontal estará doblemente protegida.",
+          "correct": false
+        },
+        {
+          "text": "Donde no comprometa su seguridad ni la del resto de pasajeros, además de ir sujeta con el dispositivo adecuado.",
+          "correct": true
+        },
+        {
+          "text": "En los asientos traseros sujeta con el cinturón de seguridad como un pasajero más.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Qué indica la señal colocada en la parte trasera del vehículo compuesta por una lámina reflectante de color amarillo rodeada de una lámina fluorescente de color rojo?",
+      "image": "image-13.jpg",
+      "image_alt": "Vehículo pesado",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-P13.jpg",
+      "answers": [
+        {
+          "text": "Que el vehículo o el conjunto de vehículos tiene una longitud superior a 12 metros.",
+          "correct": true
+        },
+        {
+          "text": "Que el vehículo transporta mercancías peligrosas.",
+          "correct": false
+        },
+        {
+          "text": "Qué el vehículo no podrá circular a una velocidad superior a 90 km/h.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Esta señal indica peligro por la proximidad de...",
+      "image": "image-14.jpg",
+      "image_alt": "Señal",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-P14.jpg",
+      "answers": [
+        {
+          "text": "un tramo de vía con posible obstrucción en la calzada.",
+          "correct": false
+        },
+        {
+          "text": "un resalto o badén en la vía o pavimento en mal estado.",
+          "correct": true
+        },
+        {
+          "text": "un tramo de vía con pendientes ascendentes y descendentes.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Esta señal indica que...",
+      "image": "image-15.jpg",
+      "image_alt": "Señalización vertical",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-257/Test257-P15.jpg",
+      "answers": [
+        {
+          "text": "a su altura puede realizar un cambio de sentido de la marcha a la derecha.",
+          "correct": false
+        },
+        {
+          "text": "las únicas direcciones aconsejadas son seguir de frente o girar a la derecha.",
+          "correct": false
+        },
+        {
+          "text": "debe seguir una de las direcciones y sentidos que señalan las flechas.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

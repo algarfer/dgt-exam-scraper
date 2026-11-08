@@ -1,0 +1,323 @@
+{
+  "number": 260,
+  "title": "Diciembre 2021",
+  "url": "https://revista.dgt.es/es/test/Test-num-260.shtml",
+  "scraped_at": "2026-11-08T17:18:26Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "¿Qué debe hacer si se ve obligado a detener su vehículo en el interior de un túnel por motivos de circulación?",
+      "image": "image-1.jpg",
+      "image_alt": "Entrada túnel de carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P01.jpg",
+      "answers": [
+        {
+          "text": "Encender la señal de emergencia y las luces de carretera.",
+          "correct": false
+        },
+        {
+          "text": "Detenerse lo más lejos posible del vehículo de delante.",
+          "correct": true
+        },
+        {
+          "text": "Detenerse lo más cerca posible del vehículo de delante.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Cómo hay que colocarse el cinturón de seguridad?",
+      "image": "image-2.jpg",
+      "image_alt": "Hebilla del cinturón de seguridad de un vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P02.jpg",
+      "answers": [
+        {
+          "text": "Muy ajustado, aunque apriete un poco, para que sujete mejor.",
+          "correct": false
+        },
+        {
+          "text": "Flojo y con holgura, para poder llegar a todo el habitáculo del vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Ajustado al cuerpo, ni muy apretado ni flojo, y sin que esté retorcido.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "¿Con qué objetivo se establecen los límites de velocidad?",
+      "image": "image-3.jpg",
+      "image_alt": "Señal vertical de limitación de velocidad",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P03.jpg",
+      "answers": [
+        {
+          "text": "Para garantizar la máxima seguridad y fluidez.",
+          "correct": true
+        },
+        {
+          "text": "Para garantizar la máxima fluidez, aunque disminuya la seguridad.",
+          "correct": false
+        },
+        {
+          "text": "Para garantizar la máxima seguridad, aunque disminuya la fluidez",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "El consumo de drogas de abuso o ilegales, ¿puede alterar la percepción del riesgo?",
+      "image": "image-4.jpg",
+      "image_alt": "Un vaso de alcohol en una carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P04.jpg",
+      "answers": [
+        {
+          "text": "Sí, aumenta y el conductor percibe mejor las situaciones de riesgo.",
+          "correct": false
+        },
+        {
+          "text": "Sí, disminuye y el conductor percibe peor las situaciones de riesgo.",
+          "correct": true
+        },
+        {
+          "text": "No; el consumo de drogas no altera la percepción del riesgo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Para incorporarse a la circulación, ¿se puede dar marcha atrás?",
+      "image": "image-5.jpg",
+      "image_alt": "Conductor realizando la maniobra de marcha atrás",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P05.jpg",
+      "answers": [
+        {
+          "text": "Sí, es una de las maniobras en las que está permitido.",
+          "correct": true
+        },
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        },
+        {
+          "text": "Sí, pero solo en vías urbanas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Una vez iniciado el adelantamiento, se producen circunstancias que hacen difícil su finalización sin provocar riesgos; ¿qué está obligado a hacer el conductor?",
+      "image": "image-6.jpg",
+      "image_alt": "Maniobra de adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P06.jpg",
+      "answers": [
+        {
+          "text": "Aumentar la velocidad para finalizar el adelantamiento.",
+          "correct": false
+        },
+        {
+          "text": "Advertir del riesgo al vehículo al que pretende adelantar para que detenga su marcha.",
+          "correct": false
+        },
+        {
+          "text": "Reducir la velocidad y regresar a su carril sin obstaculizar.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "En los lugares donde se impida la visibilidad de la señalización a los usuarios a quienes les afecta está prohibido...",
+      "image": "image-7.jpg",
+      "image_alt": "Señalización con visibilidad reducida",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P07.jpg",
+      "answers": [
+        {
+          "text": "parar, pero está permitido estacionar.",
+          "correct": false
+        },
+        {
+          "text": "estacionar, pero está permitido parar.",
+          "correct": false
+        },
+        {
+          "text": "parar y estacionar.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Un conductor con sueño...",
+      "image": "image-8.jpg",
+      "image_alt": "Conductor somnoliento al volante de un vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P08.jpg",
+      "answers": [
+        {
+          "text": "tarda menos tiempo en reaccionar.",
+          "correct": false
+        },
+        {
+          "text": "analiza situaciones de tráfico complejas en menos tiempo.",
+          "correct": false
+        },
+        {
+          "text": "tarda más tiempo en reaccionar.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Los sistemas de navegación, ¿pueden ayudarnos a controlar la velocidad de circulación?",
+      "image": "image-9.jpg",
+      "image_alt": "Conductor utilizando un sistema de navegación en un vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P09.jpg",
+      "answers": [
+        {
+          "text": "Solo cuando se circula a velocidades superiores a 100 km/h.",
+          "correct": false
+        },
+        {
+          "text": "No, los sistemas de navegación no ayudan a controlar la velocidad.",
+          "correct": false
+        },
+        {
+          "text": "Sí, aunque la principal fuente de información debe de ser siempre el velocímetro.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "En un turismo, ¿cuántos chalecos reflectantes es obligatorio llevar?",
+      "image": "image-10.jpg",
+      "image_alt": "Ocupantes de un vehículo con el chaleco reflectante",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P10.jpg",
+      "answers": [
+        {
+          "text": "Uno.",
+          "correct": true
+        },
+        {
+          "text": "Dos: uno para el conductor y otro para el acompañante.",
+          "correct": false
+        },
+        {
+          "text": "Uno por cada plaza autorizada de que disponga el vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Queda atascado con su turismo en una zona de barro donde patinan las ruedas motrices. ¿Cuál es la forma más adecuada de actuar para seguir circulando?",
+      "image": "image-11.jpg",
+      "image_alt": "Rueda de un turismo atascada en el barro",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P11.jpg",
+      "answers": [
+        {
+          "text": "Pisar a fondo el pedal acelerador para conseguir mayor tracción en las ruedas y así lograr mayor adherencia",
+          "correct": false
+        },
+        {
+          "text": "Preparar un terreno estable colocando el material adecuado cerca de las ruedas motrices para que estas tengan la adherencia suficiente.",
+          "correct": true
+        },
+        {
+          "text": "Empujar el vehículo por uno de los laterales hacia una mejor superficie con adherencia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Si el pasajero de una motocicleta no utiliza el casco de protección, la responsabilidad es del...",
+      "image": "image-12.jpg",
+      "image_alt": "Pasajero en una motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P12.jpg",
+      "answers": [
+        {
+          "text": "conductor.",
+          "correct": true
+        },
+        {
+          "text": "pasajero.",
+          "correct": false
+        },
+        {
+          "text": "titular del vehículo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "¿Qué precaución puede adoptar para evitar el riesgo de atropello a ciclistas?",
+      "image": "image-13.jpg",
+      "image_alt": "Ciclista",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P13.jpg",
+      "answers": [
+        {
+          "text": "Iniciar un adelantamiento cuando se acerque un grupo de ciclistas en sentido contrario.",
+          "correct": false
+        },
+        {
+          "text": "Utilizar señales luminosas para avisar de su propósito de adelantarles.",
+          "correct": false
+        },
+        {
+          "text": "No hacer señales acústicas cerca de ellos.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "El seguro de suscripción obligatoria, ¿cubre los daños causados al conductor no culpable de un accidente?",
+      "image": "image-14.jpg",
+      "image_alt": "Coche accidentado",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P14.jpg",
+      "answers": [
+        {
+          "text": "Sí, los daños personales, pero no los materiales.",
+          "correct": false
+        },
+        {
+          "text": "Sí, tanto los daños personales como los materiales.",
+          "correct": true
+        },
+        {
+          "text": "No, ni los daños personales ni los materiales.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Si su permiso de conducir tiene un año de antigüedad, ¿cuál es tasa máxima permitida de alcohol?",
+      "image": "image-15.jpg",
+      "image_alt": "Joven bebiendo una cerveza",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-260/Test260P15.jpg",
+      "answers": [
+        {
+          "text": "0,25 miligramos por litro de aire espirado.",
+          "correct": false
+        },
+        {
+          "text": "0,30 miligramos por litro de aire espirado.",
+          "correct": false
+        },
+        {
+          "text": "0,15 miligramos por litro de aire espirado.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

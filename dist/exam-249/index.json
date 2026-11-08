@@ -1,0 +1,323 @@
+{
+  "number": 249,
+  "title": "Abril 2019",
+  "url": "https://revista.dgt.es/es/test/Test-num-249.shtml",
+  "scraped_at": "2026-11-08T17:18:23Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "¿Es recomendable regular los reposacabezas del vehículo a la altura de cada ocupante?",
+      "image": "image-1.jpg",
+      "image_alt": "Reposacabezas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P1.jpg",
+      "answers": [
+        {
+          "text": "No es necesario, es solo un elemento de confort.",
+          "correct": false
+        },
+        {
+          "text": "Solo es necesario regular el reposacabezas del conductor.",
+          "correct": false
+        },
+        {
+          "text": "Sí; es un elemento de seguridad que puede evitar lesiones cervicales.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "En un túnel con un solo carril para cada sentido, ¿está permitido el adelantamiento?",
+      "image": "image-2.jpg",
+      "image_alt": "Vehículo circulando por un túnel",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P2.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí.",
+          "correct": false
+        },
+        {
+          "text": "Solo si la calzada dispone de arcén practicable.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Esta señal prohíbe…",
+      "image": "image-3.jpg",
+      "image_alt": "Señal de prohibición de aparcar",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P3.jpg",
+      "answers": [
+        {
+          "text": "El estacionamiento entre la 1 y las 15 horas.",
+          "correct": false
+        },
+        {
+          "text": "El estacionamiento desde las 9 horas del día 1 hasta las 9 horas del día 16.",
+          "correct": true
+        },
+        {
+          "text": "La parada los días indicados en la señal.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Al incorporarse a una autopista, ¿puede pisar la zona de cebreado?",
+      "image": "image-4.jpg",
+      "image_alt": "Incorporación a una autopista",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P4.jpg",
+      "answers": [
+        {
+          "text": "Sí, si ya ha alcanzado en ese punto la velocidad adecuada para incorporarse a la circulación.",
+          "correct": false
+        },
+        {
+          "text": "Sí, para acortar la duración de la maniobra.",
+          "correct": false
+        },
+        {
+          "text": "No, está prohibido.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Los conos de la fotografía indican que se ha habilitado…",
+      "image": "image-5.jpg",
+      "image_alt": "Esquema de una instalación de conos",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P5.jpg",
+      "answers": [
+        {
+          "text": "Un carril reversible.",
+          "correct": false
+        },
+        {
+          "text": "Un carril VAO.",
+          "correct": false
+        },
+        {
+          "text": "Un carril adicional circunstancial.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "La distancia de frenado es el espacio recorrido desde que el conductor…",
+      "image": "image-6.jpg",
+      "image_alt": "Alcance por un frenazo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P6.jpg",
+      "answers": [
+        {
+          "text": "Ve el obstáculo hasta que se detiene el vehículo.",
+          "correct": false
+        },
+        {
+          "text": "Ve el obstáculo hasta que acciona el freno.",
+          "correct": false
+        },
+        {
+          "text": "Acciona el freno hasta que el vehículo se detiene.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "En determinadas circunstancias, un turismo, ¿puede superar para adelantar la velocidad máxima fijada para el tipo de vía por la que circule?",
+      "image": "image-7.jpg",
+      "image_alt": "Velocidad en adelantamiento",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P7.jpg-",
+      "answers": [
+        {
+          "text": "No, en ningún caso.",
+          "correct": false
+        },
+        {
+          "text": "Sí, en carreteras convencionales interurbanas.",
+          "correct": true
+        },
+        {
+          "text": "Sí, en todo tipo de vías interurbanas.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Esta señal le indica peligro por la proximidad de…",
+      "image": "image-8.jpg",
+      "image_alt": "Señal de peligro",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P8.jpg",
+      "answers": [
+        {
+          "text": "Un cruce con doble sentido de la circulación.",
+          "correct": false
+        },
+        {
+          "text": "Un cruce donde la circulación se efectúa de forma giratoria.",
+          "correct": true
+        },
+        {
+          "text": "Un cruce en el que tengo prioridad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Salvo que exista señal que lo prohíba, por los arcenes de las autovías se permite circular…",
+      "image": "image-9.jpg",
+      "image_alt": "Circulación por autovía",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P9.jpg",
+      "answers": [
+        {
+          "text": "A peatones.",
+          "correct": false
+        },
+        {
+          "text": "A vehículos de tracción animal.",
+          "correct": false
+        },
+        {
+          "text": "A conductores de bicicletas mayores de 14 años.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "El sistema de lavaparabrisas del vehículo, ¿necesita mantenimiento?",
+      "image": "image-10.jpg",
+      "image_alt": "Saliendo de un túnel",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P10.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Sí; vigilar el nivel del circuito de refrigeración, de donde toma el agua.",
+          "correct": false
+        },
+        {
+          "text": "Sí; vigilar el nivel de líquido lavaparabrisas.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "¿Es recomendable realizar un mantenimiento frecuente del sistema de alumbrado del vehículo?",
+      "image": "image-11.jpg",
+      "image_alt": "Sistema de alumbrado de un vehículo",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P11.jpg",
+      "answers": [
+        {
+          "text": "Sí, porque circular con una iluminación deficiente incrementa la fatiga visual del conductor y el riesgo de accidente.",
+          "correct": true
+        },
+        {
+          "text": "Sí, por lo que es obligatorio realizar revisiones mensuales.",
+          "correct": false
+        },
+        {
+          "text": "No, solamente cuando tenga que someterse a la inspección técnica reglamentaria.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Si por circunstancias especialmente graves un conductor traslada en su vehículo particular a una persona enferma, ¿cómo advertirá de su presencia?",
+      "image": "image-12.jpg",
+      "image_alt": "Asistencia a víctima",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P12.jpg",
+      "answers": [
+        {
+          "text": "Agitando el brazo de arriba abajo con movimientos cortos y rápidos.",
+          "correct": false
+        },
+        {
+          "text": "Instalando en el techo de su vehículo una señal luminosa especial.",
+          "correct": false
+        },
+        {
+          "text": "Haciendo sonar el claxon y conectando la luz de emergencia.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Si hay charcos de agua en la calzada…",
+      "image": "image-13.jpg",
+      "image_alt": "Agua en la calzada",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P13.jpg",
+      "answers": [
+        {
+          "text": "No es aconsejable tomar ninguna precaución.",
+          "correct": false
+        },
+        {
+          "text": "Debe moderar la velocidad.",
+          "correct": true
+        },
+        {
+          "text": "Debe acelerar para atravesarlos lo antes posible.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "¿Qué indica esta señal?",
+      "image": "image-14.jpg",
+      "image_alt": "Señal de tráfico",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P14.jpg",
+      "answers": [
+        {
+          "text": "Que hay que circular con precaución por la proximidad a un puente.",
+          "correct": false
+        },
+        {
+          "text": "Que hay un control de altura o gálibo.",
+          "correct": false
+        },
+        {
+          "text": "Que se circula por una autopista.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Un ciclomotor ocupado por dos personas, ¿puede utilizar normalmente un carril VAO?",
+      "image": "image-15.jpg",
+      "image_alt": "Carril Bus/VAO",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-249/Test-249-P15.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "text": "Sí, porque van dos personas.",
+          "correct": false
+        },
+        {
+          "text": "Sí, si circula por el arcén.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "number": 247,
+  "title": "Julio 2018",
+  "url": "https://revista.dgt.es/es/test/Test-num-247.shtml",
+  "scraped_at": "2026-11-08T17:18:23Z",
+  "questions": [
+    {
+      "number": 1,
+      "title": "Si debido a una emergencia, un conductor se ve obligado a inmovilizar su vehículo en una autopista, ¿puede hacerlo en la mediana?",
+      "image": "image-1.jpg",
+      "image_alt": "Autopista",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P1-iluminacion-250x226.jpg",
+      "answers": [
+        {
+          "text": "No, en ningún caso se debe dejar inmovilizado el vehículo en la mediana.",
+          "correct": false
+        },
+        {
+          "text": "Solo si fuera preciso y de forma excepcional para no obstaculizar la circulación.",
+          "correct": true
+        },
+        {
+          "text": "No; siempre se debe dejar inmovilizado el vehículo en el arcén derecho",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "¿Qué puede aumentar la distancia de frenado?",
+      "image": "image-2.jpg",
+      "image_alt": "Frenazo en retención",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P2-250x226.jpg",
+      "answers": [
+        {
+          "text": "Únicamente la velocidad.",
+          "correct": false
+        },
+        {
+          "text": "Que el vehículo lleve frenos de disco.",
+          "correct": false
+        },
+        {
+          "text": "Que haya nieve o hielo en la calzada.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "En un automóvil, ¿cuál de los siguientes elementos reduce el riesgo de lesiones de cuello en una colisión?",
+      "image": "image-3.jpg",
+      "image_alt": "Cinturón de seguridad y reposacabezas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P3-250x226.jpg",
+      "answers": [
+        {
+          "text": "Los frenos ABS.",
+          "correct": false
+        },
+        {
+          "text": "El reposacabezas, ajustado de forma apropiada.",
+          "correct": true
+        },
+        {
+          "text": "El cinturón de seguridad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Si los frenos se mojan...",
+      "image": "image-4.jpg",
+      "image_alt": "Vehículo pasando sobre un charco",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P4-250x226.jpg",
+      "answers": [
+        {
+          "text": "Pueden dejar de frenar, perdiendo temporalmente su eficacia.",
+          "correct": true
+        },
+        {
+          "text": "Se estropean y deben cambiarse las zapatas o pastillas.",
+          "correct": false
+        },
+        {
+          "text": "Se frena en menos espacio.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "En un accidente entre dos vehículos, ¿qué tipo de daños cubre el seguro de responsabilidad civil de suscripción obligatoria?",
+      "image": "image-5.jpg",
+      "image_alt": "Seguro obligatorio",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P5-250x226.jpg",
+      "answers": [
+        {
+          "text": "Solamente los daños materiales.",
+          "correct": false
+        },
+        {
+          "text": "Los daños personales y los materiales del vehículo no causante del accidente.",
+          "correct": true
+        },
+        {
+          "text": "Solamente los daños personales.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "En las isletas de canalización del tráfico situadas en la calzada, ¿se puede parar o estacionar?",
+      "image": "image-6.jpg",
+      "image_alt": "Isleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P6-250x226.jpg",
+      "answers": [
+        {
+          "text": "Se puede parar.",
+          "correct": false
+        },
+        {
+          "text": "Se puede estacionar.",
+          "correct": false
+        },
+        {
+          "text": "No se puede parar ni estacionar.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Los vehículos prioritarios, ¿tienen prioridad de paso sobre el resto de los usuarios de la vía?",
+      "image": "image-7.jpg",
+      "image_alt": "Ambulancia",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P7-IMG_0116-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, siempre.",
+          "correct": false
+        },
+        {
+          "text": "No, nunca.",
+          "correct": false
+        },
+        {
+          "text": "Solo cuando circulen en servicio de urgencia.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Las malas condiciones meteorológicas, como lluvia, viento o hielo, ¿aumentan la probabilidad de sufrir un accidente con una motocicleta?",
+      "image": "image-8.jpg",
+      "image_alt": "Circulando en motocicleta",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P8-250x226.jpg",
+      "answers": [
+        {
+          "text": "No; el mal tiempo no influye en la conducción de motocicletas.",
+          "correct": false
+        },
+        {
+          "text": "Sí; es más probable que el motorista se caiga si hace movimientos bruscos.",
+          "correct": true
+        },
+        {
+          "text": "Sí, pero solo si el conductor no lleva el equipamiento adecuado.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Como norma general, en vías urbanas, ¿cual es la velocidad máxima permitida para motocicletas?",
+      "image": "image-9.jpg",
+      "image_alt": "Velocidad y motocicletas",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P9-250x226.jpg",
+      "answers": [
+        {
+          "text": "50 km/h.",
+          "correct": true
+        },
+        {
+          "text": "60 km/h.",
+          "correct": false
+        },
+        {
+          "text": "45 km/h.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "El medio ambiente, ¿se ve afectado por los accidentes de tráfico?",
+      "image": "image-10.jpg",
+      "image_alt": "Accidente de tráfico en carretera",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P10-250x226.jpg",
+      "answers": [
+        {
+          "text": "No.",
+          "correct": false
+        },
+        {
+          "text": "Sí.",
+          "correct": true
+        },
+        {
+          "text": "Únicamente en vía interurbana.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Las altas temperaturas pueden suponer un riesgo para la seguridad durante la conducción. ¿Debe circular adoptando medidas preventivas?",
+      "image": "image-11.jpg",
+      "image_alt": "Conducción con alta temperatura",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/11-250x226.jpg",
+      "answers": [
+        {
+          "text": "Sí, por lo que debe conducir durante la noche, ya que la temperatura al ser inferior permite al conductor un tiempo de reacción mayor.",
+          "correct": false
+        },
+        {
+          "text": "Sí, el conductor debe extremar las precauciones y realizar los descansos y paradas recomendadods, para evitar la fatiga y el sueño.",
+          "correct": true
+        },
+        {
+          "text": "No, siempre que en el interior del vehículo no se alcancen temperaturas superiores a 20 grados.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Conducir bajo los efectos de algunas drogas puede producir en el conductor...",
+      "image": "image-12.jpg",
+      "image_alt": "Drogas y conducción",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P11-drogas250x226.jpg",
+      "answers": [
+        {
+          "text": "Una percepción mayor del campo visual.",
+          "correct": false
+        },
+        {
+          "text": "Un nivel de alerta mayor.",
+          "correct": false
+        },
+        {
+          "text": "Ilusiones ópticas.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Muchos atropellos a peatones se producen cuando los vehículos...",
+      "image": "image-13.jpg",
+      "image_alt": "Atropellos a peatones",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P12-COCHERA-250x226-.jpg",
+      "answers": [
+        {
+          "text": "Circulan marcha atrás porque el conductor no ha visto al peatón.",
+          "correct": true
+        },
+        {
+          "text": "Se disponen a entrar en un garaje.",
+          "correct": false
+        },
+        {
+          "text": "Estacionan en la acera.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Fumar, mientras conduce, puede provocar...",
+      "image": "image-14.jpg",
+      "image_alt": "Fumando mientras se conduce",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/P13-250x226.jpg",
+      "answers": [
+        {
+          "text": "Distracciones y problemas de visión a causa del humo",
+          "correct": true
+        },
+        {
+          "text": "Un aumento de la capacidad de atención.",
+          "correct": false
+        },
+        {
+          "text": "Somnolencia.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Como norma general se prohíbe cambiar el sentido de la marcha...",
+      "image": "image-15.jpg",
+      "image_alt": "Cambiando el sentido",
+      "image_source": "https://revista.dgt.es/Galerias/test/N-247/Pregunta-15-250x226.jpg",
+      "answers": [
+        {
+          "text": "En las calzadas con prioridad.",
+          "correct": false
+        },
+        {
+          "text": "En las plazas de circulación giratoria.",
+          "correct": false
+        },
+        {
+          "text": "En los tramos de vía en los que esté prohibid adelantar.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
