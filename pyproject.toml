@@ -1,0 +1,39 @@
+[project]
+name = "dgt-scraper"
+version = "0.1.0"
+description = "Scraper for the monthly DGT traffic-rules test published at revista.dgt.es"
+readme = "README.md"
+authors = [
+    { name = "algarfer", email = "alvaro@algarferx.me" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "lxml>=6.1.3",
+]
+
+[project.scripts]
+dgt-scraper = "dgt_scraper.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.13.4,<0.14.0"]
+build-backend = "uv_build"
+
+[tool.mypy]
+strict = true
+files = ["src", "tests"]
+# lxml's own annotations are loose; lxml-stubs covers what we use.
+warn_unreachable = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "network: test reaches out to revista.dgt.es (deselect with -m 'not network')",
+]
+
+[dependency-groups]
+dev = [
+    "lxml-stubs>=0.5.1",
+    "mypy>=2.4.1",
+    "pytest>=9.2.0",
+]
