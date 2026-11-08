@@ -1,4 +1,4 @@
-# dgt-exam-scrapper
+# dgt-exam-scraper
 
 Scrapes the monthly traffic-rules test that the Spanish DGT publishes in its magazine at
 [revista.dgt.es](https://revista.dgt.es/) and turns it into static JSON plus local images.
