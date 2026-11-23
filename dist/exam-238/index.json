@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/algarfer/dgt-exam-scraper/master/schemas/exam.schema.json",
   "number": 238,
   "title": "Diciembre 2016",
   "url": "https://revista.dgt.es/es/test/Test-num-238.shtml",

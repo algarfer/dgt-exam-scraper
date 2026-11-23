@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/algarfer/dgt-exam-scraper/master/schemas/manifest.schema.json",
   "generated_at": "2026-11-08T17:18:29Z",
   "source": "https://revista.dgt.es/",
   "exams": [
