@@ -25,6 +25,7 @@ dist/
 
 ```json
 {
+  "$schema": "https://raw.githubusercontent.com/algarfer/dgt-exam-scraper/master/schemas/manifest.schema.json",
   "generated_at": "2026-11-08T17:09:30Z",
   "source": "https://revista.dgt.es/",
   "exams": [
@@ -38,6 +39,7 @@ dist/
 
 ```json
 {
+  "$schema": "https://raw.githubusercontent.com/algarfer/dgt-exam-scraper/master/schemas/exam.schema.json",
   "number": 279,
   "title": "Octubre 2026",
   "url": "https://revista.dgt.es/es/test/Test-num-279.shtml",
