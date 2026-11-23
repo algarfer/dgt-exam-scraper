@@ -33,7 +33,9 @@ markers = [
 
 [dependency-groups]
 dev = [
+    "jsonschema>=4.26.0",
     "lxml-stubs>=0.5.1",
     "mypy>=2.4.1",
     "pytest>=9.2.0",
+    "types-jsonschema>=4.26.0.20261006",
 ]
