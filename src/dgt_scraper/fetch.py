@@ -19,7 +19,7 @@ _log: Final = logging.getLogger(__name__)
 BASE_URL: Final = "https://revista.dgt.es"
 INDEX_PATH: Final = "/es/test/index.shtml"
 USER_AGENT: Final = (
-    "dgt-scraper/0.1 (+https://github.com/algarfer/dgt-exam-scrapper) python-httpx"
+    "dgt-scraper/0.1 (+https://github.com/algarfer/dgt-exam-scraper) python-httpx"
 )
 
 _TIMEOUT: Final = httpx.Timeout(30.0)
