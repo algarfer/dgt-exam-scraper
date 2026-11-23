@@ -3,9 +3,12 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import TypedDict
+from typing import Final, TypedDict
 
 __all__ = [
+    "EXAM_SCHEMA_URL",
+    "MANIFEST_SCHEMA_URL",
+    "SCHEMA_BASE_URL",
     "Answer",
     "AnswerJson",
     "Exam",
@@ -15,6 +18,12 @@ __all__ = [
     "Question",
     "QuestionJson",
 ]
+
+SCHEMA_BASE_URL: Final = (
+    "https://raw.githubusercontent.com/algarfer/dgt-exam-scraper/master/schemas"
+)
+EXAM_SCHEMA_URL: Final = f"{SCHEMA_BASE_URL}/exam.schema.json"
+MANIFEST_SCHEMA_URL: Final = f"{SCHEMA_BASE_URL}/manifest.schema.json"
 
 
 @dataclass(frozen=True, slots=True)
@@ -54,12 +63,18 @@ class QuestionJson(TypedDict):
     answers: list[AnswerJson]
 
 
-class ExamJson(TypedDict):
-    number: int
-    title: str
-    url: str
-    scraped_at: str
-    questions: list[QuestionJson]
+# Functional syntax: "$schema" is not a valid Python identifier.
+ExamJson = TypedDict(
+    "ExamJson",
+    {
+        "$schema": str,
+        "number": int,
+        "title": str,
+        "url": str,
+        "scraped_at": str,
+        "questions": list[QuestionJson],
+    },
+)
 
 
 class ManifestEntryJson(TypedDict):
@@ -68,7 +83,12 @@ class ManifestEntryJson(TypedDict):
     path: str
 
 
-class ManifestJson(TypedDict):
-    generated_at: str
-    source: str
-    exams: list[ManifestEntryJson]
+ManifestJson = TypedDict(
+    "ManifestJson",
+    {
+        "$schema": str,
+        "generated_at": str,
+        "source": str,
+        "exams": list[ManifestEntryJson],
+    },
+)

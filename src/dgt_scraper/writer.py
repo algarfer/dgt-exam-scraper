@@ -11,6 +11,8 @@ from urllib.parse import urlparse
 
 from dgt_scraper.fetch import BASE_URL, Fetcher
 from dgt_scraper.models import (
+    EXAM_SCHEMA_URL,
+    MANIFEST_SCHEMA_URL,
     AnswerJson,
     Exam,
     ExamJson,
@@ -107,6 +109,7 @@ async def write_exam(exam: Exam, out_dir: Path, fetcher: Fetcher) -> Path:
         )
 
     payload: ExamJson = {
+        "$schema": EXAM_SCHEMA_URL,
         "number": exam.number,
         "title": exam.title,
         "url": exam.url,
@@ -153,6 +156,7 @@ def write_manifest(out_dir: Path) -> ManifestJson:
         )
 
     manifest: ManifestJson = {
+        "$schema": MANIFEST_SCHEMA_URL,
         "generated_at": _now(),
         "source": f"{BASE_URL}/",
         "exams": entries,
