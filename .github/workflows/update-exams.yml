@@ -5,9 +5,6 @@ on:
     - cron: "0 5 * * 1"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 concurrency:
   group: update-exams
   cancel-in-progress: false
@@ -16,6 +13,8 @@ jobs:
   canary:
     name: Check upstream markup
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v5
 
@@ -30,13 +29,15 @@ jobs:
       - name: Typecheck
         run: uv run mypy
 
-      - name: Re-parse a random committed exam
+      - name: Re-parse a random committed exam and validate dist against the schemas
         run: uv run pytest -v
 
   update:
     name: Scrape newly published exams
     runs-on: ubuntu-latest
     needs: canary
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v5
 
@@ -50,6 +51,10 @@ jobs:
 
       - name: Look for new exams
         run: uv run dgt-scraper --verbose latest
+
+      # Nothing is committed until the freshly written data validates.
+      - name: Validate the scraped data against the schemas
+        run: uv run pytest -m "not network" -v
 
       - name: Commit new exams
         run: |
