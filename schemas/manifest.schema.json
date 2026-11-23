@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/algarfer/dgt-exam-scraper/master/schemas/manifest.schema.json",
+  "title": "Exam manifest",
+  "description": "Index of every scraped exam",
+  "type": "object",
+  "required": ["generated_at", "source", "exams"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri"
+    },
+    "generated_at": {
+      "description": "When was the manifest generated",
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "source": {
+      "description": "Site the exams were scraped from",
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "exams": {
+      "description": "Available exams",
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "$ref": "#/$defs/entry" }
+    }
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "required": ["number", "title", "path"],
+      "additionalProperties": false,
+      "properties": {
+        "number": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "path": {
+          "description": "JSON Exam, relative to this manifest.",
+          "type": "string",
+          "pattern": "^exam-\\d+/index\\.json$"
+        }
+      }
+    }
+  }
+}

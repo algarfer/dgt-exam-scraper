@@ -1,0 +1,134 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/algarfer/dgt-exam-scraper/master/schemas/exam.schema.json",
+  "title": "A driving license exam",
+  "description": "An exam with questions, answers and some metadata",
+  "type": "object",
+  "required": ["number", "title", "url", "scraped_at", "questions"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri"
+    },
+    "number": {
+      "description": "Exam number",
+      "type": "integer",
+      "minimum": 1
+    },
+    "title": {
+      "description": "Human-readable exam title",
+      "type": "string",
+      "minLength": 1
+    },
+    "url": {
+      "description": "Page this exam was scraped from",
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "scraped_at": {
+      "description": "When was the exam scraped",
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "questions": {
+      "description": "Exam questions",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/question" }
+    }
+  },
+  "$defs": {
+    "question": {
+      "type": "object",
+      "required": ["number", "title", "answers"],
+      "additionalProperties": false,
+      "properties": {
+        "number": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "title": {
+          "description": "The question itself",
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^(?!\\d+\\s*[.)–-]\\s)"
+        },
+        "image": {
+          "description": "Path to the question image",
+          "type": ["string", "null"],
+          "pattern": "^image-\\d+\\.(jpg|jpeg|png|gif|webp|svg)$"
+        },
+        "image_alt": {
+          "type": ["string", "null"],
+          "minLength": 1
+        },
+        "image_source": {
+          "description": "Where the image came from",
+          "type": ["string", "null"],
+          "format": "uri",
+          "pattern": "^https?://"
+        },
+        "feedback": {
+          "description": "Optional explanation of the correct answer",
+          "type": "string",
+          "minLength": 1
+        },
+        "answers": {
+          "description": "Question answers, with exactly one marked correct.",
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 3,
+          "items": { "$ref": "#/$defs/answer" },
+          "contains": {
+            "type": "object",
+            "required": ["correct"],
+            "properties": { "correct": { "const": true } }
+          },
+          "minContains": 1,
+          "maxContains": 1
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "required": ["image"],
+            "properties": { "image": { "type": "string" } }
+          },
+          "then": {
+            "required": ["image_source"],
+            "properties": { "image_source": { "type": "string" } }
+          }
+        },
+        {
+          "if": {
+            "required": ["image"],
+            "properties": { "image": { "type": "null" } }
+          },
+          "then": {
+            "properties": { "image_alt": { "type": "null" } }
+          }
+        }
+      ]
+    },
+    "answer": {
+      "description": "An answer to a question",
+      "type": "object",
+      "required": ["text"],
+      "additionalProperties": false,
+      "properties": {
+        "text": {
+          "description": "Text of the answer",
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^(?![A-Za-z]\\s*[.)]\\s)"
+        },
+        "correct": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}
